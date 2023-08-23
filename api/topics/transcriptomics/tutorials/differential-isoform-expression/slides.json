@@ -55,11 +55,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/differential-isoform-expression/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/differential-isoform-expression/workflows/main_workflow.ga",
       "path": "topics/transcriptomics/tutorials/differential-isoform-expression/workflows/main_workflow.ga",
       "wfid": "transcriptomics-differential-isoform-expression",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-differential-isoform-expression/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-differential-isoform-expression/versions/main_workflow",
       "license": "CC-BY-SA-4.0",
       "creators": [
         {
@@ -71,7 +71,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/differential-isoform-expression/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/differential-isoform-expression/tutorial.json",
   "tools": [
     "CONVERTER_fasta_to_tabular",
     "Cut1",

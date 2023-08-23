@@ -29,8 +29,8 @@
       "email": "assuntad23@gmail.com",
       "joined": "2021-05",
       "id": "assuntad23",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/assuntad23.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/assuntad23/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/assuntad23.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/assuntad23/"
     },
     {
       "name": "John Davis",
@@ -38,8 +38,8 @@
       "joined": "2019-06",
       "orcid": "0000-0002-1363-1245",
       "id": "jdavcs",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jdavcs.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jdavcs/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jdavcs.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jdavcs/"
     },
     {
       "name": "John Chilton",
@@ -49,8 +49,8 @@
       "matrix": "jmchilton:matrix.org",
       "orcid": "0000-0002-6794-0756",
       "id": "jmchilton",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jmchilton.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jmchilton/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jmchilton.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jmchilton/"
     }
   ],
   "requirements": [
@@ -90,7 +90,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/debugging/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/debugging/tutorial.json",
   "tools": [
 
   ],

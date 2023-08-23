@@ -34,16 +34,16 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Anton Nekrutenko",
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     }
   ],
   "subtopic": "histories",
@@ -62,7 +62,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/search/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/search/tutorial.json",
   "tools": [
 
   ],

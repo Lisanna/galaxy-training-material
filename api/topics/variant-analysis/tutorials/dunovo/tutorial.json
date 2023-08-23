@@ -23,16 +23,16 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Nick Stoler",
       "twitter": "NickStoler",
       "joined": "2018-07",
       "id": "NickSto",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/NickSto.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/NickSto/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/NickSto.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/NickSto/"
     }
   ],
   "short_id": "T00310",
@@ -54,11 +54,11 @@
     {
       "workflow": "dunovo.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dunovo/workflows/dunovo.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/dunovo/workflows/dunovo.ga",
       "path": "topics/variant-analysis/tutorials/dunovo/workflows/dunovo.ga",
       "wfid": "variant-analysis-dunovo",
       "wfname": "dunovo",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-dunovo/versions/dunovo",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-dunovo/versions/dunovo",
       "license": null,
       "creators": [
 
@@ -68,11 +68,11 @@
     {
       "workflow": "variant-calling.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dunovo/workflows/variant-calling.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/dunovo/workflows/variant-calling.ga",
       "path": "topics/variant-analysis/tutorials/dunovo/workflows/variant-calling.ga",
       "wfid": "variant-analysis-dunovo",
       "wfname": "variant-calling",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-dunovo/versions/variant-calling",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-dunovo/versions/variant-calling",
       "license": null,
       "creators": [
 
@@ -80,7 +80,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/dunovo/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/dunovo/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/blankenberg/naive_variant_caller/naive_variant_caller/0.0.4",

@@ -31,15 +31,15 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
     },
     {
       "name": "Maren Stillger",
       "joined": "2020-10",
       "id": "MarenStillger",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/MarenStillger.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarenStillger/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarenStillger.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarenStillger/"
     }
   ],
   "short_id": "T00198",
@@ -61,11 +61,11 @@
     {
       "workflow": "wf_MSI_distribution.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
       "path": "topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
       "wfid": "metabolomics-msi-analyte-distribution",
       "wfname": "wf_msi_distribution",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-analyte-distribution/versions/wf_msi_distribution",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-analyte-distribution/versions/wf_msi_distribution",
       "license": null,
       "creators": [
 
@@ -73,7 +73,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_data_exporter/cardinal_data_exporter/2.6.0.0",

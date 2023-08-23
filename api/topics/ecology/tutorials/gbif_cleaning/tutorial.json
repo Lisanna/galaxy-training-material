@@ -31,8 +31,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
     },
     {
       "name": "Simon Benateau",
@@ -41,8 +41,8 @@
       "joined": "2019-03",
       "elixir_node": "fr",
       "id": "sbenateau",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/sbenateau.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/sbenateau/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/sbenateau.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/sbenateau/"
     }
   ],
   "short_id": "T00129",
@@ -64,11 +64,11 @@
     {
       "workflow": "Galaxy-Workflow-GBIF_data_Quality_check_and_filtering_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/gbif_cleaning/workflows/Galaxy-Workflow-GBIF_data_Quality_check_and_filtering_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/gbif_cleaning/workflows/Galaxy-Workflow-GBIF_data_Quality_check_and_filtering_workflow.ga",
       "path": "topics/ecology/tutorials/gbif_cleaning/workflows/Galaxy-Workflow-GBIF_data_Quality_check_and_filtering_workflow.ga",
       "wfid": "ecology-gbif_cleaning",
       "wfname": "galaxy-workflow-gbif_data_quality_check_and_filtering_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-gbif_cleaning/versions/galaxy-workflow-gbif_data_quality_check_and_filtering_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-gbif_cleaning/versions/galaxy-workflow-gbif_data_quality_check_and_filtering_workflow",
       "license": null,
       "creators": [
 
@@ -76,7 +76,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/gbif_cleaning/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/gbif_cleaning/tutorial.json",
   "tools": [
     "Count1",
     "Filter1",

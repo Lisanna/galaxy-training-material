@@ -35,8 +35,8 @@
       "name": "Soumya Jha",
       "joined": "2022-06",
       "id": "Quickbeasts51429",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/Quickbeasts51429.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/Quickbeasts51429/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/Quickbeasts51429.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/Quickbeasts51429/"
     }
   ],
   "short_id": "T00136",
@@ -58,11 +58,11 @@
     {
       "workflow": "main-workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/x-array-map-plot/workflows/main-workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/x-array-map-plot/workflows/main-workflow.ga",
       "path": "topics/ecology/tutorials/x-array-map-plot/workflows/main-workflow.ga",
       "wfid": "ecology-x-array-map-plot",
       "wfname": "main-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-x-array-map-plot/versions/main-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-x-array-map-plot/versions/main-workflow",
       "license": "MIT",
       "creators": [
         {
@@ -74,7 +74,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/x-array-map-plot/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/x-array-map-plot/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/graphicsmagick_image_montage/graphicsmagick_image_montage/1.3.31+galaxy1",
     "toolshed.g2.bx.psu.edu/repos/climate/cdo_operations/cdo_operations/2.0.0+galaxy0",

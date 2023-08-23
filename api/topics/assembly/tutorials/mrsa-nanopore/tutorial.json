@@ -80,11 +80,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
       "path": "topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
       "wfid": "assembly-mrsa-nanopore",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-nanopore/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-nanopore/versions/main_workflow",
       "license": "AGPL-3.0-or-later",
       "creators": [
         {
@@ -108,7 +108,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
   "tools": [
     "CONVERTER_bz2_to_uncompressed",
     "Grep1",
@@ -248,8 +248,8 @@
       "name": "Bazante Sanders",
       "joined": "2020-12",
       "id": "bazante1",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
     },
     {
       "name": "Helena Rasche",
@@ -268,15 +268,15 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Bazante Sanders",
       "joined": "2020-12",
       "id": "bazante1",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -296,8 +296,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Miaomiao Zhou",
@@ -305,17 +305,17 @@
       "joined": "2020-12",
       "orcid": "0000-0003-4426-1758",
       "id": "miaomiaozhou88",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/miaomiaozhou88.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/miaomiaozhou88/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/miaomiaozhou88.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/miaomiaozhou88/"
     },
     {
       "name": "Avans Hogeschool",
       "joined": "2020-11",
       "funder": true,
       "funding_statement": "A number of our employees contribute directly to the Galaxy Training Network and seek to make our higher education learning materials more accessible to a wider audience through the GTN platform. <a href=\"https://avans.nl/\">avans.nl</a>",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/avans-atgm.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avans-atgm.json",
       "id": "avans-atgm",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avans-atgm/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avans-atgm/"
     }
   ]
 }

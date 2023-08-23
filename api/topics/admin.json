@@ -65,8 +65,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Nate Coraor",
@@ -76,8 +76,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
     },
     {
       "name": "Simon Gladman",
@@ -87,8 +87,8 @@
       "orcid": "0000-0002-6100-4385",
       "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
       "id": "slugger70",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
     },
     {
       "name": "Björn Grüning",
@@ -102,8 +102,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Martin Čech",
@@ -121,8 +121,8 @@
       "fediverse_flavor": "mastodon",
       "joined": "2017-09",
       "id": "martenson",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
     }
   ],
   "gitter": "galaxyproject/admins",
@@ -179,7 +179,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa/0.7.17.5",
         "toolshed.g2.bx.psu.edu/repos/devteam/data_manager_bwa_mem_index_builder/bwa_mem_index_builder_data_manager/0.0.5",
@@ -244,15 +244,15 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Enis Afgan",
           "joined": "2018-06",
           "id": "afgane",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/afgane.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/afgane/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/afgane.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/afgane/"
         },
         {
           "name": "Helena Rasche",
@@ -271,8 +271,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Nate Coraor",
@@ -282,13 +282,13 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reference-genomes/tutorial.json"
       }
     },
     {
@@ -332,8 +332,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Björn Grüning",
@@ -347,8 +347,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         }
       ],
       "short_id": "S00011",
@@ -366,7 +366,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/galaxy-docker/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/galaxy-docker/tutorial.json",
       "tools": [
 
       ],
@@ -415,8 +415,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/galaxy-docker/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/galaxy-docker/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/galaxy-docker/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/galaxy-docker/slides.json"
       }
     },
     {
@@ -473,7 +473,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/celery/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/celery/tutorial.json",
       "tools": [
 
       ],
@@ -530,8 +530,8 @@
           "joined": "2022-07",
           "elixir_node": "de",
           "id": "mira-miracoli",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
         },
         {
           "name": "Helena Rasche",
@@ -550,13 +550,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/celery/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/celery/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/celery/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/celery/tutorial.json"
       }
     },
     {
@@ -581,8 +581,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -602,8 +602,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         }
       ],
       "short_id": "S00009",
@@ -621,7 +621,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/empathy/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/empathy/tutorial.json",
       "tools": [
 
       ],
@@ -670,8 +670,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/empathy/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/empathy/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/empathy/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/empathy/slides.json"
       }
     },
     {
@@ -705,8 +705,8 @@
           "name": "Valentin Marcon",
           "joined": "2017-09",
           "id": "valentinmarcon",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/valentinmarcon.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/valentinmarcon/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/valentinmarcon.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/valentinmarcon/"
         },
         {
           "name": "Nate Coraor",
@@ -716,8 +716,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -731,8 +731,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Helena Rasche",
@@ -751,8 +751,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "short_id": "S00015",
@@ -770,7 +770,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/introduction/tutorial.json",
       "tools": [
 
       ],
@@ -819,8 +819,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/introduction/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/introduction/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/introduction/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/introduction/slides.json"
       }
     },
     {
@@ -836,8 +836,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Simon Gladman",
@@ -847,8 +847,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         }
       ],
       "subtopic": "deprecated",
@@ -867,7 +867,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/uwsgi/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/uwsgi/tutorial.json",
       "tools": [
 
       ],
@@ -916,8 +916,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/uwsgi/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/uwsgi/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/uwsgi/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/uwsgi/slides.json"
       }
     },
     {
@@ -933,8 +933,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         }
       ],
       "subtopic": "cloud",
@@ -953,7 +953,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cloudbursting/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cloudbursting/tutorial.json",
       "tools": [
 
       ],
@@ -1002,8 +1002,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cloudbursting/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cloudbursting/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cloudbursting/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cloudbursting/slides.json"
       }
     },
     {
@@ -1041,8 +1041,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -1056,8 +1056,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Helena Rasche",
@@ -1076,8 +1076,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "tags": [
@@ -1120,7 +1120,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json",
       "tools": [
 
       ],
@@ -1169,8 +1169,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/connect-to-compute-cluster/tutorial.json"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/users-groups-quotas/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/users-groups-quotas/tutorial.json",
       "tools": [
 
       ],
@@ -1303,8 +1303,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -1318,8 +1318,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Helena Rasche",
@@ -1338,13 +1338,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/users-groups-quotas/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/users-groups-quotas/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/users-groups-quotas/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/users-groups-quotas/slides.json"
       }
     },
     {
@@ -1385,8 +1385,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -1406,8 +1406,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         }
       ],
       "subtopic": "core",
@@ -1494,7 +1494,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible/tutorial.json",
       "tools": [
 
       ],
@@ -1543,8 +1543,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible/tutorial.json"
       }
     },
     {
@@ -1568,8 +1568,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         },
         {
           "name": "Nate Coraor",
@@ -1579,8 +1579,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         }
       ],
       "subtopic": "maintenance",
@@ -1599,7 +1599,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/troubleshooting/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/troubleshooting/tutorial.json",
       "tools": [
 
       ],
@@ -1648,8 +1648,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/troubleshooting/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/troubleshooting/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/troubleshooting/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/troubleshooting/slides.json"
       }
     },
     {
@@ -1676,8 +1676,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Helena Rasche",
@@ -1696,8 +1696,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Gianmauro Cuccuru",
@@ -1705,8 +1705,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5335-545X",
           "id": "gmauro",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gmauro.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gmauro/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gmauro.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gmauro/"
         }
       ],
       "subtopic": "data",
@@ -1739,7 +1739,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/object-store/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/object-store/tutorial.json",
       "tools": [
 
       ],
@@ -1788,8 +1788,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/object-store/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/object-store/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/object-store/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/object-store/tutorial.json"
       }
     },
     {
@@ -1946,7 +1946,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
       "tools": [
 
       ],
@@ -2012,8 +2012,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Nate Coraor",
@@ -2023,8 +2023,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Simon Gladman",
@@ -2034,8 +2034,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -2055,8 +2055,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Nicola Soranzo",
@@ -2066,8 +2066,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "nsoranzo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
         },
         {
           "name": "Gianmauro Cuccuru",
@@ -2075,15 +2075,15 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5335-545X",
           "id": "gmauro",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gmauro.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gmauro/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gmauro.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gmauro/"
         },
         {
           "name": "Marius van den Beek",
           "joined": "2018-06",
           "id": "mvdbeek",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
         },
         {
           "name": "Martin Čech",
@@ -2101,8 +2101,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         },
         {
           "name": "John Chilton",
@@ -2112,23 +2112,23 @@
           "matrix": "jmchilton:matrix.org",
           "orcid": "0000-0002-6794-0756",
           "id": "jmchilton",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jmchilton.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jmchilton/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jmchilton.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jmchilton/"
         },
         {
           "name": "Dave B.",
           "joined": "2021-06",
           "id": "davebx",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/davebx.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/davebx/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/davebx.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/davebx/"
         },
         {
           "name": "Gildas Le Corguillé",
           "joined": "2017-09",
           "elixir_node": "fr",
           "id": "lecorguille",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
         },
         {
           "name": "Anthony Bretaudeau",
@@ -2147,8 +2147,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         },
         {
           "name": "Lucille Delisle",
@@ -2163,8 +2163,8 @@
             "lon": 6.56
           },
           "id": "lldelisle",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
         },
         {
           "name": "Mira Kuntz",
@@ -2174,13 +2174,13 @@
           "joined": "2022-07",
           "elixir_node": "de",
           "id": "mira-miracoli",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json"
       }
     },
     {
@@ -2254,7 +2254,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json",
       "tools": [
 
       ],
@@ -2320,8 +2320,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Lucille Delisle",
@@ -2336,8 +2336,8 @@
             "lon": 6.56
           },
           "id": "lldelisle",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
         },
         {
           "name": "Nate Coraor",
@@ -2347,13 +2347,13 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/backup-cleanup/tutorial.json"
       }
     },
     {
@@ -2369,8 +2369,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -2384,8 +2384,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Simon Gladman",
@@ -2395,8 +2395,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -2415,8 +2415,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "monitoring",
@@ -2435,7 +2435,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/general-monitoring/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/general-monitoring/tutorial.json",
       "tools": [
 
       ],
@@ -2484,8 +2484,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/general-monitoring/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/general-monitoring/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/general-monitoring/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/general-monitoring/slides.json"
       }
     },
     {
@@ -2505,8 +2505,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Helena Rasche",
@@ -2525,8 +2525,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Martin Čech",
@@ -2544,8 +2544,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         }
       ],
       "subtopic": "deprecated",
@@ -2564,7 +2564,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/tutorial.json",
       "tools": [
 
       ],
@@ -2613,8 +2613,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/advanced-galaxy-customisation/slides.json"
       }
     },
     {
@@ -2653,8 +2653,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "monitoring",
@@ -2711,7 +2711,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/gxadmin/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/gxadmin/tutorial.json",
       "tools": [
 
       ],
@@ -2760,8 +2760,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/gxadmin/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/gxadmin/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/gxadmin/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/gxadmin/tutorial.json"
       }
     },
     {
@@ -2792,8 +2792,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Nicola Soranzo",
@@ -2803,8 +2803,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "nsoranzo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
         },
         {
           "name": "Helena Rasche",
@@ -2823,8 +2823,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "features",
@@ -2856,7 +2856,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/external-auth/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/external-auth/tutorial.json",
       "tools": [
 
       ],
@@ -2905,8 +2905,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/external-auth/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/external-auth/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/external-auth/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/external-auth/tutorial.json"
       }
     },
     {
@@ -2931,8 +2931,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         },
         {
           "name": "Nicola Soranzo",
@@ -2942,8 +2942,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "nsoranzo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
         },
         {
           "name": "Nate Coraor",
@@ -2953,8 +2953,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Helena Rasche",
@@ -2973,8 +2973,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "short_id": "S00008",
@@ -2992,7 +2992,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database/tutorial.json",
       "tools": [
 
       ],
@@ -3040,8 +3040,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database/slides.json"
       }
     },
     {
@@ -3080,8 +3080,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -3101,8 +3101,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         }
       ],
       "subtopic": "data",
@@ -3167,7 +3167,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/data-library/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/data-library/tutorial.json",
       "tools": [
 
       ],
@@ -3216,8 +3216,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/data-library/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/data-library/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/data-library/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/data-library/tutorial.json"
       }
     },
     {
@@ -3267,8 +3267,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "requirements": [
@@ -3366,7 +3366,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/monitoring/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/monitoring/tutorial.json",
       "tools": [
 
       ],
@@ -3415,8 +3415,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/monitoring/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/monitoring/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/monitoring/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/monitoring/tutorial.json"
       }
     },
     {
@@ -3451,8 +3451,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Simon Gladman",
@@ -3462,15 +3462,15 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Marius van den Beek",
           "joined": "2018-06",
           "id": "mvdbeek",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
         },
         {
           "name": "Helena Rasche",
@@ -3489,8 +3489,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Gianmauro Cuccuru",
@@ -3498,8 +3498,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5335-545X",
           "id": "gmauro",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gmauro.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gmauro/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gmauro.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gmauro/"
         },
         {
           "name": "Mira Kuntz",
@@ -3509,8 +3509,8 @@
           "joined": "2022-07",
           "elixir_node": "de",
           "id": "mira-miracoli",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
         }
       ],
       "subtopic": "jobs",
@@ -3629,7 +3629,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/pulsar/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/pulsar/tutorial.json",
       "tools": [
 
       ],
@@ -3678,8 +3678,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/pulsar/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/pulsar/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/pulsar/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/pulsar/tutorial.json"
       }
     },
     {
@@ -3704,8 +3704,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -3724,8 +3724,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "requirements": [
@@ -3828,7 +3828,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs/tutorial.json",
       "tools": [
 
       ],
@@ -3877,8 +3877,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs/tutorial.json"
       }
     },
     {
@@ -3908,8 +3908,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -3923,8 +3923,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Simon Gladman",
@@ -3934,8 +3934,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -3954,8 +3954,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "short_id": "S00022",
@@ -3973,7 +3973,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stuff/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stuff/tutorial.json",
       "tools": [
 
       ],
@@ -4025,8 +4025,8 @@
         "work-in-progress"
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stuff/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stuff/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stuff/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stuff/slides.json"
       }
     },
     {
@@ -4058,8 +4058,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Simon Gladman",
@@ -4069,8 +4069,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -4089,8 +4089,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Anthony Bretaudeau",
@@ -4109,8 +4109,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         }
       ],
       "tags": [
@@ -4179,7 +4179,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json",
       "tools": [
 
       ],
@@ -4228,8 +4228,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/interactive-tools/tutorial.json"
       }
     },
     {
@@ -4246,8 +4246,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Daniel Blankenberg",
@@ -4255,15 +4255,15 @@
           "orcid": "0000-0002-6833-9049",
           "joined": "2018-07",
           "id": "blankenberg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
         },
         {
           "name": "Abdulrahman Azab",
           "joined": "2019-01",
           "id": "abdulrahmanazab",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abdulrahmanazab.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abdulrahmanazab/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abdulrahmanazab.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abdulrahmanazab/"
         },
         {
           "name": "Martin Čech",
@@ -4281,8 +4281,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         }
       ],
       "subtopic": "maintenance",
@@ -4301,7 +4301,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/production/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/production/tutorial.json",
       "tools": [
 
       ],
@@ -4349,8 +4349,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/production/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/production/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/production/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/production/slides.json"
       }
     },
     {
@@ -4367,8 +4367,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Helena Rasche",
@@ -4387,8 +4387,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "deprecated",
@@ -4407,7 +4407,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/systemd-supervisor/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/systemd-supervisor/tutorial.json",
       "tools": [
 
       ],
@@ -4455,8 +4455,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/systemd-supervisor/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/systemd-supervisor/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/systemd-supervisor/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/systemd-supervisor/slides.json"
       }
     },
     {
@@ -4494,8 +4494,8 @@
           "fediverse_flavor": "mastodon",
           "joined": "2017-09",
           "id": "martenson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
         },
         {
           "name": "Helena Rasche",
@@ -4514,8 +4514,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Nicola Soranzo",
@@ -4525,8 +4525,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "nsoranzo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
         }
       ],
       "subtopic": "features",
@@ -4634,7 +4634,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tool-management/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tool-management/tutorial.json",
       "tools": [
 
       ],
@@ -4683,8 +4683,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tool-management/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tool-management/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tool-management/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tool-management/tutorial.json"
       }
     },
     {
@@ -4746,7 +4746,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/beacon/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/beacon/tutorial.json",
       "tools": [
 
       ],
@@ -4812,8 +4812,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -4833,8 +4833,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Common Infrastructure for National Cohorts in Europe, Canada, and Africa",
@@ -4842,14 +4842,14 @@
           "funder": true,
           "funding_id": "825775",
           "funding_system": "cordis",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/CINECA-Project.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/CINECA-Project.json",
           "id": "CINECA-Project",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/CINECA-Project/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/CINECA-Project/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/beacon/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/beacon/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/beacon/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/beacon/tutorial.json"
       }
     },
     {
@@ -4876,8 +4876,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -4891,8 +4891,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Simon Gladman",
@@ -4902,8 +4902,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -4922,8 +4922,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "monitoring",
@@ -4958,7 +4958,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reports/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reports/tutorial.json",
       "tools": [
 
       ],
@@ -5007,8 +5007,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reports/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/reports/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reports/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/reports/tutorial.json"
       }
     },
     {
@@ -5060,7 +5060,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization/tutorial.json",
       "tools": [
 
       ],
@@ -5115,8 +5115,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-2362-9720",
           "id": "ElectronicBlueberry",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ElectronicBlueberry.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ElectronicBlueberry/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ElectronicBlueberry.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ElectronicBlueberry/"
         },
         {
           "name": "Helena Rasche",
@@ -5135,13 +5135,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization/tutorial.json"
       }
     },
     {
@@ -5178,8 +5178,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -5199,8 +5199,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         }
       ],
       "subtopic": "features",
@@ -5271,7 +5271,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tiaas/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tiaas/tutorial.json",
       "tools": [
 
       ],
@@ -5320,8 +5320,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tiaas/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tiaas/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tiaas/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tiaas/tutorial.json"
       }
     },
     {
@@ -5348,23 +5348,23 @@
           "joined": "2021-01",
           "elixir_node": "no",
           "id": "torfinnnome",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/torfinnnome.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/torfinnnome/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/torfinnnome.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/torfinnnome/"
         },
         {
           "name": "Marius van den Beek",
           "joined": "2018-06",
           "id": "mvdbeek",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
         },
         {
           "name": "Matthias Bernt",
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bernt-matthias",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bernt-matthias.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bernt-matthias/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bernt-matthias.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bernt-matthias/"
         },
         {
           "name": "Helena Rasche",
@@ -5383,8 +5383,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Mira Kuntz",
@@ -5394,8 +5394,8 @@
           "joined": "2022-07",
           "elixir_node": "de",
           "id": "mira-miracoli",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
         }
       ],
       "subtopic": "jobs",
@@ -5472,7 +5472,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
       "tools": [
 
       ],
@@ -5521,8 +5521,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/apptainer/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/apptainer/tutorial.json"
       }
     },
     {
@@ -5585,7 +5585,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json",
       "tools": [
 
       ],
@@ -5651,8 +5651,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Nate Coraor",
@@ -5662,13 +5662,13 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard-headscale/tutorial.json"
       }
     },
     {
@@ -5702,8 +5702,8 @@
             "lon": 6.56
           },
           "id": "lldelisle",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
         }
       ],
       "subtopic": "features",
@@ -5740,7 +5740,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ftp/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ftp/tutorial.json",
       "tools": [
 
       ],
@@ -5789,8 +5789,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ftp/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ftp/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ftp/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ftp/tutorial.json"
       }
     },
     {
@@ -5845,7 +5845,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/sentry/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/sentry/tutorial.json",
       "tools": [
 
       ],
@@ -5898,8 +5898,8 @@
           "name": "Marius van den Beek",
           "joined": "2018-06",
           "id": "mvdbeek",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
         },
         {
           "name": "Helena Rasche",
@@ -5918,13 +5918,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/sentry/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/sentry/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/sentry/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/sentry/tutorial.json"
       }
     },
     {
@@ -5970,8 +5970,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "requirements": [
@@ -6002,7 +6002,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/jenkins/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/jenkins/tutorial.json",
       "tools": [
 
       ],
@@ -6051,8 +6051,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/jenkins/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/jenkins/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/jenkins/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/jenkins/tutorial.json"
       }
     },
     {
@@ -6093,8 +6093,8 @@
             "lon": 7.6
           },
           "id": "hrhotz",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
         },
         {
           "name": "Björn Grüning",
@@ -6108,8 +6108,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         }
       ],
       "short_id": "T00006",
@@ -6127,7 +6127,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database-schema/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database-schema/tutorial.json",
       "tools": [
 
       ],
@@ -6176,8 +6176,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database-schema/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/database-schema/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database-schema/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/database-schema/tutorial.json"
       }
     },
     {
@@ -6241,7 +6241,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
       "tools": [
 
       ],
@@ -6307,8 +6307,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Nate Coraor",
@@ -6318,8 +6318,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Nate Coraor",
@@ -6329,13 +6329,13 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json"
       }
     },
     {
@@ -6392,7 +6392,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard/tutorial.json",
       "tools": [
 
       ],
@@ -6458,13 +6458,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/wireguard/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/wireguard/tutorial.json"
       }
     },
     {
@@ -6496,8 +6496,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         }
       ],
       "subtopic": "maintenance",
@@ -6559,7 +6559,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/upgrading/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/upgrading/tutorial.json",
       "tools": [
 
       ],
@@ -6608,8 +6608,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/upgrading/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/upgrading/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/upgrading/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/upgrading/tutorial.json"
       }
     },
     {
@@ -6712,7 +6712,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
       "tools": [
 
       ],
@@ -6769,8 +6769,8 @@
           "joined": "2017-12",
           "orcid": "0000-0001-8083-2963",
           "id": "natefoo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
         },
         {
           "name": "Björn Grüning",
@@ -6784,15 +6784,15 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
         },
         {
           "name": "Nuwan Goonasekera",
           "joined": "2019-06",
           "id": "nuwang",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nuwang.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nuwang/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nuwang.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nuwang/"
         },
         {
           "name": "Mira Kuntz",
@@ -6802,8 +6802,8 @@
           "joined": "2022-07",
           "elixir_node": "de",
           "id": "mira-miracoli",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
         },
         {
           "name": "Helena Rasche",
@@ -6822,15 +6822,15 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Enis Afgan",
           "joined": "2018-06",
           "id": "afgane",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/afgane.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/afgane/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/afgane.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/afgane/"
         },
         {
           "name": "Catherine Bromhead",
@@ -6838,13 +6838,13 @@
           "joined": "2019-12",
           "elixir_node": "au",
           "id": "cat-bro",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/cat-bro.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cat-bro/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cat-bro.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cat-bro/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/job-destinations/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/job-destinations/tutorial.json"
       }
     },
     {
@@ -6893,7 +6893,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization-manual/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization-manual/tutorial.json",
       "tools": [
 
       ],
@@ -6948,8 +6948,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-2362-9720",
           "id": "ElectronicBlueberry",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ElectronicBlueberry.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ElectronicBlueberry/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ElectronicBlueberry.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ElectronicBlueberry/"
         },
         {
           "name": "Helena Rasche",
@@ -6968,13 +6968,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization-manual/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization-manual/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization-manual/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization-manual/tutorial.json"
       }
     },
     {
@@ -6995,8 +6995,8 @@
           "name": "Marius van den Beek",
           "joined": "2018-06",
           "id": "mvdbeek",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
         },
         {
           "name": "Helena Rasche",
@@ -7015,8 +7015,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Lucille Delisle",
@@ -7031,8 +7031,8 @@
             "lon": 6.56
           },
           "id": "lldelisle",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
         }
       ],
       "subtopic": "features",
@@ -7090,7 +7090,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tus/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tus/tutorial.json",
       "tools": [
 
       ],
@@ -7139,8 +7139,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tus/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tus/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tus/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tus/tutorial.json"
       }
     },
     {
@@ -7168,29 +7168,29 @@
           "name": "Nuwan Goonasekera",
           "joined": "2019-06",
           "id": "nuwang",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nuwang.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nuwang/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nuwang.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nuwang/"
         },
         {
           "name": "Enis Afgan",
           "joined": "2018-06",
           "id": "afgane",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/afgane.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/afgane/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/afgane.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/afgane/"
         },
         {
           "name": "Alex Mahmoud",
           "joined": "2019-06",
           "id": "almahmoud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/almahmoud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/almahmoud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/almahmoud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/almahmoud/"
         },
         {
           "name": "Pablo Moreno",
           "joined": "2019-06",
           "id": "pcm32",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pcm32.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pcm32/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pcm32.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pcm32/"
         },
         {
           "name": "John Davis",
@@ -7198,8 +7198,8 @@
           "joined": "2019-06",
           "orcid": "0000-0002-1363-1245",
           "id": "jdavcs",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jdavcs.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jdavcs/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jdavcs.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jdavcs/"
         }
       ],
       "tags": [
@@ -7231,7 +7231,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json",
       "tools": [
 
       ],
@@ -7280,8 +7280,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-managing-galaxy/tutorial.json"
       }
     },
     {
@@ -7305,8 +7305,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -7325,8 +7325,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "data",
@@ -7345,7 +7345,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json",
       "tools": [
 
       ],
@@ -7394,8 +7394,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/cvmfs-manual/tutorial.json"
       }
     },
     {
@@ -7420,29 +7420,29 @@
           "name": "Pablo Moreno",
           "joined": "2019-06",
           "id": "pcm32",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pcm32.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pcm32/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pcm32.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pcm32/"
         },
         {
           "name": "Enis Afgan",
           "joined": "2018-06",
           "id": "afgane",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/afgane.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/afgane/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/afgane.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/afgane/"
         },
         {
           "name": "Nuwan Goonasekera",
           "joined": "2019-06",
           "id": "nuwang",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nuwang.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nuwang/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nuwang.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nuwang/"
         },
         {
           "name": "Alex Mahmoud",
           "joined": "2019-06",
           "id": "almahmoud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/almahmoud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/almahmoud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/almahmoud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/almahmoud/"
         },
         {
           "name": "John Davis",
@@ -7450,8 +7450,8 @@
           "joined": "2019-06",
           "orcid": "0000-0002-1363-1245",
           "id": "jdavcs",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jdavcs.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jdavcs/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jdavcs.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jdavcs/"
         }
       ],
       "tags": [
@@ -7483,7 +7483,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json",
       "tools": [
 
       ],
@@ -7532,8 +7532,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/k8s-deploying-galaxy/tutorial.json"
       }
     },
     {
@@ -7573,8 +7573,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "subtopic": "cloud",
@@ -7599,7 +7599,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/terraform/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/terraform/tutorial.json",
       "tools": [
 
       ],
@@ -7648,8 +7648,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/terraform/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/terraform/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/terraform/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/terraform/tutorial.json"
       }
     }
   ]

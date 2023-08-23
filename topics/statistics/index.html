@@ -17,7 +17,7 @@
 <script type="text/javascript">
 Sentry.init({
   dsn: "https://45e0ec6e4373462b92969505df37cf40@sentry.galaxyproject.org/10",
-  release: "galaxy-training-network@a20023d4520db76364bfad637810cad968628355",
+  release: "galaxy-training-network@4e9869a48a09ae73c3957d99df86de6d46c9df32",
   integrations: [new Sentry.BrowserTracing(), new Sentry.Replay()],
   sampleRate: 0.1,
   tracesSampleRate: 0.1,
@@ -32,19 +32,19 @@ Sentry.init({
 </script>
 
         
-        <link rel="shortcut icon" href="/training-material/favicon.ico" type="image/x-icon">
-        <link rel="alternate" type="application/atom+xml" href="/training-material/feed.xml">
-        <link rel="canonical" href="https://training.galaxyproject.org/training-material/topics/statistics/">
+        <link rel="shortcut icon" href="/galaxy-training-material/favicon.ico" type="image/x-icon">
+        <link rel="alternate" type="application/atom+xml" href="/galaxy-training-material/feed.xml">
+        <link rel="canonical" href="https://training.galaxyproject.org/galaxy-training-material/topics/statistics/">
         <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0">
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" as="script" crossorigin>
-        <link rel="preload" href="/training-material/assets/css/main.css?v=3" as="style">
-        <link rel='preload' href='/training-material/assets/js/bundle.theme.js?v=1692749451' as='script'>
-<link rel='preload' href='/training-material/assets/js/bundle.main.js?v=1692749451' as='script'>
-        <link rel="stylesheet" href="/training-material/assets/css/main.css?v=3">
-        <link rel="manifest" href="/training-material/manifest.json">
+        <link rel="preload" href="/galaxy-training-material/assets/css/main.css?v=3" as="style">
+        <link rel='preload' href='/galaxy-training-material/assets/js/bundle.theme.js?v=1692818620' as='script'>
+<link rel='preload' href='/galaxy-training-material/assets/js/bundle.main.js?v=1692818620' as='script'>
+        <link rel="stylesheet" href="/galaxy-training-material/assets/css/main.css?v=3">
+        <link rel="manifest" href="/galaxy-training-material/manifest.json">
         <meta name="theme-color" content="#2c3143"/>
 
 
@@ -63,17 +63,17 @@ Sentry.init({
         <meta property="og:title" content="Galaxy Training: Statistics and machine learning">
         <meta property="og:description" content="Statistical Analyses for omics data and machine learning ...">
         
-        <meta property="og:image" content="/training-material/assets/images/GTNLogo1000.png">
+        <meta property="og:image" content="/galaxy-training-material/assets/images/GTNLogo1000.png">
 
         
     </head>
     <body data-spy="scroll" data-target="#toc">
-        <script src='/training-material/assets/js/bundle.theme.js?v=1692749451'></script>
+        <script src='/galaxy-training-material/assets/js/bundle.theme.js?v=1692818620'></script>
         <header>
     <nav class="navbar navbar-expand-md navbar-dark" aria-label="Site Navigation">
         <div class="container">
-            <a class="navbar-brand" href="/training-material/">
-                <img src="/training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
+            <a class="navbar-brand" href="/galaxy-training-material/">
+                <img src="/galaxy-training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
                 
                     Galaxy Training!
                 
@@ -86,7 +86,7 @@ Sentry.init({
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         
-                        <a class="nav-link" href="/training-material/hall-of-fame" title="Hall of Fame">
+                        <a class="nav-link" href="/galaxy-training-material/hall-of-fame" title="Hall of Fame">
                            <i class="fas fa-users" aria-hidden="true"></i><span class="visually-hidden">hall-of-fame</span> Contributors
                         </a>
 
@@ -94,7 +94,7 @@ Sentry.init({
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/training-material/learning-pathways" title="Learning Pathways">
+                        <a class="nav-link" href="/galaxy-training-material/learning-pathways" title="Learning Pathways">
                            <i class="fas fa-graduation-cap" aria-hidden="true"></i><span class="visually-hidden">curriculum</span> Learning Pathways
                         </a>
                     </li>
@@ -112,12 +112,12 @@ Sentry.init({
         </form>
         -->
 
-        <a class="dropdown-item" href="/training-material/faq" title="Check our FAQs">
+        <a class="dropdown-item" href="/galaxy-training-material/faq" title="Check our FAQs">
            <i class="far fa-question-circle" aria-hidden="true"></i><span class="visually-hidden">question</span> FAQs
         </a>
         
         
-        <a class="dropdown-item" href="/training-material/topics/statistics/faqs/" title="Check our FAQs for the Statistics and machine learning topic">
+        <a class="dropdown-item" href="/galaxy-training-material/topics/statistics/faqs/" title="Check our FAQs for the Statistics and machine learning topic">
            <i class="far fa-question-circle" aria-hidden="true"></i><span class="visually-hidden">question</span> Topic FAQs
         </a>
         
@@ -146,7 +146,7 @@ Sentry.init({
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> GTN statistics
         </a>
 
-        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/training-material/topics/statistics/" title="Show view statistics of this page">
+        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/galaxy-training-material/topics/statistics/" title="Show view statistics of this page">
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> Page Metrics
         </a>
 
@@ -154,7 +154,7 @@ Sentry.init({
         
             
             
-                <a class="dropdown-item" href="/training-material/feedback.html#topic-statistics" title="Show feedback statistics about this topic">
+                <a class="dropdown-item" href="/galaxy-training-material/feedback.html#topic-statistics" title="Show feedback statistics about this topic">
                     <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> Topic feedback
                 </a>
             
@@ -185,12 +185,6 @@ Sentry.init({
 
             <div id="archive-selector">
             
-                <a class="btn btn-warning" href="https://training.galaxyproject.org/archive/smorgasbord2023/topics/statistics/">smorgasbord2023</a>
-            
-                <a class="btn btn-warning" href="https://training.galaxyproject.org/archive/2023-08-01/topics/statistics/">2023-08-01</a>
-            
-                <a class="btn btn-warning" href="https://training.galaxyproject.org/archive/2023-07-01/topics/statistics/">2023-07-01</a>
-            
                 <a class="btn btn-warning" href="https://training.galaxyproject.org/archive/">Older Versions</a>
             </div>
 
@@ -204,7 +198,7 @@ Sentry.init({
                     <li class="nav-item">
                       <div id="navbarSupportedContent" role="search">
                         <!-- Search form -->
-                        <form class="form-inline mr-auto" method="GET" action="/training-material/search2">
+                        <form class="form-inline mr-auto" method="GET" action="/galaxy-training-material/search2">
                           <i class="fas fa-search nav-link" aria-hidden="true"></i>
                           <div class="md-form mb-2">
                             <input name="query" class="form-control nicer" type="text" placeholder="Search Tutorials" aria-label="Search">
@@ -245,7 +239,7 @@ Sentry.init({
     
         
         
-        <a href="/training-material/topics/introduction">Introduction to Galaxy Analyses</a>
+        <a href="/galaxy-training-material/topics/introduction">Introduction to Galaxy Analyses</a>
         
     
     </li>
@@ -287,7 +281,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html">
                 A Docker-based interactive Jupyterlab powered by GPU for artificial intelligence in Galaxy
             </a>
             
@@ -297,17 +291,17 @@ Sentry.init({
             
             
               
-              <a href="/training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffc1ac; --color-darker: #ffa078; --color-dimmed: #ffb193;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
+              <a href="/galaxy-training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffccbc; --color-darker: #ffab8a; --color-dimmed: #ffbca4;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
               
-              <a href="/training-material/search?query=machine-learning" class="label label-default tutorial_tag" style="--color-primary: #edce00; --color-darker: #d3b700; --color-dimmed: #e0c300;" title="Click to show all tutorials tagged machine-learning">machine-learning</a>
+              <a href="/galaxy-training-material/search?query=machine-learning" class="label label-default tutorial_tag" style="--color-primary: #f7d600; --color-darker: #dcbe00; --color-dimmed: #e9ca00;" title="Click to show all tutorials tagged machine-learning">machine-learning</a>
               
-              <a href="/training-material/search?query=deep-learning" class="label label-default tutorial_tag" style="--color-primary: #ffbae9; --color-darker: #ff94df; --color-dimmed: #ffa8e4;" title="Click to show all tutorials tagged deep-learning">deep-learning</a>
+              <a href="/galaxy-training-material/search?query=deep-learning" class="label label-default tutorial_tag" style="--color-primary: #ffc7ec; --color-darker: #ffa1e2; --color-dimmed: #ffb4e7;" title="Click to show all tutorials tagged deep-learning">deep-learning</a>
               
-              <a href="/training-material/search?query=jupyter-lab" class="label label-default tutorial_tag" style="--color-primary: #fff5ab; --color-darker: #ebdb00; --color-dimmed: #fae900;" title="Click to show all tutorials tagged jupyter-lab">jupyter-lab</a>
+              <a href="/galaxy-training-material/search?query=jupyter-lab" class="label label-default tutorial_tag" style="--color-primary: #fff7bd; --color-darker: #eddd00; --color-dimmed: #fceb00;" title="Click to show all tutorials tagged jupyter-lab">jupyter-lab</a>
               
-              <a href="/training-material/search?query=image-segmentation" class="label label-default tutorial_tag" style="--color-primary: #5cec00; --color-darker: #51d200; --color-dimmed: #56df00;" title="Click to show all tutorials tagged image-segmentation">image-segmentation</a>
+              <a href="/galaxy-training-material/search?query=image-segmentation" class="label label-default tutorial_tag" style="--color-primary: #60f500; --color-darker: #54da00; --color-dimmed: #5ae800;" title="Click to show all tutorials tagged image-segmentation">image-segmentation</a>
               
-              <a href="/training-material/search?query=protein-3D-structure" class="label label-default tutorial_tag" style="--color-primary: #ffc387; --color-darker: #faa700; --color-dimmed: #ffb456;" title="Click to show all tutorials tagged protein-3D-structure">protein-3D-structure</a>
+              <a href="/galaxy-training-material/search?query=protein-3D-structure" class="label label-default tutorial_tag" style="--color-primary: #ffcea2; --color-darker: #ffaf3b; --color-dimmed: #ffbe7a;" title="Click to show all tutorials tagged protein-3D-structure">protein-3D-structure</a>
               
             
             </div>
@@ -323,7 +317,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -402,7 +396,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/gpu_jupyter_lab/workflows/" title="A Docker-based interactive Jupyterlab powered by GPU for artificial intelligence in Galaxy workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/gpu_jupyter_lab/workflows/" title="A Docker-based interactive Jupyterlab powered by GPU for artificial intelligence in Galaxy workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -423,7 +417,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -502,7 +496,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/gpu_jupyter_lab/workflows/" title="A Docker-based interactive Jupyterlab powered by GPU for artificial intelligence in Galaxy workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/gpu_jupyter_lab/workflows/" title="A Docker-based interactive Jupyterlab powered by GPU for artificial intelligence in Galaxy workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -520,7 +514,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html">
                 Age prediction using machine learning
             </a>
             
@@ -542,7 +536,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -621,7 +615,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/" title="Age prediction using machine learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/" title="Age prediction using machine learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -642,7 +636,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -721,7 +715,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/" title="Age prediction using machine learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/" title="Age prediction using machine learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -739,7 +733,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/machinelearning/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/machinelearning/tutorial.html">
                 Basics of machine learning
             </a>
             
@@ -761,7 +755,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -840,7 +834,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/machinelearning/workflows/" title="Basics of machine learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/machinelearning/workflows/" title="Basics of machine learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -861,7 +855,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -940,7 +934,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/machinelearning/workflows/" title="Basics of machine learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/machinelearning/workflows/" title="Basics of machine learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -958,7 +952,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html">
                 Classification in Machine Learning
             </a>
             
@@ -980,7 +974,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1088,7 +1082,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/classification_machinelearning/workflows/" title="Classification in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/workflows/" title="Classification in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1109,7 +1103,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1217,7 +1211,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/classification_machinelearning/workflows/" title="Classification in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/workflows/" title="Classification in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1235,7 +1229,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html">
                 Clustering in Machine Learning
             </a>
             
@@ -1257,7 +1251,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1336,7 +1330,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/" title="Clustering in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/" title="Clustering in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1357,7 +1351,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1436,7 +1430,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/" title="Clustering in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/" title="Clustering in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1454,7 +1448,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/FNN/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/FNN/tutorial.html">
                 Deep Learning (Part 1) - Feedforward neural networks (FNN)
             </a>
             
@@ -1471,10 +1465,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -1523,7 +1517,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -1536,7 +1530,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/FNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/FNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1644,7 +1638,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/workflows/" title="Deep Learning (Part 1) - Feedforward neural networks (FNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/workflows/" title="Deep Learning (Part 1) - Feedforward neural networks (FNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1660,10 +1654,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -1712,7 +1706,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -1725,7 +1719,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/FNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/FNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -1833,7 +1827,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/FNN/workflows/" title="Deep Learning (Part 1) - Feedforward neural networks (FNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/FNN/workflows/" title="Deep Learning (Part 1) - Feedforward neural networks (FNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -1851,7 +1845,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/RNN/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/RNN/tutorial.html">
                 Deep Learning (Part 2) - Recurrent neural networks (RNN)
             </a>
             
@@ -1868,10 +1862,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -1920,7 +1914,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -1933,7 +1927,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/RNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/RNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -2041,7 +2035,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/workflows/" title="Deep Learning (Part 2) - Recurrent neural networks (RNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/workflows/" title="Deep Learning (Part 2) - Recurrent neural networks (RNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -2057,10 +2051,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -2109,7 +2103,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -2122,7 +2116,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/RNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/RNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -2230,7 +2224,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/RNN/workflows/" title="Deep Learning (Part 2) - Recurrent neural networks (RNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/RNN/workflows/" title="Deep Learning (Part 2) - Recurrent neural networks (RNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -2248,7 +2242,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/CNN/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/CNN/tutorial.html">
                 Deep Learning (Part 3) - Convolutional neural networks (CNN)
             </a>
             
@@ -2265,10 +2259,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -2317,7 +2311,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -2330,7 +2324,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/CNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/CNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -2438,7 +2432,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/workflows/" title="Deep Learning (Part 3) - Convolutional neural networks (CNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/workflows/" title="Deep Learning (Part 3) - Convolutional neural networks (CNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -2454,10 +2448,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -2506,7 +2500,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -2519,7 +2513,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/CNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/CNN/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -2627,7 +2621,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/CNN/workflows/" title="Deep Learning (Part 3) - Convolutional neural networks (CNN) workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/CNN/workflows/" title="Deep Learning (Part 3) - Convolutional neural networks (CNN) workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -2645,7 +2639,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/fruit_360/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/tutorial.html">
                 Image classification in Galaxy with fruit 360 dataset
             </a>
             
@@ -2662,10 +2656,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -2714,7 +2708,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -2727,7 +2721,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/fruit_360/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -2835,7 +2829,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/workflows/" title="Image classification in Galaxy with fruit 360 dataset workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/workflows/" title="Image classification in Galaxy with fruit 360 dataset workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -2851,10 +2845,10 @@ Sentry.init({
 
 
 <div class="btn-group">
-	<a class="visually-hidden" href="/training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
+	<a class="visually-hidden" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">plain text</a>
 </div>
     <div class="btn-group">
-        <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/slides.html" title="Slides">
+        <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides.html" title="Slides">
             <i class="fab fa-slideshare" aria-hidden="true"></i>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="View slides in different languages">
@@ -2903,7 +2897,7 @@ Sentry.init({
 		</li>
 
 	<li class="dropdown-item">
-	<a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">
+	<a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/slides-plain.html" aria-label="more accessible, plain text slides">
 		<i class="fas fa-file-alt" aria-hidden="true"></i> Plain text slides
 	</a>
 	</li>
@@ -2916,7 +2910,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/fruit_360/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3024,7 +3018,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/fruit_360/workflows/" title="Image classification in Galaxy with fruit 360 dataset workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/fruit_360/workflows/" title="Image classification in Galaxy with fruit 360 dataset workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3042,7 +3036,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/iwtomics/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/iwtomics/tutorial.html">
                 Interval-Wise Testing for omics data
             </a>
             
@@ -3064,7 +3058,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/iwtomics/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/iwtomics/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3143,7 +3137,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/iwtomics/workflows/" title="Interval-Wise Testing for omics data workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/iwtomics/workflows/" title="Interval-Wise Testing for omics data workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3164,7 +3158,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/iwtomics/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/iwtomics/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3243,7 +3237,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/iwtomics/workflows/" title="Interval-Wise Testing for omics data workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/iwtomics/workflows/" title="Interval-Wise Testing for omics data workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3261,7 +3255,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html">
                 Introduction to Machine Learning using R
             </a>
             
@@ -3281,7 +3275,7 @@ Sentry.init({
             
             
               
-              <a href="/training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffc1ac; --color-darker: #ffa078; --color-dimmed: #ffb193;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
+              <a href="/galaxy-training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffccbc; --color-darker: #ffab8a; --color-dimmed: #ffbca4;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
               
             
             </div>
@@ -3297,7 +3291,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3418,7 +3412,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3536,7 +3530,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html">
                 Introduction to deep learning
             </a>
             
@@ -3558,7 +3552,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3637,7 +3631,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/intro_deep_learning/workflows/" title="Introduction to deep learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/workflows/" title="Introduction to deep learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3658,7 +3652,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3737,7 +3731,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/intro_deep_learning/workflows/" title="Introduction to deep learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/workflows/" title="Introduction to deep learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3755,7 +3749,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/classification_regression/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/classification_regression/tutorial.html">
                 Machine learning: classification and regression
             </a>
             
@@ -3777,7 +3771,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/classification_regression/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/classification_regression/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3856,7 +3850,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/classification_regression/workflows/" title="Machine learning: classification and regression workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/classification_regression/workflows/" title="Machine learning: classification and regression workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3877,7 +3871,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/classification_regression/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/classification_regression/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -3956,7 +3950,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/classification_regression/workflows/" title="Machine learning: classification and regression workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/classification_regression/workflows/" title="Machine learning: classification and regression workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -3974,7 +3968,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html">
                 PAPAA PI3K_OG: PanCancer Aberrant Pathway Activity Analysis
             </a>
             
@@ -3984,13 +3978,13 @@ Sentry.init({
             
             
               
-              <a href="/training-material/search?query=Machine learning" class="label label-default tutorial_tag" style="--color-primary: #cec9ff; --color-darker: #b7afff; --color-dimmed: #c2bcff;" title="Click to show all tutorials tagged Machine learning">Machine learning</a>
+              <a href="/galaxy-training-material/search?query=Machine learning" class="label label-default tutorial_tag" style="--color-primary: #d6d3ff; --color-darker: #beb7ff; --color-dimmed: #cac5ff;" title="Click to show all tutorials tagged Machine learning">Machine learning</a>
               
-              <a href="/training-material/search?query=Pan-cancer" class="label label-default tutorial_tag" style="--color-primary: #00e7dd; --color-darker: #00cdc5; --color-dimmed: #00dad1;" title="Click to show all tutorials tagged Pan-cancer">Pan-cancer</a>
+              <a href="/galaxy-training-material/search?query=Pan-cancer" class="label label-default tutorial_tag" style="--color-primary: #00f0e6; --color-darker: #00d5cc; --color-dimmed: #00e3d9;" title="Click to show all tutorials tagged Pan-cancer">Pan-cancer</a>
               
-              <a href="/training-material/search?query=cancer biomarkers" class="label label-default tutorial_tag" style="--color-primary: #00ec90; --color-darker: #00d280; --color-dimmed: #00df88;" title="Click to show all tutorials tagged cancer biomarkers">cancer biomarkers</a>
+              <a href="/galaxy-training-material/search?query=cancer biomarkers" class="label label-default tutorial_tag" style="--color-primary: #00f696; --color-darker: #00db85; --color-dimmed: #00e88e;" title="Click to show all tutorials tagged cancer biomarkers">cancer biomarkers</a>
               
-              <a href="/training-material/search?query=oncogenes and tumor suppressor genes" class="label label-default tutorial_tag" style="--color-primary: #ffbdcb; --color-darker: #ff9bb3; --color-dimmed: #ffacbf;" title="Click to show all tutorials tagged oncogenes and tumor suppressor genes">oncogenes and tumor suppressor genes</a>
+              <a href="/galaxy-training-material/search?query=oncogenes and tumor suppressor genes" class="label label-default tutorial_tag" style="--color-primary: #ffc9d4; --color-darker: #ffa6bb; --color-dimmed: #ffb8c7;" title="Click to show all tutorials tagged oncogenes and tumor suppressor genes">oncogenes and tumor suppressor genes</a>
               
             
             </div>
@@ -4006,7 +4000,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4085,7 +4079,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/" title="PAPAA PI3K_OG: PanCancer Aberrant Pathway Activity Analysis workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/" title="PAPAA PI3K_OG: PanCancer Aberrant Pathway Activity Analysis workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4106,7 +4100,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4185,7 +4179,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/" title="PAPAA PI3K_OG: PanCancer Aberrant Pathway Activity Analysis workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/" title="PAPAA PI3K_OG: PanCancer Aberrant Pathway Activity Analysis workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4203,7 +4197,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html">
                 Regression in Machine Learning
             </a>
             
@@ -4225,7 +4219,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4333,7 +4327,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/regression_machinelearning/workflows/" title="Regression in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/workflows/" title="Regression in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4354,7 +4348,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4462,7 +4456,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/regression_machinelearning/workflows/" title="Regression in Machine Learning workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/workflows/" title="Regression in Machine Learning workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4480,7 +4474,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html">
                 Supervised Learning with Hyperdimensional Computing
             </a>
             
@@ -4512,7 +4506,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4608,7 +4602,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/hyperdimensional_computing/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4701,7 +4695,7 @@ Sentry.init({
           <td class="tutorial_title">
             
             
-            <a href="/training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html">
+            <a href="/galaxy-training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html">
                 Text-mining with the SimText toolset
             </a>
             
@@ -4711,7 +4705,7 @@ Sentry.init({
             
             
               
-              <a href="/training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffc1ac; --color-darker: #ffa078; --color-dimmed: #ffb193;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
+              <a href="/galaxy-training-material/search?query=interactive-tools" class="label label-default tutorial_tag" style="--color-primary: #ffccbc; --color-darker: #ffab8a; --color-dimmed: #ffbca4;" title="Click to show all tutorials tagged interactive-tools">interactive-tools</a>
               
             
             </div>
@@ -4727,7 +4721,7 @@ Sentry.init({
 
               
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4806,7 +4800,7 @@ Sentry.init({
                   
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/text-mining_simtext/workflows/" title="Text-mining with the SimText toolset workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/text-mining_simtext/workflows/" title="Text-mining with the SimText toolset workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4827,7 +4821,7 @@ Sentry.init({
  </td>
           <td> 
     <div class="btn-group">
-        <a href="/training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html" class="btn btn-default" title="Follow the tutorial">
+        <a href="/galaxy-training-material/topics/statistics/tutorials/text-mining_simtext/tutorial.html" class="btn btn-default" title="Follow the tutorial">
             <i class="fas fa-laptop" aria-hidden="true"></i><span class="visually-hidden">tutorial</span>
         </a>
         <a href="#" class="btn btn-default dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Follow the tutorial in a different language">
@@ -4906,7 +4900,7 @@ Sentry.init({
           <td> 
 
 
-    <a class="btn btn-default topic-icon" href="/training-material/topics/statistics/tutorials/text-mining_simtext/workflows/" title="Text-mining with the SimText toolset workflows">
+    <a class="btn btn-default topic-icon" href="/galaxy-training-material/topics/statistics/tutorials/text-mining_simtext/workflows/" title="Text-mining with the SimText toolset workflows">
         <i class="fas fa-share-alt" aria-hidden="true"></i>
     </a>
 
@@ -4947,7 +4941,7 @@ Sentry.init({
     <h2 id="editorial-board">Editorial Board</h2>
     <p>This material is reviewed by our Editorial Board:</p>
     
-    <a href="/training-material/hall-of-fame/marziacremona/" class="contributor-badge contributor-marziacremona"><img src="https://avatars.githubusercontent.com/marziacremona?s=36" alt="Avatar" width="36" height="36">Marzia A Cremona</a><a href="/training-material/hall-of-fame/cumbof/" class="contributor-badge contributor-cumbof"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/cumbof?s=36" alt="Avatar" width="36" height="36">Fabio Cumbo</a><a href="/training-material/hall-of-fame/anuprulez/" class="contributor-badge contributor-anuprulez"><img src="https://avatars.githubusercontent.com/anuprulez?s=36" alt="Avatar" width="36" height="36">Anup Kumar</a>
+    <a href="/galaxy-training-material/hall-of-fame/marziacremona/" class="contributor-badge contributor-marziacremona"><img src="https://avatars.githubusercontent.com/marziacremona?s=36" alt="Avatar" width="36" height="36">Marzia A Cremona</a><a href="/galaxy-training-material/hall-of-fame/cumbof/" class="contributor-badge contributor-cumbof"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/cumbof?s=36" alt="Avatar" width="36" height="36">Fabio Cumbo</a><a href="/galaxy-training-material/hall-of-fame/anuprulez/" class="contributor-badge contributor-anuprulez"><img src="https://avatars.githubusercontent.com/anuprulez?s=36" alt="Avatar" width="36" height="36">Anup Kumar</a>
 
     <p>
         <em>For any question related to this topic and the content, you can contact them or visit our <a href="https://gitter.im/Galaxy-Training-Network/Lobby">Gitter channel</a>.</em>
@@ -4956,12 +4950,12 @@ Sentry.init({
     <h2 id="contributors">Contributors</h2>
     <p>This material was contributed to by:</p>
     
-    <a href="/training-material/hall-of-fame/fpsom/" class="contributor-badge contributor-fpsom"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/fpsom?s=36" alt="Avatar" width="36" height="36">Fotis E. Psomopoulos</a><a href="/training-material/hall-of-fame/mgramm1/" class="contributor-badge contributor-mgramm1"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/mgramm1?s=36" alt="Avatar" width="36" height="36">Marie Gramm</a><a href="/training-material/hall-of-fame/simonbray/" class="contributor-badge contributor-simonbray"><img src="https://avatars.githubusercontent.com/simonbray?s=36" alt="Avatar" width="36" height="36">Simon Bray</a><a href="/training-material/hall-of-fame/cumbof/" class="contributor-badge contributor-cumbof"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/cumbof?s=36" alt="Avatar" width="36" height="36">Fabio Cumbo</a><a href="/training-material/hall-of-fame/bebatut/" class="contributor-badge contributor-bebatut"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/bebatut?s=36" alt="Avatar" width="36" height="36">Bérénice Batut</a><a href="/training-material/hall-of-fame/marziacremona/" class="contributor-badge contributor-marziacremona"><img src="https://avatars.githubusercontent.com/marziacremona?s=36" alt="Avatar" width="36" height="36">Marzia A Cremona</a><a href="/training-material/hall-of-fame/blankenberg/" class="contributor-badge contributor-blankenberg"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/blankenberg?s=36" alt="Avatar" width="36" height="36">Daniel Blankenberg</a><a href="/training-material/hall-of-fame/kxk302/" class="contributor-badge contributor-kxk302"><img src="https://avatars.githubusercontent.com/kxk302?s=36" alt="Avatar" width="36" height="36">Kaivan Kamali</a><a href="/training-material/hall-of-fame/khanteymoori/" class="contributor-badge contributor-khanteymoori"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/khanteymoori?s=36" alt="Avatar" width="36" height="36">Alireza Khanteymoori</a><a href="/training-material/hall-of-fame/polkhe/" class="contributor-badge contributor-polkhe"><img src="https://avatars.githubusercontent.com/polkhe?s=36" alt="Avatar" width="36" height="36">Ekaterina Polkh</a><a href="/training-material/hall-of-fame/anuprulez/" class="contributor-badge contributor-anuprulez"><img src="https://avatars.githubusercontent.com/anuprulez?s=36" alt="Avatar" width="36" height="36">Anup Kumar</a><a href="/training-material/hall-of-fame/nvk747/" class="contributor-badge contributor-nvk747"><img src="https://avatars.githubusercontent.com/nvk747?s=36" alt="Avatar" width="36" height="36">Vijay</a><a href="/training-material/hall-of-fame/dlalgroup/" class="contributor-badge contributor-dlalgroup"><img src="https://avatars.githubusercontent.com/dlalgroup?s=36" alt="Avatar" width="36" height="36">Dennis Lal group</a>
+    <a href="/galaxy-training-material/hall-of-fame/khanteymoori/" class="contributor-badge contributor-khanteymoori"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/khanteymoori?s=36" alt="Avatar" width="36" height="36">Alireza Khanteymoori</a><a href="/galaxy-training-material/hall-of-fame/simonbray/" class="contributor-badge contributor-simonbray"><img src="https://avatars.githubusercontent.com/simonbray?s=36" alt="Avatar" width="36" height="36">Simon Bray</a><a href="/galaxy-training-material/hall-of-fame/bebatut/" class="contributor-badge contributor-bebatut"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/bebatut?s=36" alt="Avatar" width="36" height="36">Bérénice Batut</a><a href="/galaxy-training-material/hall-of-fame/anuprulez/" class="contributor-badge contributor-anuprulez"><img src="https://avatars.githubusercontent.com/anuprulez?s=36" alt="Avatar" width="36" height="36">Anup Kumar</a><a href="/galaxy-training-material/hall-of-fame/blankenberg/" class="contributor-badge contributor-blankenberg"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/blankenberg?s=36" alt="Avatar" width="36" height="36">Daniel Blankenberg</a><a href="/galaxy-training-material/hall-of-fame/polkhe/" class="contributor-badge contributor-polkhe"><img src="https://avatars.githubusercontent.com/polkhe?s=36" alt="Avatar" width="36" height="36">Ekaterina Polkh</a><a href="/galaxy-training-material/hall-of-fame/marziacremona/" class="contributor-badge contributor-marziacremona"><img src="https://avatars.githubusercontent.com/marziacremona?s=36" alt="Avatar" width="36" height="36">Marzia A Cremona</a><a href="/galaxy-training-material/hall-of-fame/kxk302/" class="contributor-badge contributor-kxk302"><img src="https://avatars.githubusercontent.com/kxk302?s=36" alt="Avatar" width="36" height="36">Kaivan Kamali</a><a href="/galaxy-training-material/hall-of-fame/nvk747/" class="contributor-badge contributor-nvk747"><img src="https://avatars.githubusercontent.com/nvk747?s=36" alt="Avatar" width="36" height="36">Vijay</a><a href="/galaxy-training-material/hall-of-fame/dlalgroup/" class="contributor-badge contributor-dlalgroup"><img src="https://avatars.githubusercontent.com/dlalgroup?s=36" alt="Avatar" width="36" height="36">Dennis Lal group</a><a href="/galaxy-training-material/hall-of-fame/mgramm1/" class="contributor-badge contributor-mgramm1"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/mgramm1?s=36" alt="Avatar" width="36" height="36">Marie Gramm</a><a href="/galaxy-training-material/hall-of-fame/fpsom/" class="contributor-badge contributor-fpsom"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/fpsom?s=36" alt="Avatar" width="36" height="36">Fotis E. Psomopoulos</a><a href="/galaxy-training-material/hall-of-fame/cumbof/" class="contributor-badge contributor-cumbof"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/cumbof?s=36" alt="Avatar" width="36" height="36">Fabio Cumbo</a>
 
     <h2 id="funders">Funders</h2>
     <p>This material was funded by:</p>
     
-    <a href="/training-material/hall-of-fame/erasmusplus/" class="contributor-badge contributor-erasmusplus"><img src="https://www.erasmusplus.nl/assets/images/logo.png" alt="Avatar" width="36" height="36">Erasmus+ Programme</a>
+    <a href="/galaxy-training-material/hall-of-fame/erasmusplus/" class="contributor-badge contributor-erasmusplus"><img src="https://www.erasmusplus.nl/assets/images/logo.png" alt="Avatar" width="36" height="36">Erasmus+ Programme</a>
 
     
 </section>
@@ -4980,7 +4974,7 @@ Sentry.init({
 				The GTN infrastructure is licensed under <a rel="license" href="https://github.com/galaxyproject/training-material/blob/main/LICENSE.md">MIT</a>
 				</p>
 				<p>
-				Revision <a href="https://github.com/galaxyproject/training-material/commit/a20023d4520db76364bfad637810cad968628355">a20023d</a>, built with Jekyll (4.3.2 | production)
+				Revision <a href="https://github.com/galaxyproject/training-material/commit/4e9869a48a09ae73c3957d99df86de6d46c9df32">4e9869a</a>, built with Jekyll (4.3.2 | production)
 				</p>
 			</div>
 			<div class="col-sm-6" style="text-align: right">
@@ -5008,7 +5002,7 @@ Sentry.init({
 </footer>
 
 
-        <script src='/training-material/assets/js/bundle.main.js?v=1692749451'></script>
+        <script src='/galaxy-training-material/assets/js/bundle.main.js?v=1692818620'></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     </body>
 </html>

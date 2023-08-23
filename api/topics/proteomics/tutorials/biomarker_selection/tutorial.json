@@ -21,29 +21,29 @@
       "joined": "2019-04",
       "elixir_node": "fr",
       "id": "combesf",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/combesf.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/combesf/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/combesf.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/combesf/"
     },
     {
       "name": "David Christiany",
       "joined": "2019-04",
       "id": "davidchristiany",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/davidchristiany.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/davidchristiany/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/davidchristiany.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/davidchristiany/"
     },
     {
       "name": "Valentin Loux",
       "joined": "2019-04",
       "id": "vloux",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/vloux.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vloux/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vloux.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vloux/"
     },
     {
       "name": "Yves Vandenbrouck",
       "joined": "2019-04",
       "id": "yvandenb",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvandenb.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvandenb/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvandenb.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvandenb/"
     }
   ],
   "subtopic": "post-process",
@@ -70,11 +70,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/biomarker_selection/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/biomarker_selection/workflows/main_workflow.ga",
       "path": "topics/proteomics/tutorials/biomarker_selection/workflows/main_workflow.ga",
       "wfid": "proteomics-biomarker_selection",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-biomarker_selection/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-biomarker_selection/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -82,7 +82,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/biomarker_selection/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/biomarker_selection/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cut_tool/1.0.0",
     "toolshed.g2.bx.psu.edu/repos/proteore/proteore_expression_rnaseq_abbased/rna_abbased_data/2019.03.07",

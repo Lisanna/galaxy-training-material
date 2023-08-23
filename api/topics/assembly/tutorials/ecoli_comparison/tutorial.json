@@ -36,8 +36,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Delphine Lariviere",
@@ -45,8 +45,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6421-3484",
       "id": "delphine-l",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
     },
     {
       "name": "Helena Rasche",
@@ -65,8 +65,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00032",
@@ -88,11 +88,11 @@
     {
       "workflow": "ecoli-comparison.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
       "path": "topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
       "wfid": "assembly-ecoli_comparison",
       "wfname": "ecoli-comparison",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-ecoli_comparison/versions/ecoli-comparison",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-ecoli_comparison/versions/ecoli-comparison",
       "license": null,
       "creators": [
 
@@ -100,7 +100,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

@@ -20,29 +20,29 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Fidel Ramirez",
       "joined": "2017-09",
       "id": "fidelram",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
     },
     {
       "name": "Vivek Bhardwaj",
       "joined": "2017-09",
       "id": "vivekbhr",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
     },
     {
       "name": "Ekaterina Polkh",
       "joined": "2017-09",
       "id": "polkhe",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/polkhe.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/polkhe/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/polkhe.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/polkhe/"
     }
   ],
   "short_id": "T00141",
@@ -64,11 +64,11 @@
     {
       "workflow": "Galaxy-Workflow-Galaxy_Hi-C.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
       "path": "topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
       "wfid": "epigenetics-hicexplorer",
       "wfname": "galaxy-workflow-galaxy_hi-c",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-hicexplorer/versions/galaxy-workflow-galaxy_hi-c",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-hicexplorer/versions/galaxy-workflow-galaxy_hi-c",
       "license": null,
       "creators": [
 
@@ -76,7 +76,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicbuildmatrix/hicexplorer_hicbuildmatrix/2.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hiccorrectmatrix/hicexplorer_hiccorrectmatrix/2.1.0",

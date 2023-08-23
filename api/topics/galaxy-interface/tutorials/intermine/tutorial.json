@@ -16,15 +16,15 @@
       "name": "Daniela Butano",
       "joined": "2019-09",
       "id": "danielabutano",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/danielabutano.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/danielabutano/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/danielabutano.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/danielabutano/"
     },
     {
       "name": "Yo Yehudi",
       "joined": "2019-09",
       "id": "yochannah",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yochannah.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yochannah/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yochannah.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yochannah/"
     }
   ],
   "subtopic": "analyse",
@@ -47,11 +47,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/intermine/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/intermine/workflows/main_workflow.ga",
       "path": "topics/galaxy-interface/tutorials/intermine/workflows/main_workflow.ga",
       "wfid": "galaxy-interface-intermine",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-intermine/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-intermine/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -59,7 +59,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/intermine/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/intermine/tutorial.json",
   "tools": [
     "intermine",
     "toolshed.g2.bx.psu.edu/repos/iuc/intermine_galaxy_exchange/galaxy_intermine_exchange/0.0.1"

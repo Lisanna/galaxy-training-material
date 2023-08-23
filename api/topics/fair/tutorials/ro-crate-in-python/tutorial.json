@@ -50,7 +50,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
   "tools": [
 
   ],
@@ -105,8 +105,8 @@
       "elixir_node": "it",
       "orcid": "0000-0001-8271-5429",
       "id": "simleo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
     },
     {
       "name": "Bruno P. Kinoshita",
@@ -114,8 +114,8 @@
       "orcid": "0000-0001-8250-4074",
       "elixir_node": "es",
       "id": "kinow",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kinow.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kinow/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kinow.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kinow/"
     },
     {
       "name": "Helena Rasche",
@@ -134,8 +134,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "BeYond-COVID",
@@ -144,9 +144,9 @@
       "funding_id": "101046203",
       "funding_system": "cordis",
       "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
       "id": "by-covid",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
     }
   ]
 }

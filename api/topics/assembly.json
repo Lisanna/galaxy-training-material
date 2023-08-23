@@ -29,16 +29,16 @@
       "orcid": "0000-0002-6100-4385",
       "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
       "id": "slugger70",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
     },
     {
       "name": "Anton Nekrutenko",
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Delphine Lariviere",
@@ -46,8 +46,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6421-3484",
       "id": "delphine-l",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -55,8 +55,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
     }
   ],
   "materials": [
@@ -87,8 +87,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         }
       ],
       "short_id": "T00034",
@@ -141,11 +141,11 @@
         {
           "workflow": "assembly-general-introduction.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
           "path": "topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
           "wfid": "assembly-general-introduction",
           "wfname": "assembly-general-introduction",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-general-introduction/versions/assembly-general-introduction",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-general-introduction/versions/assembly-general-introduction",
           "license": null,
           "creators": [
 
@@ -153,7 +153,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/devteam/fastq_paired_end_interlacer/fastq_paired_end_interlacer/1.2.0.1+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72+galaxy1",
@@ -302,8 +302,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json"
       }
     },
     {
@@ -368,11 +368,11 @@
         {
           "workflow": "metagenomics_assembly_tutorial_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
           "path": "topics/assembly/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
           "wfid": "assembly-metagenomics-assembly",
           "wfname": "metagenomics_assembly_tutorial_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-metagenomics-assembly/versions/metagenomics_assembly_tutorial_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-metagenomics-assembly/versions/metagenomics_assembly_tutorial_workflow",
           "license": null,
           "creators": [
 
@@ -382,11 +382,11 @@
         {
           "workflow": "workflow-generate-dataset-for-assembly-tutorial.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
           "path": "topics/assembly/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
           "wfid": "assembly-metagenomics-assembly",
           "wfname": "workflow-generate-dataset-for-assembly-tutorial",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-metagenomics-assembly/versions/workflow-generate-dataset-for-assembly-tutorial",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-metagenomics-assembly/versions/workflow-generate-dataset-for-assembly-tutorial",
           "license": null,
           "creators": [
 
@@ -394,7 +394,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json",
       "tools": [
         "random_lines1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
@@ -590,8 +590,8 @@
           "orcid": "0000-0002-0507-4602",
           "joined": "2022-03",
           "id": "plushz",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/plushz.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/plushz/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/plushz.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/plushz/"
         },
         {
           "name": "Bérénice Batut",
@@ -611,8 +611,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -620,17 +620,17 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json"
       }
     },
     {
@@ -671,8 +671,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         },
         {
           "name": "Alexandre Cormier",
@@ -681,8 +681,8 @@
           "orcid": "0000-0002-7775-8413",
           "joined": "2021-11",
           "id": "alexcorm",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/alexcorm.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alexcorm.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/"
         },
         {
           "name": "Erwan Corre",
@@ -691,8 +691,8 @@
           "orcid": "0000-0001-6354-2278",
           "joined": "2019-04",
           "id": "r1corre",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
         },
         {
           "name": "Laura Leroi",
@@ -700,8 +700,8 @@
           "orcid": "0000-0003-3748-4179",
           "joined": "2021-11",
           "id": "lleroi",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lleroi.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lleroi.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/"
         },
         {
           "name": "Stéphanie Robin",
@@ -710,8 +710,8 @@
           "orcid": "0000-0001-7379-9173",
           "joined": "2021-11",
           "id": "stephanierobin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
         }
       ],
       "follow_up_training": [
@@ -742,11 +742,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
           "wfid": "assembly-assembly-quality-control",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-quality-control/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-quality-control/versions/main_workflow",
           "license": "GPL-3.0-or-later",
           "creators": [
             {
@@ -778,7 +778,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/busco/busco/5.3.2+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/iuc/chromeister/chromeister/1.5.a+galaxy1",
@@ -869,8 +869,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json"
       }
     },
     {
@@ -895,8 +895,8 @@
           "name": "Fabian Recktenwald",
           "joined": "2023-03",
           "id": "GitFab93",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/GitFab93.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/GitFab93/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/GitFab93.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/GitFab93/"
         },
         {
           "name": "Cristóbal Gallardo",
@@ -904,8 +904,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5752-2155",
           "id": "gallardoalba",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
         }
       ],
       "short_id": "T00355",
@@ -927,11 +927,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
           "wfid": "assembly-ERGA-post-assembly-QC",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-ERGA-post-assembly-QC/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-ERGA-post-assembly-QC/versions/main_workflow",
           "license": "AGPL-3.0-or-later",
           "creators": [
             {
@@ -943,7 +943,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
       "tools": [
         "CONVERTER_gz_to_uncompressed",
         "__EXTRACT_DATASET__",
@@ -1135,8 +1135,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json"
       }
     },
     {
@@ -1168,8 +1168,8 @@
           "joined": "2017-09",
           "orcid": "0000-0002-9906-0673",
           "id": "annasyme",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
         }
       ],
       "short_id": "T00331",
@@ -1221,11 +1221,11 @@
         {
           "workflow": "Galaxy-Workflow-Assembly_polishing.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_polishing.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_polishing.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_polishing.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-assembly_polishing",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assembly_polishing",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assembly_polishing",
           "license": null,
           "creators": [
             {
@@ -1239,11 +1239,11 @@
         {
           "workflow": "Galaxy-Workflow-Assembly_with_Flye.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_with_Flye.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_with_Flye.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assembly_with_Flye.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-assembly_with_flye",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assembly_with_flye",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assembly_with_flye",
           "license": null,
           "creators": [
             {
@@ -1257,11 +1257,11 @@
         {
           "workflow": "Galaxy-Workflow-Assess_genome_quality.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assess_genome_quality.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assess_genome_quality.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Assess_genome_quality.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-assess_genome_quality",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assess_genome_quality",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-assess_genome_quality",
           "license": null,
           "creators": [
             {
@@ -1275,11 +1275,11 @@
         {
           "workflow": "Galaxy-Workflow-Combined_workflows_for_large_genome_assembly.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Combined_workflows_for_large_genome_assembly.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Combined_workflows_for_large_genome_assembly.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Combined_workflows_for_large_genome_assembly.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-combined_workflows_for_large_genome_assembly",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-combined_workflows_for_large_genome_assembly",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-combined_workflows_for_large_genome_assembly",
           "license": null,
           "creators": [
             {
@@ -1293,11 +1293,11 @@
         {
           "workflow": "Galaxy-Workflow-Data_QC.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Data_QC.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Data_QC.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Data_QC.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-data_qc",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-data_qc",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-data_qc",
           "license": null,
           "creators": [
             {
@@ -1311,11 +1311,11 @@
         {
           "workflow": "Galaxy-Workflow-Racon_polish_with_Illumina_reads_x2.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_Illumina_reads_x2.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_Illumina_reads_x2.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_Illumina_reads_x2.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-racon_polish_with_illumina_reads_x2",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-racon_polish_with_illumina_reads_x2",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-racon_polish_with_illumina_reads_x2",
           "license": null,
           "creators": [
             {
@@ -1329,11 +1329,11 @@
         {
           "workflow": "Galaxy-Workflow-Racon_polish_with_long_reads_x4.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_long_reads_x4.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_long_reads_x4.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Racon_polish_with_long_reads_x4.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-racon_polish_with_long_reads_x4",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-racon_polish_with_long_reads_x4",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-racon_polish_with_long_reads_x4",
           "license": null,
           "creators": [
             {
@@ -1347,11 +1347,11 @@
         {
           "workflow": "Galaxy-Workflow-Trim_and_filter_reads.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Trim_and_filter_reads.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Trim_and_filter_reads.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-Trim_and_filter_reads.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-trim_and_filter_reads",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-trim_and_filter_reads",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-trim_and_filter_reads",
           "license": null,
           "creators": [
             {
@@ -1365,11 +1365,11 @@
         {
           "workflow": "Galaxy-Workflow-kmer_counting.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-kmer_counting.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-kmer_counting.ga",
           "path": "topics/assembly/tutorials/largegenome/workflows/Galaxy-Workflow-kmer_counting.ga",
           "wfid": "assembly-largegenome",
           "wfname": "galaxy-workflow-kmer_counting",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-kmer_counting",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-largegenome/versions/galaxy-workflow-kmer_counting",
           "license": null,
           "creators": [
             {
@@ -1381,7 +1381,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/largegenome/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/largegenome/tutorial.json",
       "tools": [
         "barchart_gnuplot",
         "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.8.2+galaxy0",
@@ -1540,8 +1540,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/largegenome/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/largegenome/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/largegenome/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/largegenome/tutorial.json"
       }
     },
     {
@@ -1582,8 +1582,8 @@
           "email": "anton@nekrut.org",
           "joined": "2017-09",
           "id": "nekrut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
         },
         {
           "name": "Delphine Lariviere",
@@ -1591,8 +1591,8 @@
           "joined": "2017-09",
           "orcid": "0000-0001-6421-3484",
           "id": "delphine-l",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
         },
         {
           "name": "Helena Rasche",
@@ -1611,8 +1611,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "short_id": "T00032",
@@ -1634,11 +1634,11 @@
         {
           "workflow": "ecoli-comparison.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
           "path": "topics/assembly/tutorials/ecoli_comparison/workflows/ecoli-comparison.ga",
           "wfid": "assembly-ecoli_comparison",
           "wfname": "ecoli-comparison",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-ecoli_comparison/versions/ecoli-comparison",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-ecoli_comparison/versions/ecoli-comparison",
           "license": null,
           "creators": [
 
@@ -1646,7 +1646,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
       "tools": [
         "Cut1",
         "Filter1",
@@ -1855,8 +1855,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json"
       }
     },
     {
@@ -1941,11 +1941,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/mrsa-nanopore/workflows/main_workflow.ga",
           "wfid": "assembly-mrsa-nanopore",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-nanopore/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-nanopore/versions/main_workflow",
           "license": "AGPL-3.0-or-later",
           "creators": [
             {
@@ -1969,7 +1969,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
       "tools": [
         "CONVERTER_bz2_to_uncompressed",
         "Grep1",
@@ -2109,8 +2109,8 @@
           "name": "Bazante Sanders",
           "joined": "2020-12",
           "id": "bazante1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
         },
         {
           "name": "Helena Rasche",
@@ -2129,15 +2129,15 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Bazante Sanders",
           "joined": "2020-12",
           "id": "bazante1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -2157,8 +2157,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Miaomiao Zhou",
@@ -2166,22 +2166,22 @@
           "joined": "2020-12",
           "orcid": "0000-0003-4426-1758",
           "id": "miaomiaozhou88",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/miaomiaozhou88.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/miaomiaozhou88/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/miaomiaozhou88.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/miaomiaozhou88/"
         },
         {
           "name": "Avans Hogeschool",
           "joined": "2020-11",
           "funder": true,
           "funding_statement": "A number of our employees contribute directly to the Galaxy Training Network and seek to make our higher education learning materials more accessible to a wider audience through the GTN platform. <a href=\"https://avans.nl/\">avans.nl</a>",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/avans-atgm.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avans-atgm.json",
           "id": "avans-atgm",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avans-atgm/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avans-atgm/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json"
       }
     },
     {
@@ -2264,11 +2264,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/mrsa-illumina/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/mrsa-illumina/workflows/main_workflow.ga",
           "wfid": "assembly-mrsa-illumina",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-illumina/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-mrsa-illumina/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -2276,7 +2276,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
       "tools": [
         "CONVERTER_bz2_to_uncompressed",
         "Grep1",
@@ -2416,8 +2416,8 @@
           "name": "Bazante Sanders",
           "joined": "2020-12",
           "id": "bazante1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
         },
         {
           "name": "Helena Rasche",
@@ -2436,15 +2436,15 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Bazante Sanders",
           "joined": "2020-12",
           "id": "bazante1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -2464,8 +2464,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Miaomiao Zhou",
@@ -2473,22 +2473,22 @@
           "joined": "2020-12",
           "orcid": "0000-0003-4426-1758",
           "id": "miaomiaozhou88",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/miaomiaozhou88.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/miaomiaozhou88/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/miaomiaozhou88.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/miaomiaozhou88/"
         },
         {
           "name": "Avans Hogeschool",
           "joined": "2020-11",
           "funder": true,
           "funding_statement": "A number of our employees contribute directly to the Galaxy Training Network and seek to make our higher education learning materials more accessible to a wider audience through the GTN platform. <a href=\"https://avans.nl/\">avans.nl</a>",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/avans-atgm.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avans-atgm.json",
           "id": "avans-atgm",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avans-atgm/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avans-atgm/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json"
       }
     },
     {
@@ -2531,8 +2531,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         },
         {
           "name": "Alexandre Cormier",
@@ -2541,8 +2541,8 @@
           "orcid": "0000-0002-7775-8413",
           "joined": "2021-11",
           "id": "alexcorm",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/alexcorm.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alexcorm.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/"
         },
         {
           "name": "Erwan Corre",
@@ -2551,8 +2551,8 @@
           "orcid": "0000-0001-6354-2278",
           "joined": "2019-04",
           "id": "r1corre",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
         },
         {
           "name": "Laura Leroi",
@@ -2560,8 +2560,8 @@
           "orcid": "0000-0003-3748-4179",
           "joined": "2021-11",
           "id": "lleroi",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lleroi.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lleroi.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/"
         },
         {
           "name": "Stéphanie Robin",
@@ -2570,8 +2570,8 @@
           "orcid": "0000-0001-7379-9173",
           "joined": "2021-11",
           "id": "stephanierobin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -2579,12 +2579,12 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "follow_up_training": [
@@ -2615,11 +2615,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/flye-assembly/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/flye-assembly/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/flye-assembly/workflows/main_workflow.ga",
           "wfid": "assembly-flye-assembly",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-flye-assembly/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-flye-assembly/versions/main_workflow",
           "license": "GPL-3.0-or-later",
           "creators": [
             {
@@ -2646,7 +2646,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.9+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/iuc/busco/busco/5.2.2+galaxy0",
@@ -2757,8 +2757,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json"
       }
     },
     {
@@ -2800,8 +2800,8 @@
           "email": "anton@nekrut.org",
           "joined": "2017-09",
           "id": "nekrut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
         },
         {
           "name": "Delphine Lariviere",
@@ -2809,8 +2809,8 @@
           "joined": "2017-09",
           "orcid": "0000-0001-6421-3484",
           "id": "delphine-l",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
         },
         {
           "name": "Simon Gladman",
@@ -2820,8 +2820,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         }
       ],
       "short_id": "T00038",
@@ -2843,11 +2843,11 @@
         {
           "workflow": "unicycler.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/workflows/unicycler.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/unicycler-assembly/workflows/unicycler.ga",
           "path": "topics/assembly/tutorials/unicycler-assembly/workflows/unicycler.ga",
           "wfid": "assembly-unicycler-assembly",
           "wfname": "unicycler",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-unicycler-assembly/versions/unicycler",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-unicycler-assembly/versions/unicycler",
           "license": null,
           "creators": [
 
@@ -2855,7 +2855,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/crs4/prokka/prokka/1.14.5",
         "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72+galaxy1",
@@ -2971,8 +2971,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json"
       }
     },
     {
@@ -3005,8 +3005,8 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Helena Rasche",
@@ -3025,8 +3025,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -3046,8 +3046,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         }
       ],
       "short_id": "T00031",
@@ -3069,11 +3069,11 @@
         {
           "workflow": "debruijn-graph.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/workflows/debruijn-graph.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/debruijn-graph-assembly/workflows/debruijn-graph.ga",
           "path": "topics/assembly/tutorials/debruijn-graph-assembly/workflows/debruijn-graph.ga",
           "wfid": "assembly-debruijn-graph-assembly",
           "wfname": "debruijn-graph",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-debruijn-graph-assembly/versions/debruijn-graph",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-debruijn-graph-assembly/versions/debruijn-graph",
           "license": null,
           "creators": [
 
@@ -3081,7 +3081,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/fasta_stats/fasta-stats/1.0.1",
         "toolshed.g2.bx.psu.edu/repos/nml/spades/spades/3.12.0+galaxy1",
@@ -3172,8 +3172,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json"
       }
     },
     {
@@ -3206,8 +3206,8 @@
           "joined": "2017-09",
           "orcid": "0000-0002-9906-0673",
           "id": "annasyme",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
         }
       ],
       "short_id": "T00030",
@@ -3259,11 +3259,11 @@
         {
           "workflow": "Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
           "path": "topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
           "wfid": "assembly-chloroplast-assembly",
           "wfname": "galaxy-workflow-chloroplast-genome-assembly-and-annotation",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-chloroplast-assembly/versions/galaxy-workflow-chloroplast-genome-assembly-and-annotation",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-chloroplast-assembly/versions/galaxy-workflow-chloroplast-genome-assembly-and-annotation",
           "license": null,
           "creators": [
 
@@ -3271,7 +3271,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6",
         "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6+galaxy0",
@@ -3435,8 +3435,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json"
       }
     },
     {
@@ -3496,8 +3496,8 @@
           "fediverse": "https://scholar.social/@zerodivision",
           "fediverse_flavor": "mastodon",
           "id": "wm75",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
         }
       ],
       "short_id": "T00029",
@@ -3552,11 +3552,11 @@
         {
           "workflow": "assembly_with_preprocessing.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
           "path": "topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
           "wfid": "assembly-assembly-with-preprocessing",
           "wfname": "assembly_with_preprocessing",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing",
           "license": null,
           "creators": [
 
@@ -3566,11 +3566,11 @@
         {
           "workflow": "assembly_with_preprocessing_and_sra_download.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
           "path": "topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
           "wfid": "assembly-assembly-with-preprocessing",
           "wfname": "assembly_with_preprocessing_and_sra_download",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing_and_sra_download",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing_and_sra_download",
           "license": null,
           "creators": [
 
@@ -3578,7 +3578,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
       "tools": [
         "__ZIP_COLLECTION__",
         "toolshed.g2.bx.psu.edu/repos/devteam/bowtie2/bowtie2/2.3.4.3+galaxy0",
@@ -3765,8 +3765,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json"
       }
     },
     {
@@ -3799,8 +3799,8 @@
           "joined": "2017-09",
           "orcid": "0000-0001-6421-3484",
           "id": "delphine-l",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
         },
         {
           "name": "Alex Ostrovsky",
@@ -3808,8 +3808,8 @@
           "orcid": "0000-0002-7901-7109",
           "joined": "2019-06",
           "id": "astrovsky01",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
         },
         {
           "name": "Cristóbal Gallardo",
@@ -3817,22 +3817,22 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5752-2155",
           "id": "gallardoalba",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
         },
         {
           "name": "Brandon Pickett",
           "joined": "2022-01",
           "id": "pickettbd",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pickettbd.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pickettbd/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pickettbd.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pickettbd/"
         },
         {
           "name": "Linelle Abueg",
           "joined": "2022-01",
           "id": "abueg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abueg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abueg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abueg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abueg/"
         }
       ],
       "abbreviations": {
@@ -3867,11 +3867,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_workflow_training/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/vgp_workflow_training/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/vgp_workflow_training/workflows/main_workflow.ga",
           "wfid": "assembly-vgp_workflow_training",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-vgp_workflow_training/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-vgp_workflow_training/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -3879,7 +3879,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
       "tools": [
         "Convert characters1",
         "cat1",
@@ -4101,8 +4101,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json"
       }
     },
     {
@@ -4135,8 +4135,8 @@
           "joined": "2017-09",
           "orcid": "0000-0001-6421-3484",
           "id": "delphine-l",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
         },
         {
           "name": "Alex Ostrovsky",
@@ -4144,8 +4144,8 @@
           "orcid": "0000-0002-7901-7109",
           "joined": "2019-06",
           "id": "astrovsky01",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
         },
         {
           "name": "Cristóbal Gallardo",
@@ -4153,44 +4153,44 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5752-2155",
           "id": "gallardoalba",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
         },
         {
           "name": "Anna Syme",
           "joined": "2017-09",
           "orcid": "0000-0002-9906-0673",
           "id": "annasyme",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
         },
         {
           "name": "Linelle Abueg",
           "joined": "2022-01",
           "id": "abueg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abueg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abueg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abueg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abueg/"
         },
         {
           "name": "Brandon Pickett",
           "joined": "2022-01",
           "id": "pickettbd",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pickettbd.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pickettbd/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pickettbd.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pickettbd/"
         },
         {
           "name": "Giulio Formenti",
           "joined": "2022-01",
           "id": "gf777",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gf777.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gf777/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gf777.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gf777/"
         },
         {
           "name": "Marcella Sozzoni",
           "joined": "2022-03",
           "id": "msozzoni",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/msozzoni.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/msozzoni/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/msozzoni.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/msozzoni/"
         }
       ],
       "abbreviations": {
@@ -4227,11 +4227,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
           "path": "topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
           "wfid": "assembly-vgp_genome_assembly",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-vgp_genome_assembly/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-vgp_genome_assembly/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -4239,7 +4239,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
       "tools": [
         "Convert characters1",
         "cat1",
@@ -4598,8 +4598,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json"
       }
     },
     {
@@ -4629,8 +4629,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         },
         {
           "name": "Simon Gladman",
@@ -4640,16 +4640,16 @@
           "orcid": "0000-0002-6100-4385",
           "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
           "id": "slugger70",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
         },
         {
           "name": "Anton Nekrutenko",
           "email": "anton@nekrut.org",
           "joined": "2017-09",
           "id": "nekrut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
         },
         {
           "name": "Delphine Lariviere",
@@ -4657,8 +4657,8 @@
           "joined": "2017-09",
           "orcid": "0000-0001-6421-3484",
           "id": "delphine-l",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
         }
       ],
       "level": "Intermediate",
@@ -4677,7 +4677,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/algorithms-introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/algorithms-introduction/tutorial.json",
       "tools": [
 
       ],
@@ -4726,8 +4726,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/algorithms-introduction/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/algorithms-introduction/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/algorithms-introduction/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/algorithms-introduction/slides.json"
       }
     },
     {
@@ -4776,7 +4776,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/get-started-genome-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/get-started-genome-assembly/tutorial.json",
       "tools": [
 
       ],
@@ -4832,8 +4832,8 @@
           "orcid": "0000-0002-7775-8413",
           "joined": "2021-11",
           "id": "alexcorm",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/alexcorm.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alexcorm.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/"
         },
         {
           "name": "Laura Leroi",
@@ -4841,8 +4841,8 @@
           "orcid": "0000-0003-3748-4179",
           "joined": "2021-11",
           "id": "lleroi",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lleroi.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lleroi.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/"
         },
         {
           "name": "Anthony Bretaudeau",
@@ -4861,8 +4861,8 @@
           "fediverse": "https://genomic.social/@abretaud",
           "fediverse_flavor": "mastodon",
           "id": "abretaud",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
         },
         {
           "name": "Stéphanie Robin",
@@ -4871,8 +4871,8 @@
           "orcid": "0000-0001-7379-9173",
           "joined": "2021-11",
           "id": "stephanierobin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
         },
         {
           "name": "Erwan Corre",
@@ -4881,8 +4881,8 @@
           "orcid": "0000-0001-6354-2278",
           "joined": "2019-04",
           "id": "r1corre",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -4890,17 +4890,17 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/get-started-genome-assembly/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/get-started-genome-assembly/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/get-started-genome-assembly/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/get-started-genome-assembly/slides.json"
       }
     }
   ]

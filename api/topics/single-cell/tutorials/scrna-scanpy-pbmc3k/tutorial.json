@@ -63,8 +63,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Hans-Rudolf Hotz",
@@ -84,8 +84,8 @@
         "lon": 7.6
       },
       "id": "hrhotz",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
     },
     {
       "name": "Mehmet Tekman",
@@ -93,8 +93,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -146,11 +146,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
       "path": "topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
       "wfid": "single-cell-scrna-scanpy-pbmc3k",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scanpy-pbmc3k/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scanpy-pbmc3k/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -158,7 +158,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

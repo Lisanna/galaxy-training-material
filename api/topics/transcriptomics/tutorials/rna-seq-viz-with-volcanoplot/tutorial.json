@@ -20,8 +20,8 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
     }
   ],
   "requirements": [
@@ -92,11 +92,11 @@
     {
       "workflow": "rna-seq-viz-with-volcanoplot.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/workflows/rna-seq-viz-with-volcanoplot.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/workflows/rna-seq-viz-with-volcanoplot.ga",
       "path": "topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/workflows/rna-seq-viz-with-volcanoplot.ga",
       "wfid": "transcriptomics-rna-seq-viz-with-volcanoplot",
       "wfname": "rna-seq-viz-with-volcanoplot",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-viz-with-volcanoplot/versions/rna-seq-viz-with-volcanoplot",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-viz-with-volcanoplot/versions/rna-seq-viz-with-volcanoplot",
       "license": null,
       "creators": [
 
@@ -104,7 +104,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.5"
   ],

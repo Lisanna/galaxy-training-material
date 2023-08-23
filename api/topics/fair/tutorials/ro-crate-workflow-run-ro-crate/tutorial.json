@@ -40,7 +40,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
   "tools": [
 
   ],
@@ -95,8 +95,8 @@
       "elixir_node": "it",
       "orcid": "0000-0001-8271-5429",
       "id": "simleo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
     },
     {
       "name": "BeYond-COVID",
@@ -105,9 +105,9 @@
       "funding_id": "101046203",
       "funding_system": "cordis",
       "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
       "id": "by-covid",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
     }
   ]
 }

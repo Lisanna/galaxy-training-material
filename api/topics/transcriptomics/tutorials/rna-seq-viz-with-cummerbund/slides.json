@@ -37,7 +37,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.json",
   "tools": [
 
   ],

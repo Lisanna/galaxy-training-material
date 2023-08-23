@@ -19,15 +19,15 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "lecorguille",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
     },
     {
       "name": "Mélanie Petera",
       "joined": "2019-06",
       "id": "melpetera",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
     },
     {
       "name": "Melanie Föll",
@@ -38,8 +38,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
     }
   ],
   "materials": [
@@ -76,15 +76,15 @@
           "joined": "2018-10",
           "elixir_node": "de",
           "id": "foellmelanie",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
         },
         {
           "name": "Maren Stillger",
           "joined": "2020-10",
           "id": "MarenStillger",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/MarenStillger.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarenStillger/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarenStillger.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarenStillger/"
         }
       ],
       "short_id": "T00198",
@@ -106,11 +106,11 @@
         {
           "workflow": "wf_MSI_distribution.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
           "path": "topics/metabolomics/tutorials/msi-analyte-distribution/workflows/wf_MSI_distribution.ga",
           "wfid": "metabolomics-msi-analyte-distribution",
           "wfname": "wf_msi_distribution",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-analyte-distribution/versions/wf_msi_distribution",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-analyte-distribution/versions/wf_msi_distribution",
           "license": null,
           "creators": [
 
@@ -118,7 +118,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
       "tools": [
         "Filter1",
         "toolshed.g2.bx.psu.edu/repos/galaxyp/cardinal_data_exporter/cardinal_data_exporter/2.6.0.0",
@@ -236,8 +236,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json"
       }
     },
     {
@@ -264,37 +264,37 @@
           "name": "Mélanie Petera",
           "joined": "2019-06",
           "id": "melpetera",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
         },
         {
           "name": "Gildas Le Corguillé",
           "joined": "2017-09",
           "elixir_node": "fr",
           "id": "lecorguille",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
         },
         {
           "name": "Jean-François Martin",
           "joined": "2019-06",
           "id": "jfrancoismartin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jfrancoismartin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfrancoismartin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfrancoismartin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfrancoismartin/"
         },
         {
           "name": "Yann Guitton",
           "joined": "2019-06",
           "id": "yguitton",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/yguitton.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yguitton/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yguitton.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yguitton/"
         },
         {
           "name": "Workflow4Metabolomics core team",
           "joined": "2019-06",
           "id": "workflow4metabolomics",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
         }
       ],
       "short_id": "T00195",
@@ -316,11 +316,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
           "path": "topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
           "wfid": "metabolomics-lcms",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-lcms/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-lcms/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -328,7 +328,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/ethevenot/qualitymetrics/quality_metrics/2.2.8",
         "toolshed.g2.bx.psu.edu/repos/ethevenot/univariate/Univariate/2.2.4",
@@ -489,8 +489,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json"
       }
     },
     {
@@ -551,11 +551,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
           "path": "topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
           "wfid": "metabolomics-gc_ms_with_xcms",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-gc_ms_with_xcms/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-gc_ms_with_xcms/versions/main_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -567,7 +567,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/galaxyp/msconvert/msconvert/3.0.20287.2",
         "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",
@@ -726,8 +726,8 @@
           "email": "trojak@mail.muni.cz",
           "orcid": "0000-0003-0841-2707",
           "id": "xtrojak",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/xtrojak.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/xtrojak/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/xtrojak.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/xtrojak/"
         },
         {
           "name": "Helge Hecht",
@@ -735,8 +735,8 @@
           "email": "helge.hecht@recetox.muni.cz",
           "orcid": "0000-0001-6744-996X",
           "id": "hechth",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hechth.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hechth/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hechth.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hechth/"
         },
         {
           "name": "Maxim Skoryk",
@@ -744,8 +744,8 @@
           "orcid": "0000-0003-2056-8018",
           "joined": "2023-03",
           "id": "maximskorik",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/maximskorik.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/maximskorik/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/maximskorik.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/maximskorik/"
         },
         {
           "name": "Helena Rasche",
@@ -764,13 +764,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json"
       }
     },
     {
@@ -816,8 +816,8 @@
           "joined": "2018-10",
           "elixir_node": "de",
           "id": "foellmelanie",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
         }
       ],
       "short_id": "T00199",
@@ -839,11 +839,11 @@
         {
           "workflow": "msi-finding-diff-analytes.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
           "path": "topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
           "wfid": "metabolomics-msi-finding-nglycans",
           "wfname": "msi-finding-diff-analytes",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-finding-nglycans/versions/msi-finding-diff-analytes",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-finding-nglycans/versions/msi-finding-diff-analytes",
           "license": null,
           "creators": [
 
@@ -851,7 +851,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
       "tools": [
         "Filter1",
         "Grep1",
@@ -987,8 +987,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json"
       }
     },
     {
@@ -1007,16 +1007,16 @@
           "joined": "2017-09",
           "elixir_node": "fr",
           "id": "lecorguille",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
         },
         {
           "name": "Cécile Canlet",
           "github": false,
           "joined": "2018-09",
           "id": "cecilecanlet",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/cecilecanlet.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cecilecanlet/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cecilecanlet.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cecilecanlet/"
         }
       ],
       "short_id": "S00076",
@@ -1034,7 +1034,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/introduction/tutorial.json",
       "tools": [
 
       ],
@@ -1083,8 +1083,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/introduction/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/introduction/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/introduction/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/introduction/slides.json"
       }
     },
     {
@@ -1112,30 +1112,30 @@
           "name": "Mélanie Petera",
           "joined": "2019-06",
           "id": "melpetera",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
         },
         {
           "name": "Jean-François Martin",
           "joined": "2019-06",
           "id": "jfrancoismartin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jfrancoismartin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfrancoismartin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfrancoismartin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfrancoismartin/"
         },
         {
           "name": "Gildas Le Corguillé",
           "joined": "2017-09",
           "elixir_node": "fr",
           "id": "lecorguille",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
         },
         {
           "name": "Workflow4Metabolomics core team",
           "joined": "2019-06",
           "id": "workflow4metabolomics",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
         }
       ],
       "short_id": "T00197",
@@ -1153,7 +1153,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/lecorguille/camera_annotate/abims_CAMERA_annotateDiffreport/2.2.6+camera1.48.0-galaxy0",
         "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",
@@ -1305,8 +1305,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json"
       }
     },
     {
@@ -1344,8 +1344,8 @@
           "name": "Julien Saint-Vanne",
           "joined": "2020-01",
           "id": "jsaintvanne",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jsaintvanne.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jsaintvanne/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jsaintvanne.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jsaintvanne/"
         }
       ],
       "short_id": "T00194",
@@ -1363,7 +1363,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/lecorguille/xcms_fillpeaks/abims_xcms_fillPeaks/3.12.0+galaxy0",
@@ -1467,8 +1467,8 @@
         "work-in-progress"
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gcms/tutorial.json"
       }
     },
     {
@@ -1496,15 +1496,15 @@
           "name": "Mélanie Petera",
           "joined": "2019-06",
           "id": "melpetera",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
         },
         {
           "name": "Workflow4Metabolomics core team",
           "joined": "2019-06",
           "id": "workflow4metabolomics",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
         }
       ],
       "short_id": "T00196",
@@ -1522,7 +1522,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/ethevenot/multivariate/Multivariate/2.3.10",
         "toolshed.g2.bx.psu.edu/repos/ethevenot/qualitymetrics/quality_metrics/2.2.8",
@@ -1621,8 +1621,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json"
       }
     }
   ]

@@ -33,8 +33,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Björn Grüning",
@@ -48,8 +48,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -69,8 +69,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     }
   ],
   "short_id": "T00061",
@@ -88,7 +88,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/contributing/tutorials/create-new-tutorial-tours/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/contributing/tutorials/create-new-tutorial-tours/tutorial.json",
   "tools": [
 
   ],

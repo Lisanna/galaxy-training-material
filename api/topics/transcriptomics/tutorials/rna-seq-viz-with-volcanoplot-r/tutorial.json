@@ -24,8 +24,8 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
     }
   ],
   "requirements": [
@@ -100,7 +100,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot-r/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot-r/tutorial.json",
   "tools": [
     "interactive_tool_rstudio",
     "toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.5"

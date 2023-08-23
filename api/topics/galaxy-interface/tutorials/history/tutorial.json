@@ -81,7 +81,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/history/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/history/tutorial.json",
   "tools": [
 
   ],
@@ -135,15 +135,15 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Ekaterina Polkh",
       "joined": "2017-09",
       "id": "polkhe",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/polkhe.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/polkhe/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/polkhe.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/polkhe/"
     },
     {
       "name": "Martin Čech",
@@ -161,8 +161,8 @@
       "fediverse_flavor": "mastodon",
       "joined": "2017-09",
       "id": "martenson",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -170,8 +170,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -191,8 +191,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Bérénice Batut",
@@ -212,8 +212,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Björn Grüning",
@@ -227,8 +227,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Helena Rasche",
@@ -247,8 +247,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ]
 }

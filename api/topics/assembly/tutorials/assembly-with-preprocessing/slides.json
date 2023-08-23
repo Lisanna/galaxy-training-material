@@ -102,11 +102,11 @@
     {
       "workflow": "assembly_with_preprocessing.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
       "path": "topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing.ga",
       "wfid": "assembly-assembly-with-preprocessing",
       "wfname": "assembly_with_preprocessing",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing",
       "license": null,
       "creators": [
 
@@ -116,11 +116,11 @@
     {
       "workflow": "assembly_with_preprocessing_and_sra_download.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
       "path": "topics/assembly/tutorials/assembly-with-preprocessing/workflows/assembly_with_preprocessing_and_sra_download.ga",
       "wfid": "assembly-assembly-with-preprocessing",
       "wfname": "assembly_with_preprocessing_and_sra_download",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing_and_sra_download",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-with-preprocessing/versions/assembly_with_preprocessing_and_sra_download",
       "license": null,
       "creators": [
 
@@ -128,7 +128,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
   "tools": [
     "__ZIP_COLLECTION__",
     "toolshed.g2.bx.psu.edu/repos/devteam/bowtie2/bowtie2/2.3.4.3+galaxy0",

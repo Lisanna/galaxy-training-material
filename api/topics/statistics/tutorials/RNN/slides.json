@@ -89,11 +89,11 @@
     {
       "workflow": "Intro_To_RNN.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/RNN/workflows/Intro_To_RNN.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/RNN/workflows/Intro_To_RNN.ga",
       "path": "topics/statistics/tutorials/RNN/workflows/Intro_To_RNN.ga",
       "wfid": "statistics-RNN",
       "wfname": "intro_to_rnn",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-RNN/versions/intro_to_rnn",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-RNN/versions/intro_to_rnn",
       "license": null,
       "creators": [
 
@@ -101,7 +101,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/RNN/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/RNN/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_builder/keras_model_builder/0.5.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_config/keras_model_config/0.5.0",

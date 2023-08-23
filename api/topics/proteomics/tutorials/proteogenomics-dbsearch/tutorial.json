@@ -41,8 +41,8 @@
       "orcid": "0000-0001-9818-0537",
       "joined": "2018-06",
       "id": "subinamehta",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
     },
     {
       "name": "Timothy J. Griffin",
@@ -51,8 +51,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6801-2559",
       "id": "timothygriffin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/timothygriffin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/timothygriffin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/timothygriffin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/timothygriffin/"
     },
     {
       "name": "Pratik Jagtap",
@@ -60,32 +60,32 @@
       "joined": "2017-09",
       "orcid": "0000-0003-0984-0973",
       "id": "pratikdjagtap",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
     },
     {
       "name": "Ray Sajulga",
       "email": "rsajulga@umn.edu",
       "joined": "2018-11",
       "id": "jraysajulga",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jraysajulga.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jraysajulga/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jraysajulga.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jraysajulga/"
     },
     {
       "name": "James Johnson",
       "email": "jj@umn.edu",
       "joined": "2017-09",
       "id": "jj-umn",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jj-umn.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jj-umn/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jj-umn.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jj-umn/"
     },
     {
       "name": "Praveen Kumar",
       "email": "kumar207@umn.edu",
       "joined": "2019-04",
       "id": "pravs3683",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pravs3683.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pravs3683/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pravs3683.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pravs3683/"
     }
   ],
   "subtopic": "multi-omics",
@@ -145,11 +145,11 @@
     {
       "workflow": "galaxy-workflow-mouse_rnaseq_dbsearch.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/proteogenomics-dbsearch/workflows/galaxy-workflow-mouse_rnaseq_dbsearch.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/proteogenomics-dbsearch/workflows/galaxy-workflow-mouse_rnaseq_dbsearch.ga",
       "path": "topics/proteomics/tutorials/proteogenomics-dbsearch/workflows/galaxy-workflow-mouse_rnaseq_dbsearch.ga",
       "wfid": "proteomics-proteogenomics-dbsearch",
       "wfname": "galaxy-workflow-mouse_rnaseq_dbsearch",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-proteogenomics-dbsearch/versions/galaxy-workflow-mouse_rnaseq_dbsearch",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-proteogenomics-dbsearch/versions/galaxy-workflow-mouse_rnaseq_dbsearch",
       "license": null,
       "creators": [
 
@@ -157,7 +157,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/tabular_to_fasta/tab2fasta/1.1.1",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/mz_to_sqlite/mz_to_sqlite/2.0.4+galaxy1",

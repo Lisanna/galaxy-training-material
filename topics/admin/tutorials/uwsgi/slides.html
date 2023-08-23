@@ -19,7 +19,7 @@
 <script type="text/javascript">
 Sentry.init({
   dsn: "https://45e0ec6e4373462b92969505df37cf40@sentry.galaxyproject.org/10",
-  release: "galaxy-training-network@a20023d4520db76364bfad637810cad968628355",
+  release: "galaxy-training-network@4e9869a48a09ae73c3957d99df86de6d46c9df32",
   integrations: [new Sentry.BrowserTracing(), new Sentry.Replay()],
   sampleRate: 0.1,
   tracesSampleRate: 0.1,
@@ -34,14 +34,14 @@ Sentry.init({
 </script>
 
         
-        <link rel="shortcut icon" href="/training-material/favicon.ico" type="image/x-icon">
-        <link rel="alternate" type="application/atom+xml" href="/training-material/feed.xml">
-        <link rel="canonical" href="https://training.galaxyproject.org/training-material/topics/admin/tutorials/uwsgi/slides.html">
+        <link rel="shortcut icon" href="/galaxy-training-material/favicon.ico" type="image/x-icon">
+        <link rel="alternate" type="application/atom+xml" href="/galaxy-training-material/feed.xml">
+        <link rel="canonical" href="https://training.galaxyproject.org/galaxy-training-material/topics/admin/tutorials/uwsgi/slides.html">
         <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0">
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="stylesheet" href="/training-material/assets/css/main.css?v=3">
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="stylesheet" href="/galaxy-training-material/assets/css/main.css?v=3">
         <script src="https://kit.fontawesome.com/67b3f98409.js" crossorigin="anonymous"></script>
 
         <meta name="DC.identifier" content="https://github.com/galaxyproject/training-material">
@@ -61,7 +61,7 @@ Sentry.init({
         <meta property="og:title" content="Galaxy Training: uWSGI" />
         <meta property="og:description" content="Resources related to configuration and maintenance of Gal..." />
         
-        <meta property="og:image" content="/training-material/assets/images/gat.png">
+        <meta property="og:image" content="/galaxy-training-material/assets/images/gat.png">
 
         <script type="application/ld+json">
             
@@ -140,11 +140,11 @@ Sentry.init({
     "@type": "CreativeWork",
     "name": "Galaxy Server administration",
     "description": "Resources related to configuration and maintenance of Galaxy servers",
-    "url": "https://training.galaxyproject.org/training-material/topics/admin/"
+    "url": "https://training.galaxyproject.org/galaxy-training-material/topics/admin/"
   },
   "learningResourceType": "slides",
   "name": "Slides for 'uWSGI' tutorial",
-  "url": "https://training.galaxyproject.org/training-material/topics/admin/tutorials/uwsgi/slides.html",
+  "url": "https://training.galaxyproject.org/galaxy-training-material/topics/admin/tutorials/uwsgi/slides.html",
   "keywords": "admin",
   "description": "",
   "inLanguage": {
@@ -160,8 +160,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/",
       "name": "Nate Coraor",
       "image": "https://avatars.githubusercontent.com/natefoo",
       "description": "A contributor to the GTN project.",
@@ -183,8 +183,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/",
       "name": "Simon Gladman",
       "image": "https://avatars.githubusercontent.com/slugger70",
       "description": "A contributor to the GTN project.",
@@ -205,7 +205,7 @@ Sentry.init({
       "@type": "CreativeWork",
       "name": "Galaxy Server administration",
       "description": "Resources related to configuration and maintenance of Galaxy servers",
-      "url": "https://training.galaxyproject.org/training-material/topics/admin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/admin/"
     }
   ],
   "educationalLevel": "Introductory",
@@ -219,14 +219,14 @@ Sentry.init({
   <body>
 
 
-    <script type="text/javascript" src="/training-material/assets/js/theme.js"></script>
+    <script type="text/javascript" src="/galaxy-training-material/assets/js/theme.js"></script>
     <textarea id="source">
 name: inverse
 layout: true
 class: center, middle, inverse
 
 <div class="my-header"><span>
-<a href="/training-material/topics/admin" title="Return to topic page" ><i class="fa fa-level-up" aria-hidden="true"></i></a>
+<a href="/galaxy-training-material/topics/admin" title="Return to topic page" ><i class="fa fa-level-up" aria-hidden="true"></i></a>
 
 <a class="nav-link" href="https://github.com/galaxyproject/training-material/edit/main/topics/admin/tutorials/uwsgi/slides.html"><i class="fa fa-pencil" aria-hidden="true"></i></a>
 
@@ -235,7 +235,7 @@ class: center, middle, inverse
 <div class="my-footer"><span>
 
   
-<img src="/training-material/assets/images/gat.png" alt="page logo" style="height: 40px;"/>
+<img src="/galaxy-training-material/assets/images/gat.png" alt="page logo" style="height: 40px;"/>
   
 
 </span></div>
@@ -245,7 +245,7 @@ class: center, middle, inverse
 
 
   
-<img src="/training-material/assets/images/gat.png" alt="page logo" class="cover-logo" />
+<img src="/galaxy-training-material/assets/images/gat.png" alt="page logo" class="cover-logo" />
   
 
 
@@ -255,7 +255,7 @@ class: center, middle, inverse
 <div markdown="0">
 
 	<div class="contributors-line">
-		Authors: <a href="/training-material/hall-of-fame/natefoo/" class="contributor-badge contributor-natefoo"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/natefoo?s=36" alt="Avatar" width="36" height="36">Nate Coraor</a><a href="/training-material/hall-of-fame/slugger70/" class="contributor-badge contributor-slugger70"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/slugger70?s=36" alt="Avatar" width="36" height="36">Simon Gladman</a>
+		Authors: <a href="/galaxy-training-material/hall-of-fame/natefoo/" class="contributor-badge contributor-natefoo"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/natefoo?s=36" alt="Avatar" width="36" height="36">Nate Coraor</a><a href="/galaxy-training-material/hall-of-fame/slugger70/" class="contributor-badge contributor-slugger70"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/slugger70?s=36" alt="Avatar" width="36" height="36">Simon Gladman</a>
 	</div>
 
 </div>
@@ -916,7 +916,7 @@ This material is the result of a collaborative work. Thanks to the [Galaxy Train
 <div markdown="0">
 
 	<div class="contributors-line">
-		Authors: <a href="/training-material/hall-of-fame/natefoo/" class="contributor-badge contributor-natefoo"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/natefoo?s=36" alt="Avatar" width="36" height="36">Nate Coraor</a><a href="/training-material/hall-of-fame/slugger70/" class="contributor-badge contributor-slugger70"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/slugger70?s=36" alt="Avatar" width="36" height="36">Simon Gladman</a>
+		Authors: <a href="/galaxy-training-material/hall-of-fame/natefoo/" class="contributor-badge contributor-natefoo"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/natefoo?s=36" alt="Avatar" width="36" height="36">Nate Coraor</a><a href="/galaxy-training-material/hall-of-fame/slugger70/" class="contributor-badge contributor-slugger70"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/slugger70?s=36" alt="Avatar" width="36" height="36">Simon Gladman</a>
 	</div>
 
 </div>
@@ -925,7 +925,7 @@ This material is the result of a collaborative work. Thanks to the [Galaxy Train
 <div style="display: flex;flex-direction: row;align-items: center;justify-content: center;">
 
   
-<img src="/training-material/assets/images/gat.png" alt="page logo" style="height: 100px;"/>
+<img src="/galaxy-training-material/assets/images/gat.png" alt="page logo" style="height: 100px;"/>
   
 
 
@@ -936,9 +936,9 @@ This material is licensed under the Creative Commons Attribution 4.0 Internation
 
 
     </textarea>
-	<script src="/training-material/assets/js/remark-latest.min.js"></script>
-    <script src="/training-material/assets/js/theme.js"></script>
-    <script src="/training-material/assets/js/clipboard.min.js"></script>
+	<script src="/galaxy-training-material/assets/js/remark-latest.min.js"></script>
+    <script src="/galaxy-training-material/assets/js/theme.js"></script>
+    <script src="/galaxy-training-material/assets/js/clipboard.min.js"></script>
     <script>
       var slideshow = remark.create({navigation: {scroll: false}, ratio: '16:9'});
       var hljs = remark.highlighter.engine;
@@ -963,15 +963,15 @@ This material is licensed under the Creative Commons Attribution 4.0 Internation
 
         }
     </script>
-        <script type="text/javascript" src="/training-material/assets/js/jquery.slim.min.js"></script>
-        <script type="text/javascript" src="/training-material/assets/js/popper.min.js"></script>
-        <script type="text/javascript" src="/training-material/assets/js/bootstrap.min.js?v=3"></script>
-        <script type="text/javascript" src="/training-material/assets/js/details-element-polyfill.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/jquery.slim.min.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/popper.min.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/bootstrap.min.js?v=3"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/details-element-polyfill.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-        <script type="text/javascript" src="/training-material/assets/js/bootstrap-toc.min.js"></script>
-        <script type="text/javascript" src="/training-material/assets/js/main.js"></script>
-        <script type="text/javascript" src="/training-material/assets/js/theme.js"></script>
-        <script type="text/javascript" src="/training-material/assets/js/clipboard.min.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/bootstrap-toc.min.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/main.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/theme.js"></script>
+        <script type="text/javascript" src="/galaxy-training-material/assets/js/clipboard.min.js"></script>
 
     </body>
 </html>

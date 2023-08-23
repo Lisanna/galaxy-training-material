@@ -34,8 +34,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
     }
   ],
   "short_id": "T00128",
@@ -57,11 +57,11 @@
     {
       "workflow": "Galaxy-Workflow-de-novo-rad-seq.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/de-novo-rad-seq/workflows/Galaxy-Workflow-de-novo-rad-seq.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/de-novo-rad-seq/workflows/Galaxy-Workflow-de-novo-rad-seq.ga",
       "path": "topics/ecology/tutorials/de-novo-rad-seq/workflows/Galaxy-Workflow-de-novo-rad-seq.ga",
       "wfid": "ecology-de-novo-rad-seq",
       "wfname": "galaxy-workflow-de-novo-rad-seq",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-de-novo-rad-seq/versions/galaxy-workflow-de-novo-rad-seq",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-de-novo-rad-seq/versions/galaxy-workflow-de-novo-rad-seq",
       "license": null,
       "creators": [
 
@@ -69,7 +69,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/de-novo-rad-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/de-novo-rad-seq/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.69",
     "toolshed.g2.bx.psu.edu/repos/iuc/stacks_denovomap/stacks_denovomap/1.46.0",

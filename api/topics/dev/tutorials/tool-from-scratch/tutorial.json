@@ -29,23 +29,23 @@
       "orcid": "0000-0002-7901-7109",
       "joined": "2019-06",
       "id": "astrovsky01",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
     },
     {
       "name": "Dave B.",
       "joined": "2021-06",
       "id": "davebx",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/davebx.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/davebx/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/davebx.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/davebx/"
     },
     {
       "name": "Matthias Bernt",
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bernt-matthias",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bernt-matthias.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bernt-matthias/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bernt-matthias.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bernt-matthias/"
     }
   ],
   "short_id": "T00117",
@@ -122,7 +122,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/tool-from-scratch/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/tool-from-scratch/tutorial.json",
   "tools": [
 
   ],

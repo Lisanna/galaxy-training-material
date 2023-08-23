@@ -22,8 +22,8 @@
       "email": "sigloch+github@mailbox.org",
       "joined": "2017-09",
       "id": "stortebecker",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/stortebecker.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stortebecker/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stortebecker.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stortebecker/"
     },
     {
       "name": "Björn Grüning",
@@ -37,8 +37,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     }
   ],
   "subtopic": "id-quant",
@@ -60,7 +60,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/labelfree-vs-labelled/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/labelfree-vs-labelled/tutorial.json",
   "tools": [
 
   ],

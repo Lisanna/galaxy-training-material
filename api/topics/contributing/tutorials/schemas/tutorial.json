@@ -26,8 +26,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00070",
@@ -45,7 +45,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/contributing/tutorials/schemas/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/contributing/tutorials/schemas/tutorial.json",
   "tools": [
 
   ],

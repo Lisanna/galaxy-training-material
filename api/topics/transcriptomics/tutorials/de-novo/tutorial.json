@@ -88,11 +88,11 @@
     {
       "workflow": "transcriptomics-denovo-workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/de-novo/workflows/transcriptomics-denovo-workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/de-novo/workflows/transcriptomics-denovo-workflow.ga",
       "path": "topics/transcriptomics/tutorials/de-novo/workflows/transcriptomics-denovo-workflow.ga",
       "wfid": "transcriptomics-de-novo",
       "wfname": "transcriptomics-denovo-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-de-novo/versions/transcriptomics-denovo-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-de-novo/versions/transcriptomics-denovo-workflow",
       "license": null,
       "creators": [
 
@@ -100,7 +100,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/de-novo/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/de-novo/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_coverage/deeptools_bam_coverage/3.3.0.0.0",
@@ -244,8 +244,8 @@
       "orcid": "0000-0003-2949-3921",
       "joined": "2017-09",
       "id": "malloryfreeberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/malloryfreeberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/malloryfreeberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/malloryfreeberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/malloryfreeberg/"
     },
     {
       "name": "Mo Heydarian",
@@ -253,16 +253,16 @@
       "orcid": "0000-0001-9449-9364",
       "joined": "2017-09",
       "id": "moheydarian",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/moheydarian.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/moheydarian/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/moheydarian.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/moheydarian/"
     },
     {
       "name": "James Taylor",
       "joined": "2018-06",
       "in_memoriam": "<a href=\"https://galaxyproject.org/jxtx/\">James Taylor, a leader of the Galaxy Project, and one of its original members, passed away on April 2, 2020.</a>\n\nHis impacts on the Galaxy community, have been incredible, and his loss is keenly felt.",
       "id": "jxtx",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jxtx.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jxtx/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jxtx.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jxtx/"
     }
   ]
 }

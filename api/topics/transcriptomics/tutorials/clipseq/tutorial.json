@@ -29,15 +29,15 @@
       "elixir_node": "de",
       "orcid": "0000-0002-3651-5685",
       "id": "heylf",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/heylf.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/heylf/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/heylf.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/heylf/"
     },
     {
       "name": "Daniel Maticzka",
       "joined": "2018-08",
       "id": "dmaticzka",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/dmaticzka.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dmaticzka/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dmaticzka.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dmaticzka/"
     },
     {
       "name": "Bérénice Batut",
@@ -57,8 +57,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00288",
@@ -80,11 +80,11 @@
     {
       "workflow": "init_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/clipseq/workflows/init_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/clipseq/workflows/init_workflow.ga",
       "path": "topics/transcriptomics/tutorials/clipseq/workflows/init_workflow.ga",
       "wfid": "transcriptomics-clipseq",
       "wfname": "init_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-clipseq/versions/init_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-clipseq/versions/init_workflow",
       "license": null,
       "creators": [
 
@@ -92,7 +92,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/clipseq/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/clipseq/tutorial.json",
   "tools": [
     "__MERGE_COLLECTION__",
     "__SORTLIST__",

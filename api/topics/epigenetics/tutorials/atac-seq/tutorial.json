@@ -31,16 +31,16 @@
         "lon": 6.56
       },
       "id": "lldelisle",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
     },
     {
       "name": "Maria Doyle",
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Florian Heyl",
@@ -48,8 +48,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-3651-5685",
       "id": "heylf",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/heylf.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/heylf/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/heylf.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/heylf/"
     }
   ],
   "short_id": "T00137",
@@ -137,11 +137,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
       "path": "topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
       "wfid": "epigenetics-atac-seq",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -149,7 +149,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

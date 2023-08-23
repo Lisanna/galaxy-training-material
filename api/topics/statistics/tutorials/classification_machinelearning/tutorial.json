@@ -26,8 +26,8 @@
       "orcid": "0000-0001-6811-9196",
       "joined": "2019-07",
       "id": "khanteymoori",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/khanteymoori.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/khanteymoori/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/khanteymoori.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/khanteymoori/"
     },
     {
       "name": "Anup Kumar",
@@ -36,16 +36,16 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
     },
     {
       "name": "Simon Bray",
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
     }
   ],
   "short_id": "T00262",
@@ -103,11 +103,11 @@
     {
       "workflow": "ml_classification.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/classification_machinelearning/workflows/ml_classification.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/classification_machinelearning/workflows/ml_classification.ga",
       "path": "topics/statistics/tutorials/classification_machinelearning/workflows/ml_classification.ga",
       "wfid": "statistics-classification_machinelearning",
       "wfname": "ml_classification",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-classification_machinelearning/versions/ml_classification",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-classification_machinelearning/versions/ml_classification",
       "license": null,
       "creators": [
 
@@ -115,7 +115,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_machinelearning/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/classification_machinelearning/tutorial.json",
   "tools": [
     "Remove beginning1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_ml_performance_plots/plotly_ml_performance_plots/0.2",

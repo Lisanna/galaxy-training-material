@@ -37,8 +37,8 @@
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
     },
     {
       "name": "Wolfgang Maier",
@@ -49,8 +49,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
     }
   ],
   "subtopic": "workflows",
@@ -108,11 +108,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/workflow-automation/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/workflow-automation/workflows/main_workflow.ga",
       "path": "topics/galaxy-interface/tutorials/workflow-automation/workflows/main_workflow.ga",
       "wfid": "galaxy-interface-workflow-automation",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-automation/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-automation/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -124,7 +124,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/bcftools_consensus/bcftools_consensus/1.10",
     "toolshed.g2.bx.psu.edu/repos/iuc/compose_text_param/compose_text_param/0.1.1",

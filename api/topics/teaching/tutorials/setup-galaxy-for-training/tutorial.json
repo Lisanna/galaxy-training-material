@@ -41,8 +41,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Bérénice Batut",
@@ -62,8 +62,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00285",
@@ -81,7 +81,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/teaching/tutorials/setup-galaxy-for-training/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/teaching/tutorials/setup-galaxy-for-training/tutorial.json",
   "tools": [
 
   ],

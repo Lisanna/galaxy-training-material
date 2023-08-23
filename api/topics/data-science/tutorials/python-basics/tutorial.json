@@ -33,8 +33,8 @@
       "joined": "2021-09",
       "elixir_node": "gr",
       "id": "mcmaniou",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mcmaniou.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mcmaniou/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mcmaniou.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mcmaniou/"
     },
     {
       "name": "Fotis E. Psomopoulos",
@@ -46,15 +46,15 @@
       "joined": "2019-03",
       "elixir_node": "gr",
       "id": "fpsom",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/fpsom.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fpsom/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fpsom.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fpsom/"
     },
     {
       "name": "The Carpentries",
       "joined": "2021-09",
       "id": "carpentries",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/carpentries.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/carpentries/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/carpentries.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/carpentries/"
     },
     {
       "name": "Erasmus+ Programme",
@@ -62,12 +62,12 @@
       "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
       "github": false,
       "funder": true,
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
       "funding_id": "2020-1-NL01-KA203-064717",
       "funding_system": "erasmusplus",
       "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
       "id": "erasmusplus",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
     }
   ],
   "priority": 1,
@@ -90,7 +90,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/data-science/tutorials/python-basics/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/python-basics/tutorial.json",
   "tools": [
 
   ],

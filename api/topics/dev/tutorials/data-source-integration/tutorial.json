@@ -27,8 +27,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -48,8 +48,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Gianmauro Cuccuru",
@@ -57,8 +57,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5335-545X",
       "id": "gmauro",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/gmauro.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gmauro/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gmauro.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gmauro/"
     },
     {
       "name": "Helena Rasche",
@@ -77,8 +77,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ],
   "key_points": [
@@ -102,7 +102,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/data-source-integration/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/data-source-integration/tutorial.json",
   "tools": [
 
   ],

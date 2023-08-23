@@ -73,11 +73,11 @@
     {
       "workflow": "bulk_ESet.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
       "path": "topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
       "wfid": "single-cell-bulk-music-3-preparebulk",
       "wfname": "bulk_eset",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-3-preparebulk/versions/bulk_eset",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-3-preparebulk/versions/bulk_eset",
       "license": null,
       "creators": [
         {
@@ -94,7 +94,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
   "tools": [
     "sort1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/music_construct_eset/music_construct_eset/0.1.1+galaxy4",
@@ -231,8 +231,8 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Mehmet Tekman",
@@ -240,8 +240,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Marisa Loach",
@@ -250,8 +250,8 @@
       "email": "marisa.loach@open.ac.uk",
       "joined": "2022-10",
       "id": "MarisaJL",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
     }
   ]
 }

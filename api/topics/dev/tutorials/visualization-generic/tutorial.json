@@ -41,15 +41,15 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Youri Hoogstrate",
       "joined": "2017-09",
       "id": "yhoogstrate",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yhoogstrate.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yhoogstrate/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yhoogstrate.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yhoogstrate/"
     }
   ],
   "short_id": "T00121",
@@ -67,7 +67,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/visualization-generic/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/visualization-generic/tutorial.json",
   "tools": [
 
   ],

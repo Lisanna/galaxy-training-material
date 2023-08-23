@@ -66,11 +66,11 @@
     {
       "workflow": "Galaxy-Workflow-galaxy-intro-short.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/workflows/Galaxy-Workflow-galaxy-intro-short.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/introduction/tutorials/galaxy-intro-short/workflows/Galaxy-Workflow-galaxy-intro-short.ga",
       "path": "topics/introduction/tutorials/galaxy-intro-short/workflows/Galaxy-Workflow-galaxy-intro-short.ga",
       "wfid": "introduction-galaxy-intro-short",
       "wfname": "galaxy-workflowlaxy-intro-short",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-short/versions/galaxy-workflowlaxy-intro-short",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-short/versions/galaxy-workflowlaxy-intro-short",
       "license": null,
       "creators": [
 
@@ -78,7 +78,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-short/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/galaxy-intro-short/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_filter/cshl_fastq_quality_filter/1.0.1",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_filter/cshl_fastq_quality_filter/1.0.2+galaxy0",
@@ -181,8 +181,8 @@
       "joined": "2017-09",
       "orcid": "0000-0002-9906-0673",
       "id": "annasyme",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
     },
     {
       "name": "Nicola Soranzo",
@@ -192,8 +192,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Bérénice Batut",
@@ -213,8 +213,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     }
   ]
 }

@@ -28,8 +28,8 @@
       "email": "sigloch+github@mailbox.org",
       "joined": "2017-09",
       "id": "stortebecker",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/stortebecker.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stortebecker/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stortebecker.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stortebecker/"
     },
     {
       "name": "Björn Grüning",
@@ -43,8 +43,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     }
   ],
   "subtopic": "id-quant",
@@ -70,11 +70,11 @@
     {
       "workflow": "wf_database-handling.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/database-handling/workflows/wf_database-handling.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/database-handling/workflows/wf_database-handling.ga",
       "path": "topics/proteomics/tutorials/database-handling/workflows/wf_database-handling.ga",
       "wfid": "proteomics-database-handling",
       "wfname": "wf_database-handling",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-database-handling/versions/wf_database-handling",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-database-handling/versions/wf_database-handling",
       "license": null,
       "creators": [
 
@@ -84,11 +84,11 @@
     {
       "workflow": "wf_database-handling_mycoplasma.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/database-handling/workflows/wf_database-handling_mycoplasma.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/database-handling/workflows/wf_database-handling_mycoplasma.ga",
       "path": "topics/proteomics/tutorials/database-handling/workflows/wf_database-handling_mycoplasma.ga",
       "wfid": "proteomics-database-handling",
       "wfname": "wf_database-handling_mycoplasma",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-database-handling/versions/wf_database-handling_mycoplasma",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-database-handling/versions/wf_database-handling_mycoplasma",
       "license": null,
       "creators": [
 
@@ -96,7 +96,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/database-handling/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/database-handling/tutorial.json",
   "tools": [
     "addValue",
     "toolshed.g2.bx.psu.edu/repos/devteam/fasta_to_tabular/fasta2tab/1.1.1",

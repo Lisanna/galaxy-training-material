@@ -25,8 +25,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Alex Ostrovsky",
@@ -34,8 +34,8 @@
       "orcid": "0000-0002-7901-7109",
       "joined": "2019-06",
       "id": "astrovsky01",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
     }
   ],
   "short_id": "T00314",
@@ -57,11 +57,11 @@
     {
       "workflow": "Calling_variants_in_non-diploid_systems.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/non-dip/workflows/Calling_variants_in_non-diploid_systems.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/non-dip/workflows/Calling_variants_in_non-diploid_systems.ga",
       "path": "topics/variant-analysis/tutorials/non-dip/workflows/Calling_variants_in_non-diploid_systems.ga",
       "wfid": "variant-analysis-non-dip",
       "wfname": "calling_variants_in_non-diploid_systems",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-non-dip/versions/calling_variants_in_non-diploid_systems",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-non-dip/versions/calling_variants_in_non-diploid_systems",
       "license": null,
       "creators": [
 
@@ -69,7 +69,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/non-dip/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/non-dip/tutorial.json",
   "tools": [
     "Cut1",
     "toolshed.g2.bx.psu.edu/repos/devteam/bamtools_filter/bamFilter/2.4.1",

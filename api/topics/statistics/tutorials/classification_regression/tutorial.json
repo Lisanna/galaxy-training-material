@@ -28,8 +28,8 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
     },
     {
       "name": "Bérénice Batut",
@@ -49,8 +49,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00263",
@@ -72,11 +72,11 @@
     {
       "workflow": "classification_LSVC.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/classification_regression/workflows/classification_LSVC.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/classification_regression/workflows/classification_LSVC.ga",
       "path": "topics/statistics/tutorials/classification_regression/workflows/classification_LSVC.ga",
       "wfid": "statistics-classification_regression",
       "wfname": "classification_lsvc",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-classification_regression/versions/classification_lsvc",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-classification_regression/versions/classification_lsvc",
       "license": null,
       "creators": [
 
@@ -86,11 +86,11 @@
     {
       "workflow": "regression_GradientBoosting.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/classification_regression/workflows/regression_GradientBoosting.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/classification_regression/workflows/regression_GradientBoosting.ga",
       "path": "topics/statistics/tutorials/classification_regression/workflows/regression_GradientBoosting.ga",
       "wfid": "statistics-classification_regression",
       "wfname": "regression_gradientboosting",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-classification_regression/versions/regression_gradientboosting",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-classification_regression/versions/regression_gradientboosting",
       "license": null,
       "creators": [
 
@@ -98,7 +98,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_regression/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/classification_regression/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_ml_performance_plots/plotly_ml_performance_plots/0.1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_regression_performance_plots/plotly_regression_performance_plots/0.1",

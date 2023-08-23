@@ -27,8 +27,8 @@
       "joined": "2018-09",
       "elixir_node": "nl",
       "id": "willemdek11",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/willemdek11.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/willemdek11/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/willemdek11.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/willemdek11/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -48,8 +48,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     }
   ],
   "tags": [
@@ -112,11 +112,11 @@
     {
       "workflow": "Workflow-plasmid-metagenomics-nanopore.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
       "path": "topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
       "wfid": "metagenomics-plasmid-metagenomics-nanopore",
       "wfname": "workflow-plasmid-metagenomics-nanopore",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-plasmid-metagenomics-nanopore/versions/workflow-plasmid-metagenomics-nanopore",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-plasmid-metagenomics-nanopore/versions/workflow-plasmid-metagenomics-nanopore",
       "license": null,
       "creators": [
 
@@ -124,7 +124,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/racon/racon/1.3.1.1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/racon/racon/1.4.13",

@@ -25,8 +25,8 @@
       "elixir_node": "no",
       "orcid": "0000-0002-1784-2920",
       "id": "annefou",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
     }
   ],
   "short_id": "T00041",
@@ -48,11 +48,11 @@
     {
       "workflow": "climate_101_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
       "path": "topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
       "wfid": "climate-climate-101",
       "wfname": "climate_101_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-climate-101/versions/climate_101_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-climate-101/versions/climate_101_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -64,7 +64,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
   "tools": [
     "Grep1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/1.1.1",

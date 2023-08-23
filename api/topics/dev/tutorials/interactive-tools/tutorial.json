@@ -45,8 +45,8 @@
       "joined": "2021-01",
       "elixir_node": "fr",
       "id": "eancelet",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/eancelet.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eancelet/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eancelet.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eancelet/"
     },
     {
       "name": "Yvan Le Bras",
@@ -57,8 +57,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
     },
     {
       "name": "Cameron Hyde",
@@ -67,8 +67,8 @@
       "joined": "2022-02",
       "elixir_node": "au",
       "id": "neoformit",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/neoformit.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/neoformit/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/neoformit.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/neoformit/"
     },
     {
       "name": "Lain Pavot",
@@ -76,8 +76,8 @@
       "joined": "2022-02",
       "elixir_node": "fr",
       "id": "Lain-inrae",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/Lain-inrae.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/Lain-inrae/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/Lain-inrae.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/Lain-inrae/"
     },
     {
       "name": "Anthony Bretaudeau",
@@ -96,8 +96,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Helena Rasche",
@@ -116,8 +116,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00116",
@@ -135,7 +135,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/interactive-tools/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/interactive-tools/tutorial.json",
   "tools": [
 
   ],
