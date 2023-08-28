@@ -1398,6 +1398,7 @@
       "layout": "tutorial_hands_on",
       "title": "One gene across biological resources and formats",
       "level": "Introductory",
+      "draft": true,
       "zenodo_link": "",
       "questions": [
         "How to employ bioinformatics resources to investigate a specific protein family (opsins)?",
@@ -1552,6 +1553,9 @@
         "video": false
       },
       "type": "tutorial",
+      "tags": [
+        "work-in-progress"
+      ],
       "urls": {
         "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-gene/tutorial.json",
         "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-gene/tutorial.json"
@@ -1861,6 +1865,7 @@
       "layout": "tutorial_hands_on",
       "title": "One protein along the UniProt page",
       "level": "Introductory",
+      "draft": true,
       "zenodo_link": "",
       "questions": [
         "How can you search for proteins using text, gene, or protein names?",
@@ -1970,6 +1975,9 @@
         "video": false
       },
       "type": "tutorial",
+      "tags": [
+        "work-in-progress"
+      ],
       "urls": {
         "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-protein/tutorial.json",
         "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-protein/tutorial.json"
