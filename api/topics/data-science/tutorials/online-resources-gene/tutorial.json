@@ -60,7 +60,7 @@
     "session": null
   },
   "hands_on": true,
-  "slides": false,
+  "slides": true,
   "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-gene/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.10.1+galaxy2"
@@ -116,6 +116,10 @@
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
         "usegalaxy": "false"
+      },
+      {
+        "url": "https://galaxy.bio.di.uminho.pt/",
+        "name": "PhagePromotor"
       },
       {
         "url": "https://usegalaxy.be/",
