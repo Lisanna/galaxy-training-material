@@ -47,8 +47,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
     }
   ],
   "short_id": "T00236",
@@ -91,11 +91,11 @@
     {
       "workflow": "human-reads-removal.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/workflows/human-reads-removal.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/sequence-analysis/tutorials/human-reads-removal/workflows/human-reads-removal.ga",
       "path": "topics/sequence-analysis/tutorials/human-reads-removal/workflows/human-reads-removal.ga",
       "wfid": "sequence-analysis-human-reads-removal",
       "wfname": "human-reads-removal",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/sequence-analysis-human-reads-removal/versions/human-reads-removal",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/sequence-analysis-human-reads-removal/versions/human-reads-removal",
       "license": null,
       "creators": [
 
@@ -103,7 +103,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
   "tools": [
     "Grep1",
     "__UNZIP_COLLECTION__",

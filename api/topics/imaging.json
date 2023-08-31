@@ -19,8 +19,8 @@
       "orcid": "0000-0002-4741-3844",
       "joined": "2019-08",
       "id": "thomaswollmann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/thomaswollmann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/thomaswollmann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/thomaswollmann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/thomaswollmann/"
     }
   ],
   "references": [
@@ -62,8 +62,8 @@
           "email": "yi.sun@embl.de",
           "joined": "2021-03",
           "id": "sunyi000",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/sunyi000.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/sunyi000/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/sunyi000.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/sunyi000/"
         },
         {
           "name": "Beatriz Serrano-Solano",
@@ -74,15 +74,15 @@
           "orcid": "0000-0002-5862-6132",
           "joined": "2020-07",
           "id": "beatrizserrano",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/beatrizserrano.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/beatrizserrano/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/beatrizserrano.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/beatrizserrano/"
         },
         {
           "name": "Jean-Karim Hériché",
           "joined": "2020-07",
           "id": "jkh1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jkh1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jkh1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jkh1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jkh1/"
         }
       ],
       "short_id": "T00182",
@@ -104,11 +104,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/object-tracking-using-cell-profiler/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/object-tracking-using-cell-profiler/workflows/main_workflow.ga",
           "path": "topics/imaging/tutorials/object-tracking-using-cell-profiler/workflows/main_workflow.ga",
           "wfid": "imaging-object-tracking-using-cell-profiler",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-object-tracking-using-cell-profiler/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-object-tracking-using-cell-profiler/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -116,7 +116,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/cp_cellprofiler/cp_cellprofiler/3.1.9+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/cp_color_to_gray/cp_color_to_gray/3.1.9+galaxy0",
@@ -259,8 +259,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json"
       }
     },
     {
@@ -293,8 +293,8 @@
           "email": "watsocam@ohsu.edu",
           "orcid": "0000-0002-6942-2469",
           "id": "CameronFRWatson",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/CameronFRWatson.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/CameronFRWatson/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/CameronFRWatson.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/CameronFRWatson/"
         },
         {
           "name": "Allison Creason",
@@ -302,8 +302,8 @@
           "orcid": "0000-0001-5724-1276",
           "joined": "2023-02",
           "id": "alliecreason",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/alliecreason.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alliecreason/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alliecreason.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alliecreason/"
         }
       ],
       "short_id": "T00334",
@@ -325,11 +325,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
           "path": "topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
           "wfid": "imaging-multiplex-tissue-imaging-TMA",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-multiplex-tissue-imaging-TMA/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-multiplex-tissue-imaging-TMA/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -337,7 +337,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/goeckslab/mesmer/mesmer/0.12.3+galaxy2",
         "toolshed.g2.bx.psu.edu/repos/goeckslab/rename_tiff_channels/rename_tiff_channels/0.0.1+galaxy1",
@@ -454,8 +454,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json"
       }
     },
     {
@@ -495,8 +495,8 @@
           "orcid": "0000-0002-4741-3844",
           "joined": "2019-08",
           "id": "thomaswollmann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/thomaswollmann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/thomaswollmann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/thomaswollmann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/thomaswollmann/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -516,8 +516,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Leonid Kostrykin",
@@ -528,8 +528,8 @@
           "twitter": "l_kostrykin",
           "linkedin": "kostrykin",
           "id": "kostrykin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kostrykin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kostrykin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kostrykin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kostrykin/"
         }
       ],
       "tags": [
@@ -554,11 +554,11 @@
         {
           "workflow": "Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
           "path": "topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
           "wfid": "imaging-imaging-introduction",
           "wfname": "galaxy-workflow-gtn_tutorial__introduction_to_imaging",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-imaging-introduction/versions/galaxy-workflow-gtn_tutorial__introduction_to_imaging",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-imaging-introduction/versions/galaxy-workflow-gtn_tutorial__introduction_to_imaging",
           "license": null,
           "creators": [
 
@@ -566,7 +566,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/imgteam/2d_auto_threshold/ip_threshold/0.0.4",
         "toolshed.g2.bx.psu.edu/repos/imgteam/2d_auto_threshold/ip_threshold/0.0.5",
@@ -708,8 +708,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json"
       }
     },
     {
@@ -749,15 +749,15 @@
           "orcid": "0000-0002-5862-6132",
           "joined": "2020-07",
           "id": "beatrizserrano",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/beatrizserrano.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/beatrizserrano/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/beatrizserrano.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/beatrizserrano/"
         },
         {
           "name": "Jean-Karim Hériché",
           "joined": "2020-07",
           "id": "jkh1",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jkh1.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jkh1/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jkh1.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jkh1/"
         }
       ],
       "zenodo_link": "",
@@ -780,11 +780,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
           "path": "topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
           "wfid": "imaging-tutorial-CP",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-tutorial-CP/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-tutorial-CP/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -792,7 +792,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/cp_cellprofiler/cp_cellprofiler/3.1.9",
         "toolshed.g2.bx.psu.edu/repos/bgruening/cp_common/cp_common/3.1.9",
@@ -1003,8 +1003,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json"
       }
     },
     {
@@ -1057,8 +1057,8 @@
           "orcid": "0000-0002-4741-3844",
           "joined": "2019-08",
           "id": "thomaswollmann",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/thomaswollmann.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/thomaswollmann/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/thomaswollmann.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/thomaswollmann/"
         },
         {
           "name": "Leonid Kostrykin",
@@ -1069,8 +1069,8 @@
           "twitter": "l_kostrykin",
           "linkedin": "kostrykin",
           "id": "kostrykin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kostrykin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kostrykin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kostrykin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kostrykin/"
         }
       ],
       "tags": [
@@ -1095,11 +1095,11 @@
         {
           "workflow": "analyze_screen.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/hela-screen-analysis/workflows/analyze_screen.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/hela-screen-analysis/workflows/analyze_screen.ga",
           "path": "topics/imaging/tutorials/hela-screen-analysis/workflows/analyze_screen.ga",
           "wfid": "imaging-hela-screen-analysis",
           "wfname": "analyze_screen",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-hela-screen-analysis/versions/analyze_screen",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-hela-screen-analysis/versions/analyze_screen",
           "license": null,
           "creators": [
 
@@ -1109,11 +1109,11 @@
         {
           "workflow": "feature_extraction.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/hela-screen-analysis/workflows/feature_extraction.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/hela-screen-analysis/workflows/feature_extraction.ga",
           "path": "topics/imaging/tutorials/hela-screen-analysis/workflows/feature_extraction.ga",
           "wfid": "imaging-hela-screen-analysis",
           "wfname": "feature_extraction",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-hela-screen-analysis/versions/feature_extraction",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-hela-screen-analysis/versions/feature_extraction",
           "license": null,
           "creators": [
 
@@ -1121,7 +1121,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/imgteam/2d_auto_threshold/ip_threshold/0.0.3",
         "toolshed.g2.bx.psu.edu/repos/imgteam/2d_feature_extraction/ip_2d_feature_extraction/0.1.1",
@@ -1220,8 +1220,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json"
       }
     }
   ]

@@ -35,8 +35,8 @@
         "lon": 6.56
       },
       "id": "lldelisle",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
     },
     {
       "name": "Florian Heyl",
@@ -44,8 +44,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-3651-5685",
       "id": "heylf",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/heylf.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/heylf/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/heylf.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/heylf/"
     },
     {
       "name": "Joachim Wolff",
@@ -53,15 +53,15 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Devon Ryan",
       "joined": "2017-09",
       "id": "dpryan79",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/dpryan79.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dpryan79/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dpryan79.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dpryan79/"
     }
   ],
   "materials": [
@@ -101,8 +101,8 @@
           "name": "Friederike Dündar",
           "joined": "2017-09",
           "id": "friedue",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/friedue.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/friedue/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/friedue.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/friedue/"
         },
         {
           "name": "Anika Erxleben",
@@ -111,8 +111,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "erxleben",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
         },
         {
           "name": "Bérénice Batut",
@@ -132,37 +132,37 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Vivek Bhardwaj",
           "joined": "2017-09",
           "id": "vivekbhr",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
         },
         {
           "name": "Fidel Ramirez",
           "joined": "2017-09",
           "id": "fidelram",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
         },
         {
           "name": "Leily Rabbani",
           "joined": "2018-09",
           "id": "LeilyR",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/LeilyR.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/LeilyR/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/LeilyR.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/LeilyR/"
         },
         {
           "name": "Pavankumar Videm",
           "orcid": "0000-0002-5192-126X",
           "joined": "2017-09",
           "id": "pavanvidem",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
         }
       ],
       "short_id": "T00140",
@@ -184,11 +184,11 @@
         {
           "workflow": "formation_of_super_structures_on_xi.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
           "path": "topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
           "wfid": "epigenetics-formation_of_super-structures_on_xi",
           "wfname": "formation_of_super_structures_on_xi",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-formation_of_super-structures_on_xi/versions/formation_of_super_structures_on_xi",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-formation_of_super-structures_on_xi/versions/formation_of_super_structures_on_xi",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -230,7 +230,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
       "tools": [
         "Filter1",
         "cat1",
@@ -410,8 +410,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json"
       }
     },
     {
@@ -436,29 +436,29 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "joachimwolff",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
         },
         {
           "name": "Fidel Ramirez",
           "joined": "2017-09",
           "id": "fidelram",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
         },
         {
           "name": "Vivek Bhardwaj",
           "joined": "2017-09",
           "id": "vivekbhr",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
         },
         {
           "name": "Ekaterina Polkh",
           "joined": "2017-09",
           "id": "polkhe",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/polkhe.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/polkhe/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/polkhe.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/polkhe/"
         }
       ],
       "short_id": "T00141",
@@ -480,11 +480,11 @@
         {
           "workflow": "Galaxy-Workflow-Galaxy_Hi-C.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
           "path": "topics/epigenetics/tutorials/hicexplorer/workflows/Galaxy-Workflow-Galaxy_Hi-C.ga",
           "wfid": "epigenetics-hicexplorer",
           "wfname": "galaxy-workflow-galaxy_hi-c",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-hicexplorer/versions/galaxy-workflow-galaxy_hi-c",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-hicexplorer/versions/galaxy-workflow-galaxy_hi-c",
           "license": null,
           "creators": [
 
@@ -492,7 +492,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicbuildmatrix/hicexplorer_hicbuildmatrix/2.1.0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hiccorrectmatrix/hicexplorer_hiccorrectmatrix/2.1.0",
@@ -582,8 +582,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/hicexplorer/tutorial.json"
       }
     },
     {
@@ -622,8 +622,8 @@
           "name": "Friederike Dündar",
           "joined": "2017-09",
           "id": "friedue",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/friedue.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/friedue/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/friedue.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/friedue/"
         },
         {
           "name": "Anika Erxleben",
@@ -632,8 +632,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "erxleben",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
         },
         {
           "name": "Bérénice Batut",
@@ -653,22 +653,22 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Vivek Bhardwaj",
           "joined": "2017-09",
           "id": "vivekbhr",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
         },
         {
           "name": "Fidel Ramirez",
           "joined": "2017-09",
           "id": "fidelram",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
         }
       ],
       "short_id": "T00138",
@@ -690,11 +690,11 @@
         {
           "workflow": "chip_seq.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
           "path": "topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
           "wfid": "epigenetics-estrogen-receptor-binding-site-identification",
           "wfname": "chip_seq",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/chip_seq",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/chip_seq",
           "license": null,
           "creators": [
 
@@ -704,11 +704,11 @@
         {
           "workflow": "qc_mapping.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
           "path": "topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
           "wfid": "epigenetics-estrogen-receptor-binding-site-identification",
           "wfname": "qc_mapping",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/qc_mapping",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/qc_mapping",
           "license": null,
           "creators": [
 
@@ -716,7 +716,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_compare/deeptools_bam_compare/2.5.1.1.0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_coverage/deeptools_bam_coverage/2.5.1.1.0",
@@ -894,8 +894,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json"
       }
     },
     {
@@ -947,8 +947,8 @@
           "orcid": "0000-0003-2949-3921",
           "joined": "2017-09",
           "id": "malloryfreeberg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/malloryfreeberg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/malloryfreeberg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/malloryfreeberg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/malloryfreeberg/"
         },
         {
           "name": "Mo Heydarian",
@@ -956,15 +956,15 @@
           "orcid": "0000-0001-9449-9364",
           "joined": "2017-09",
           "id": "moheydarian",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/moheydarian.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/moheydarian/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/moheydarian.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/moheydarian/"
         },
         {
           "name": "Vivek Bhardwaj",
           "joined": "2017-09",
           "id": "vivekbhr",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
         },
         {
           "name": "Joachim Wolff",
@@ -972,8 +972,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "joachimwolff",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
         },
         {
           "name": "Anika Erxleben",
@@ -982,8 +982,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "erxleben",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
         }
       ],
       "short_id": "T00143",
@@ -1005,11 +1005,11 @@
         {
           "workflow": "tal1-binding-site-identification-workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
           "path": "topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
           "wfid": "epigenetics-tal1-binding-site-identification",
           "wfname": "tal1-binding-site-identification-workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-tal1-binding-site-identification/versions/tal1-binding-site-identification-workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-tal1-binding-site-identification/versions/tal1-binding-site-identification-workflow",
           "license": null,
           "creators": [
 
@@ -1017,7 +1017,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_compare/deeptools_bam_compare/3.3.2.0.0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_gc_bias/deeptools_compute_gc_bias/3.3.2.0.0",
@@ -1200,8 +1200,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json"
       }
     },
     {
@@ -1237,16 +1237,16 @@
             "lon": 6.56
           },
           "id": "lldelisle",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
         },
         {
           "name": "Maria Doyle",
           "joined": "2018-09",
           "orcid": "0000-0003-4847-8436",
           "id": "mblue9",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
         },
         {
           "name": "Florian Heyl",
@@ -1254,8 +1254,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-3651-5685",
           "id": "heylf",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/heylf.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/heylf/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/heylf.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/heylf/"
         }
       ],
       "short_id": "T00137",
@@ -1343,11 +1343,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
           "path": "topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
           "wfid": "epigenetics-atac-seq",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -1355,7 +1355,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
       "tools": [
         "Cut1",
         "Filter1",
@@ -1527,8 +1527,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json"
       }
     },
     {
@@ -1560,15 +1560,15 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "joachimwolff",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
         },
         {
           "name": "Devon Ryan",
           "joined": "2017-09",
           "id": "dpryan79",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/dpryan79.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dpryan79/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dpryan79.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dpryan79/"
         }
       ],
       "short_id": "T00142",
@@ -1590,11 +1590,11 @@
         {
           "workflow": "methylation-seq.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
           "path": "topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
           "wfid": "epigenetics-methylation-seq",
           "wfname": "methylation-seq",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-methylation-seq/versions/methylation-seq",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-methylation-seq/versions/methylation-seq",
           "license": null,
           "creators": [
 
@@ -1602,7 +1602,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_matrix/deeptools_compute_matrix/2.5.1.1.0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_plot_profile/deeptools_plot_profile/2.5.1.1.0",
@@ -1740,8 +1740,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json"
       }
     },
     {
@@ -1768,8 +1768,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         }
       ],
       "short_id": "S00059",
@@ -1787,7 +1787,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/tutorial.json",
       "tools": [
 
       ],
@@ -1836,8 +1836,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-chip-seq/slides.json"
       }
     },
     {
@@ -1852,8 +1852,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "joachimwolff",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
         },
         {
           "name": "Yvan Le Bras",
@@ -1864,8 +1864,8 @@
           "joined": "2017-09",
           "elixir_node": "fr",
           "id": "yvanlebras",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
         }
       ],
       "short_id": "S00060",
@@ -1883,7 +1883,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/tutorial.json",
       "tools": [
 
       ],
@@ -1932,8 +1932,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/introduction-dna-methylation/slides.json"
       }
     },
     {
@@ -1961,8 +1961,8 @@
           "joined": "2018-08",
           "elixir_node": "uk",
           "id": "kkamieniecka",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
         },
         {
           "name": "Krzysztof Poterlowicz",
@@ -1971,8 +1971,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "poterlowicz-lab",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
         }
       ],
       "short_id": "T00139",
@@ -1990,7 +1990,7 @@
       },
       "hands_on": true,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json",
       "tools": [
 
       ],
@@ -2039,8 +2039,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/ewas-suite/tutorial.json"
       }
     }
   ]

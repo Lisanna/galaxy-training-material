@@ -35,8 +35,8 @@
       "orcid": "0000-0002-4741-3844",
       "joined": "2019-08",
       "id": "thomaswollmann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/thomaswollmann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/thomaswollmann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/thomaswollmann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/thomaswollmann/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -56,8 +56,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Leonid Kostrykin",
@@ -68,8 +68,8 @@
       "twitter": "l_kostrykin",
       "linkedin": "kostrykin",
       "id": "kostrykin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kostrykin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kostrykin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kostrykin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kostrykin/"
     }
   ],
   "tags": [
@@ -94,11 +94,11 @@
     {
       "workflow": "Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
       "path": "topics/imaging/tutorials/imaging-introduction/workflows/Galaxy-Workflow-GTN_Tutorial__Introduction_to_Imaging.ga",
       "wfid": "imaging-imaging-introduction",
       "wfname": "galaxy-workflow-gtn_tutorial__introduction_to_imaging",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-imaging-introduction/versions/galaxy-workflow-gtn_tutorial__introduction_to_imaging",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-imaging-introduction/versions/galaxy-workflow-gtn_tutorial__introduction_to_imaging",
       "license": null,
       "creators": [
 
@@ -106,7 +106,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/imgteam/2d_auto_threshold/ip_threshold/0.0.4",
     "toolshed.g2.bx.psu.edu/repos/imgteam/2d_auto_threshold/ip_threshold/0.0.5",

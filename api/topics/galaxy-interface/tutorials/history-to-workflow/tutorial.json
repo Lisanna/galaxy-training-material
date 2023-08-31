@@ -32,8 +32,8 @@
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
     }
   ],
   "subtopic": "workflows",
@@ -52,7 +52,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/history-to-workflow/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/history-to-workflow/tutorial.json",
   "tools": [
 
   ],

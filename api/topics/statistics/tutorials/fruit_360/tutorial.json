@@ -25,8 +25,8 @@
       "email": "kxk302@gmail.com",
       "joined": "2021-02",
       "id": "kxk302",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kxk302.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kxk302/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kxk302.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kxk302/"
     }
   ],
   "short_id": "T00265",
@@ -81,11 +81,11 @@
     {
       "workflow": "fruit_360.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/fruit_360/workflows/fruit_360.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/fruit_360/workflows/fruit_360.ga",
       "path": "topics/statistics/tutorials/fruit_360/workflows/fruit_360.ga",
       "wfid": "statistics-fruit_360",
       "wfname": "fruit_360",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-fruit_360/versions/fruit_360",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-fruit_360/versions/fruit_360",
       "license": null,
       "creators": [
         {
@@ -96,7 +96,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/fruit_360/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/fruit_360/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_builder/keras_model_builder/0.5.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_config/keras_model_config/0.5.0",

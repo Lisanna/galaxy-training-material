@@ -21,8 +21,8 @@
       "linkedin": "guillaume-gricourt",
       "joined": "2022-03",
       "id": "guillaume-gricourt",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/guillaume-gricourt.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/guillaume-gricourt/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/guillaume-gricourt.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/guillaume-gricourt/"
     },
     {
       "name": "Thomas Duigou",
@@ -31,8 +31,8 @@
       "linkedin": "thomas-duigou-ba281730",
       "joined": "2022-03",
       "id": "tduigou",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/tduigou.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tduigou/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tduigou.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tduigou/"
     },
     {
       "name": "Kenza Bazi-Kabbaj",
@@ -40,8 +40,8 @@
       "orcid": "0000-0002-4319-5616",
       "joined": "2022-03",
       "id": "kenza12",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kenza12.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenza12/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenza12.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenza12/"
     },
     {
       "name": "Joan Hérisson",
@@ -50,8 +50,8 @@
       "linkedin": "joanherisson",
       "joined": "2022-03",
       "id": "breakthewall",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/breakthewall.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/breakthewall/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/breakthewall.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/breakthewall/"
     },
     {
       "name": "Ioana Popescu",
@@ -61,8 +61,8 @@
       "linkedin": "ioana-popescu-8207a026",
       "joined": "2022-03",
       "id": "ioanagry",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/ioanagry.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ioanagry/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ioanagry.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ioanagry/"
     },
     {
       "name": "Jean-Loup Faulon",
@@ -73,8 +73,8 @@
       "joined": "2022-03",
       "elixir_node": "fr",
       "id": "jfaulon",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jfaulon.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfaulon/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfaulon.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfaulon/"
     }
   ],
   "short_id": "T00275",
@@ -123,11 +123,11 @@
     {
       "workflow": "RetroSynthesis.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
       "path": "topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
       "wfid": "synthetic-biology-retrosynthesis_analysis",
       "wfname": "retrosynthesis",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/synthetic-biology-retrosynthesis_analysis/versions/retrosynthesis",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/synthetic-biology-retrosynthesis_analysis/versions/retrosynthesis",
       "license": null,
       "creators": [
 
@@ -135,7 +135,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/tduigou/get_sbml_model/get_sbml_model/0.0.1",
     "toolshed.g2.bx.psu.edu/repos/tduigou/retropath2/retropath2/2.3.0",

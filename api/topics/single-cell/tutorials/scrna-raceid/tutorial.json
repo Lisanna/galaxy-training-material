@@ -59,8 +59,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Alex Ostrovsky",
@@ -68,8 +68,8 @@
       "orcid": "0000-0002-7901-7109",
       "joined": "2019-06",
       "id": "astrovsky01",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -92,11 +92,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
       "path": "topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
       "wfid": "single-cell-scrna-raceid",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-raceid/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-raceid/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -104,7 +104,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
   "tools": [
     "raceid_clustering",
     "raceid_filtnormconf",

@@ -32,8 +32,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
     },
     {
       "name": "Björn Grüning",
@@ -47,8 +47,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     }
   ],
   "subtopic": "special",
@@ -75,11 +75,11 @@
     {
       "workflow": "ms_imaging_loading_exploring_data.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/workflows/ms_imaging_loading_exploring_data.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/workflows/ms_imaging_loading_exploring_data.ga",
       "path": "topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/workflows/ms_imaging_loading_exploring_data.ga",
       "wfid": "proteomics-mass-spectrometry-imaging-loading-exploring-data",
       "wfname": "ms_imaging_loading_exploring_data",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-mass-spectrometry-imaging-loading-exploring-data/versions/ms_imaging_loading_exploring_data",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-mass-spectrometry-imaging-loading-exploring-data/versions/ms_imaging_loading_exploring_data",
       "license": null,
       "creators": [
 
@@ -87,7 +87,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/tutorial.json",
   "tools": [
     "Grep1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sort_header_tool/1.1.1",

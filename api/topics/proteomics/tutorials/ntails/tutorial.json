@@ -25,8 +25,8 @@
       "email": "sigloch+github@mailbox.org",
       "joined": "2017-09",
       "id": "stortebecker",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/stortebecker.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stortebecker/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stortebecker.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stortebecker/"
     },
     {
       "name": "Björn Grüning",
@@ -40,8 +40,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     }
   ],
   "subtopic": "special",
@@ -67,11 +67,11 @@
     {
       "workflow": "WF_ntails.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/ntails/workflows/WF_ntails.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/ntails/workflows/WF_ntails.ga",
       "path": "topics/proteomics/tutorials/ntails/workflows/WF_ntails.ga",
       "wfid": "proteomics-ntails",
       "wfname": "wf_ntails",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-ntails/versions/wf_ntails",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-ntails/versions/wf_ntails",
       "license": null,
       "creators": [
 
@@ -79,7 +79,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ntails/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/ntails/tutorial.json",
   "tools": [
     "ConsensusID",
     "FalseDiscoveryRate",

@@ -23,8 +23,8 @@
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "short_id": "T00306",
@@ -46,11 +46,11 @@
     {
       "workflow": "blockclust_clustering.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/small_ncrna_clustering/workflows/blockclust_clustering.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/small_ncrna_clustering/workflows/blockclust_clustering.ga",
       "path": "topics/transcriptomics/tutorials/small_ncrna_clustering/workflows/blockclust_clustering.ga",
       "wfid": "transcriptomics-small_ncrna_clustering",
       "wfname": "blockclust_clustering",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-small_ncrna_clustering/versions/blockclust_clustering",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-small_ncrna_clustering/versions/blockclust_clustering",
       "license": null,
       "creators": [
 
@@ -58,7 +58,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/small_ncrna_clustering/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/small_ncrna_clustering/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sort_header_tool/1.1.1",
     "toolshed.g2.bx.psu.edu/repos/devteam/samtools_sort/samtools_sort/2.0.2",

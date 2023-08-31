@@ -74,11 +74,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
       "path": "topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
       "wfid": "climate-pangeo",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-pangeo/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-pangeo/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -91,7 +91,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
   "tools": [
     "__EXTRACT_DATASET__",
     "__MERGE_COLLECTION__",

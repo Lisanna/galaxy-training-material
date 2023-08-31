@@ -44,7 +44,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/contributing/tutorials/python/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/contributing/tutorials/python/tutorial.json",
   "tools": [
 
   ],
@@ -110,15 +110,15 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Bazante Sanders",
       "joined": "2020-12",
       "id": "bazante1",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
     },
     {
       "name": "Donny Vrins",
@@ -126,8 +126,8 @@
       "linkedin": "Donny Vrins",
       "email": "D.vrins@live.nl",
       "id": "dirowa",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/dirowa.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dirowa/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dirowa.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dirowa/"
     }
   ]
 }

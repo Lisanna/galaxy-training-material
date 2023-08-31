@@ -119,11 +119,11 @@
     {
       "workflow": "Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
       "path": "topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
       "wfid": "single-cell-scrna-case_alevin",
       "wfname": "generating-a-single-cell-matrix-using-alevin-1.9",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin-1.9",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin-1.9",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -142,11 +142,11 @@
     {
       "workflow": "Generating-a-single-cell-matrix-using-Alevin.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
       "path": "topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
       "wfid": "single-cell-scrna-case_alevin",
       "wfname": "generating-a-single-cell-matrix-using-alevin",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin",
       "license": null,
       "creators": [
         {
@@ -158,7 +158,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
   "tools": [
     "Cut1",
     "join1",
@@ -267,16 +267,16 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Jonathan Manning",
       "email": "jmanning@ebi.ac.uk",
       "joined": "2021-02",
       "id": "pinin4fjords",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pinin4fjords.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pinin4fjords/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pinin4fjords.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pinin4fjords/"
     },
     {
       "name": "Helena Rasche",
@@ -295,16 +295,16 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Julia Jakiela",
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
     }
   ]
 }

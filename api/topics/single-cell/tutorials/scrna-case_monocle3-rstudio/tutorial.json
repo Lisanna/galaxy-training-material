@@ -72,7 +72,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
   "tools": [
 
   ],
@@ -126,8 +126,8 @@
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
     },
     {
       "name": "Helena Rasche",
@@ -146,16 +146,16 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     },
     {
       "name": "Wendi Bacon",
@@ -167,8 +167,8 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "EOSC-Life",
@@ -179,9 +179,9 @@
       "funding_id": "824087",
       "funding_system": "cordis",
       "funding_statement": "EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/eosc-life.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eosc-life.json",
       "id": "eosc-life",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eosc-life/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eosc-life/"
     }
   ]
 }

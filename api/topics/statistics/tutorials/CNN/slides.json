@@ -81,11 +81,11 @@
     {
       "workflow": "Intro_To_CNN.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/workflows/Intro_To_CNN.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/CNN/workflows/Intro_To_CNN.ga",
       "path": "topics/statistics/tutorials/CNN/workflows/Intro_To_CNN.ga",
       "wfid": "statistics-CNN",
       "wfname": "intro_to_cnn",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-CNN/versions/intro_to_cnn",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-CNN/versions/intro_to_cnn",
       "license": null,
       "creators": [
 
@@ -93,7 +93,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/CNN/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/CNN/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_builder/keras_model_builder/0.5.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_config/keras_model_config/0.5.0",

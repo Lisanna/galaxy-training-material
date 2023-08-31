@@ -77,8 +77,8 @@
       "elixir_node": "no",
       "orcid": "0000-0002-1784-2920",
       "id": "annefou",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
     }
   ],
   "notebook": {
@@ -134,11 +134,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
       "path": "topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
       "wfid": "climate-pangeo-notebook",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-pangeo-notebook/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-pangeo-notebook/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -151,7 +151,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
   "tools": [
     "interactive_tool_pangeo_notebook"
   ],

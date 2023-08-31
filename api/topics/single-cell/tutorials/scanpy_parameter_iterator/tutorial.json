@@ -64,11 +64,11 @@
     {
       "workflow": "Scanpy-Parameter-Iterator-workflow-full.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
       "path": "topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
       "wfid": "single-cell-scanpy_parameter_iterator",
       "wfname": "scanpy-parameter-iterator-workflow-full",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scanpy_parameter_iterator/versions/scanpy-parameter-iterator-workflow-full",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scanpy_parameter_iterator/versions/scanpy-parameter-iterator-workflow-full",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -80,7 +80,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/ebi-gxa/scanpy_compute_graph/scanpy_compute_graph/1.8.1+galaxy9",
     "toolshed.g2.bx.psu.edu/repos/ebi-gxa/scanpy_find_cluster/scanpy_find_cluster/1.8.1+galaxy9",
@@ -179,8 +179,8 @@
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
     },
     {
       "name": "EOSC-Life",
@@ -191,9 +191,9 @@
       "funding_id": "824087",
       "funding_system": "cordis",
       "funding_statement": "EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/eosc-life.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eosc-life.json",
       "id": "eosc-life",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eosc-life/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eosc-life/"
     }
   ]
 }

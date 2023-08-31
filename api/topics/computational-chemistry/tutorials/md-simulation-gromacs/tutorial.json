@@ -33,8 +33,8 @@
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
     }
   ],
   "short_id": "T00051",
@@ -56,11 +56,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/md-simulation-gromacs/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/computational-chemistry/tutorials/md-simulation-gromacs/workflows/main_workflow.ga",
       "path": "topics/computational-chemistry/tutorials/md-simulation-gromacs/workflows/main_workflow.ga",
       "wfid": "computational-chemistry-md-simulation-gromacs",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/computational-chemistry-md-simulation-gromacs/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/computational-chemistry-md-simulation-gromacs/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -68,7 +68,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/md-simulation-gromacs/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/computational-chemistry/tutorials/md-simulation-gromacs/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/get_pdb/get_pdb/0.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_grep_tool/1.1.1",

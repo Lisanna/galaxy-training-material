@@ -18,8 +18,8 @@
       "orcid": "0000-0001-7589-5230",
       "joined": "2020-11",
       "id": "jaidevjoshi83",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jaidevjoshi83.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jaidevjoshi83/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jaidevjoshi83.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jaidevjoshi83/"
     },
     {
       "name": "Daniel Blankenberg",
@@ -27,8 +27,8 @@
       "orcid": "0000-0002-6833-9049",
       "joined": "2018-07",
       "id": "blankenberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
     }
   ],
   "subtopic": "property-prediction",
@@ -55,11 +55,11 @@
     {
       "workflow": "PeptideML.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/workflows/PeptideML.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/workflows/PeptideML.ga",
       "path": "topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/workflows/PeptideML.ga",
       "wfid": "proteomics-ml-modeling-of-anti-cancer-peptides",
       "wfname": "peptideml",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-ml-modeling-of-anti-cancer-peptides/versions/peptideml",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-ml-modeling-of-anti-cancer-peptides/versions/peptideml",
       "license": null,
       "creators": [
 
@@ -67,7 +67,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/jay/pdaug_addclasslabel/pdaug_addclasslabel/0.1.0",
     "toolshed.g2.bx.psu.edu/repos/jay/pdaug_basic_plots/pdaug_basic_plots/0.1.0",

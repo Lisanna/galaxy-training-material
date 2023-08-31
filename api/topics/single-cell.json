@@ -20,8 +20,8 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Mehmet Tekman",
@@ -29,16 +29,16 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "subtopics": [
@@ -142,8 +142,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Bérénice Batut",
@@ -163,8 +163,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Anika Erxleben",
@@ -173,8 +173,8 @@
           "joined": "2017-09",
           "elixir_node": "de",
           "id": "erxleben",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
         },
         {
           "name": "Wolfgang Maier",
@@ -185,8 +185,8 @@
           "fediverse": "https://scholar.social/@zerodivision",
           "fediverse_flavor": "mastodon",
           "id": "wm75",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -209,11 +209,11 @@
         {
           "workflow": "scrna_mp_celseq.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
           "path": "topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
           "wfid": "single-cell-scrna-preprocessing",
           "wfname": "scrna_mp_celseq",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_mp_celseq",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_mp_celseq",
           "license": null,
           "creators": [
 
@@ -223,11 +223,11 @@
         {
           "workflow": "scrna_pp_celseq.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
           "path": "topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
           "wfid": "single-cell-scrna-preprocessing",
           "wfname": "scrna_pp_celseq",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_pp_celseq",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_pp_celseq",
           "license": null,
           "creators": [
 
@@ -235,7 +235,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
       "tools": [
         "__FLATTEN__",
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/1.1.1",
@@ -409,8 +409,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json"
       }
     },
     {
@@ -534,11 +534,11 @@
         {
           "workflow": "Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
           "path": "topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin-1.9.ga",
           "wfid": "single-cell-scrna-case_alevin",
           "wfname": "generating-a-single-cell-matrix-using-alevin-1.9",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin-1.9",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin-1.9",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -557,11 +557,11 @@
         {
           "workflow": "Generating-a-single-cell-matrix-using-Alevin.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
           "path": "topics/single-cell/tutorials/scrna-case_alevin/workflows/Generating-a-single-cell-matrix-using-Alevin.ga",
           "wfid": "single-cell-scrna-case_alevin",
           "wfname": "generating-a-single-cell-matrix-using-alevin",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin/versions/generating-a-single-cell-matrix-using-alevin",
           "license": null,
           "creators": [
             {
@@ -573,7 +573,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
       "tools": [
         "Cut1",
         "join1",
@@ -682,16 +682,16 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Jonathan Manning",
           "email": "jmanning@ebi.ac.uk",
           "joined": "2021-02",
           "id": "pinin4fjords",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pinin4fjords.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pinin4fjords/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pinin4fjords.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pinin4fjords/"
         },
         {
           "name": "Helena Rasche",
@@ -710,21 +710,21 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Julia Jakiela",
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin/tutorial.json"
       }
     },
     {
@@ -776,8 +776,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Wendi Bacon",
@@ -789,8 +789,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         }
       ],
       "follow_up_training": [
@@ -853,11 +853,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/bulk-music/workflows/main_workflow.ga",
           "wfid": "single-cell-bulk-music",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -865,7 +865,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/music_construct_eset/music_construct_eset/0.1.1+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/bgruening/music_construct_eset/music_construct_eset/0.1.1+galaxy3",
@@ -948,8 +948,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music/tutorial.json"
       }
     },
     {
@@ -1004,8 +1004,8 @@
           "orcid": "0000-0002-5003-1425",
           "joined": "2019-10",
           "id": "ethering",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ethering.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ethering/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ethering.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ethering/"
         },
         {
           "name": "Nicola Soranzo",
@@ -1015,8 +1015,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "nsoranzo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -1039,11 +1039,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
           "wfid": "single-cell-scrna-scater-qc",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scater-qc/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scater-qc/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -1051,7 +1051,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/scater_create_qcmetric_ready_sce/scater_create_qcmetric_ready_sce/1.12.2",
         "toolshed.g2.bx.psu.edu/repos/iuc/scater_filter/scater_filter/1.12.2",
@@ -1140,8 +1140,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json"
       }
     },
     {
@@ -1206,8 +1206,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         }
       ],
       "short_id": "S00084",
@@ -1263,7 +1263,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-intro/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-intro/tutorial.json",
       "tools": [
 
       ],
@@ -1302,8 +1302,8 @@
       "tours": false,
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-intro/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-intro/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-intro/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-intro/slides.json"
       }
     },
     {
@@ -1388,11 +1388,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
           "wfid": "single-cell-scrna-case_cell-cycle",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_cell-cycle/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_cell-cycle/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -1400,7 +1400,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
       "tools": [
         "cat1",
         "sort1",
@@ -1522,8 +1522,8 @@
           "email": "marisa.loach@open.ac.uk",
           "joined": "2022-10",
           "id": "MarisaJL",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
         },
         {
           "name": "Wendi Bacon",
@@ -1535,8 +1535,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Graeme Tyson",
@@ -1544,13 +1544,13 @@
           "orcid": "0000-0002-1748-2806",
           "joined": "2022-09",
           "id": "hrukkudyr",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hrukkudyr.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrukkudyr/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrukkudyr.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrukkudyr/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json"
       }
     },
     {
@@ -1614,8 +1614,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Alex Ostrovsky",
@@ -1623,8 +1623,8 @@
           "orcid": "0000-0002-7901-7109",
           "joined": "2019-06",
           "id": "astrovsky01",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -1647,11 +1647,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-raceid/workflows/main_workflow.ga",
           "wfid": "single-cell-scrna-raceid",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-raceid/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-raceid/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -1659,7 +1659,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
       "tools": [
         "raceid_clustering",
         "raceid_filtnormconf",
@@ -1769,8 +1769,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-raceid/tutorial.json"
       }
     },
     {
@@ -1846,11 +1846,11 @@
         {
           "workflow": "sc_matrix.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_matrix.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_matrix.ga",
           "path": "topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_matrix.ga",
           "wfid": "single-cell-bulk-music-2-preparescref",
           "wfname": "sc_matrix",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-2-preparescref/versions/sc_matrix",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-2-preparescref/versions/sc_matrix",
           "license": null,
           "creators": [
             {
@@ -1869,11 +1869,11 @@
         {
           "workflow": "sc_metadata.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_metadata.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_metadata.ga",
           "path": "topics/single-cell/tutorials/bulk-music-2-preparescref/workflows/sc_metadata.ga",
           "wfid": "single-cell-bulk-music-2-preparescref",
           "wfname": "sc_metadata",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-2-preparescref/versions/sc_metadata",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-2-preparescref/versions/sc_metadata",
           "license": null,
           "creators": [
             {
@@ -1890,7 +1890,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json",
       "tools": [
         "Cut1",
         "join1",
@@ -2064,8 +2064,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Mehmet Tekman",
@@ -2073,8 +2073,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Marisa Loach",
@@ -2083,13 +2083,13 @@
           "email": "marisa.loach@open.ac.uk",
           "joined": "2022-10",
           "id": "MarisaJL",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-2-preparescref/tutorial.json"
       }
     },
     {
@@ -2224,11 +2224,11 @@
         {
           "workflow": "CS2_Combining_datasets_after_pre-processing.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/workflows/CS2_Combining_datasets_after_pre-processing.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/workflows/CS2_Combining_datasets_after_pre-processing.ga",
           "path": "topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/workflows/CS2_Combining_datasets_after_pre-processing.ga",
           "wfid": "single-cell-scrna-case_alevin-combine-datasets",
           "wfname": "cs2_combining_datasets_after_pre-processing",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin-combine-datasets/versions/cs2_combining_datasets_after_pre-processing",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_alevin-combine-datasets/versions/cs2_combining_datasets_after_pre-processing",
           "license": null,
           "creators": [
 
@@ -2236,7 +2236,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json",
       "tools": [
         "Cut1",
         "Paste1",
@@ -2333,16 +2333,16 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Jonathan Manning",
           "email": "jmanning@ebi.ac.uk",
           "joined": "2021-02",
           "id": "pinin4fjords",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pinin4fjords.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pinin4fjords/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pinin4fjords.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pinin4fjords/"
         },
         {
           "name": "Helena Rasche",
@@ -2361,21 +2361,21 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Julia Jakiela",
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_alevin-combine-datasets/tutorial.json"
       }
     },
     {
@@ -2414,8 +2414,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -2463,7 +2463,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72+galaxy1",
         "toolshed.g2.bx.psu.edu/repos/iuc/umi_tools_extract/umi_tools_extract/0.5.5.1",
@@ -2543,8 +2543,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-umis/tutorial.json"
       }
     },
     {
@@ -2613,11 +2613,11 @@
         {
           "workflow": "Scanpy-Parameter-Iterator-workflow-full.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
           "path": "topics/single-cell/tutorials/scanpy_parameter_iterator/workflows/Scanpy-Parameter-Iterator-workflow-full.ga",
           "wfid": "single-cell-scanpy_parameter_iterator",
           "wfname": "scanpy-parameter-iterator-workflow-full",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scanpy_parameter_iterator/versions/scanpy-parameter-iterator-workflow-full",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scanpy_parameter_iterator/versions/scanpy-parameter-iterator-workflow-full",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -2629,7 +2629,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/ebi-gxa/scanpy_compute_graph/scanpy_compute_graph/1.8.1+galaxy9",
         "toolshed.g2.bx.psu.edu/repos/ebi-gxa/scanpy_find_cluster/scanpy_find_cluster/1.8.1+galaxy9",
@@ -2728,8 +2728,8 @@
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         },
         {
           "name": "EOSC-Life",
@@ -2740,14 +2740,14 @@
           "funding_id": "824087",
           "funding_system": "cordis",
           "funding_statement": "EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/eosc-life.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eosc-life.json",
           "id": "eosc-life",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eosc-life/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eosc-life/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json"
       }
     },
     {
@@ -2825,11 +2825,11 @@
         {
           "workflow": "bulk_ESet.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
           "path": "topics/single-cell/tutorials/bulk-music-3-preparebulk/workflows/bulk_ESet.ga",
           "wfid": "single-cell-bulk-music-3-preparebulk",
           "wfname": "bulk_eset",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-3-preparebulk/versions/bulk_eset",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-3-preparebulk/versions/bulk_eset",
           "license": null,
           "creators": [
             {
@@ -2846,7 +2846,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
       "tools": [
         "sort1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/music_construct_eset/music_construct_eset/0.1.1+galaxy4",
@@ -2983,8 +2983,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Mehmet Tekman",
@@ -2992,8 +2992,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Marisa Loach",
@@ -3002,13 +3002,13 @@
           "email": "marisa.loach@open.ac.uk",
           "joined": "2022-10",
           "id": "MarisaJL",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json"
       }
     },
     {
@@ -3137,11 +3137,11 @@
         {
           "workflow": "CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
           "path": "topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
           "wfid": "single-cell-scrna-case_basic-pipeline",
           "wfname": "cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
           "license": null,
           "creators": [
 
@@ -3151,11 +3151,11 @@
         {
           "workflow": "Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
           "path": "topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
           "wfid": "single-cell-scrna-case_basic-pipeline",
           "wfname": "filter,-plot-and-explore-single-cell-rna-seq-data-updated",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/filter,-plot-and-explore-single-cell-rna-seq-data-updated",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/filter,-plot-and-explore-single-cell-rna-seq-data-updated",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -3172,7 +3172,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
       "tools": [
         "Cut1",
         "interactive_tool_cellxgene",
@@ -3449,8 +3449,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Helena Rasche",
@@ -3469,29 +3469,29 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Julia Jakiela",
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         },
         {
           "name": "Julia Jakiela",
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json"
       }
     },
     {
@@ -3548,8 +3548,8 @@
           "orcid": "0000-0002-5192-126X",
           "joined": "2017-09",
           "id": "pavanvidem",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -3572,11 +3572,11 @@
         {
           "workflow": "scATAC-seq-Count-Matrix-Filtering.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
           "path": "topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
           "wfid": "single-cell-scatac-preprocessing-tenx",
           "wfname": "scatac-seq-count-matrix-filtering",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-count-matrix-filtering",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-count-matrix-filtering",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -3590,11 +3590,11 @@
         {
           "workflow": "scATAC-seq-FASTQ-to-Count-Matrix.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
           "path": "topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
           "wfid": "single-cell-scatac-preprocessing-tenx",
           "wfname": "scatac-seq-fastq-to-count-matrix",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-fastq-to-count-matrix",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-fastq-to-count-matrix",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -3606,7 +3606,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sorted_uniq/1.1.0",
         "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.2",
@@ -3752,8 +3752,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json"
       }
     },
     {
@@ -3812,8 +3812,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Hans-Rudolf Hotz",
@@ -3833,8 +3833,8 @@
             "lon": 7.6
           },
           "id": "hrhotz",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
         },
         {
           "name": "Daniel Blankenberg",
@@ -3842,8 +3842,8 @@
           "orcid": "0000-0002-6833-9049",
           "joined": "2018-07",
           "id": "blankenberg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
         },
         {
           "name": "Wendi Bacon",
@@ -3855,16 +3855,16 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Pavankumar Videm",
           "orcid": "0000-0002-5192-126X",
           "joined": "2017-09",
           "id": "pavanvidem",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -3930,11 +3930,11 @@
         {
           "workflow": "scRNA-seq-Preprocessing-TenX.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
           "path": "topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
           "wfid": "single-cell-scrna-preprocessing-tenx",
           "wfname": "scrna-seq-preprocessing-tenx",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing-tenx/versions/scrna-seq-preprocessing-tenx",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing-tenx/versions/scrna-seq-preprocessing-tenx",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -3966,7 +3966,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/dropletutils/dropletutils/1.10.0+galaxy2",
         "toolshed.g2.bx.psu.edu/repos/iuc/multiqc/multiqc/1.9+galaxy1",
@@ -4051,8 +4051,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json"
       }
     },
     {
@@ -4097,8 +4097,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Mehmet Tekman",
@@ -4106,8 +4106,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Alex Ostrovsky",
@@ -4115,8 +4115,8 @@
           "orcid": "0000-0002-7901-7109",
           "joined": "2019-06",
           "id": "astrovsky01",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
         }
       ],
       "short_id": "S00085",
@@ -4134,7 +4134,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/tutorial.json",
       "tools": [
 
       ],
@@ -4182,8 +4182,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/slides.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/slides.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/slides.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plates-batches-barcodes/slides.json"
       }
     },
     {
@@ -4251,8 +4251,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Hans-Rudolf Hotz",
@@ -4272,8 +4272,8 @@
             "lon": 7.6
           },
           "id": "hrhotz",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
         },
         {
           "name": "Mehmet Tekman",
@@ -4281,8 +4281,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -4334,11 +4334,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-scanpy-pbmc3k/workflows/main_workflow.ga",
           "wfid": "single-cell-scrna-scanpy-pbmc3k",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scanpy-pbmc3k/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scanpy-pbmc3k/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -4346,7 +4346,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
       "tools": [
         "Cut1",
         "Filter1",
@@ -4533,8 +4533,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json"
       }
     },
     {
@@ -4602,11 +4602,11 @@
         {
           "workflow": "compare.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/bulk-music-4-compare/workflows/compare.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/bulk-music-4-compare/workflows/compare.ga",
           "path": "topics/single-cell/tutorials/bulk-music-4-compare/workflows/compare.ga",
           "wfid": "single-cell-bulk-music-4-compare",
           "wfname": "compare",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-4-compare/versions/compare",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-bulk-music-4-compare/versions/compare",
           "license": null,
           "creators": [
             {
@@ -4623,7 +4623,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/music_compare/music_compare/0.1.1+galaxy4"
       ],
@@ -4693,8 +4693,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Mehmet Tekman",
@@ -4702,8 +4702,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Marisa Loach",
@@ -4712,13 +4712,13 @@
           "email": "marisa.loach@open.ac.uk",
           "joined": "2022-10",
           "id": "MarisaJL",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/bulk-music-4-compare/tutorial.json"
       }
     },
     {
@@ -4830,7 +4830,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
       "tools": [
 
       ],
@@ -4889,16 +4889,16 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Julia Jakiela",
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         },
         {
           "name": "Mehmet Tekman",
@@ -4906,8 +4906,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Helena Rasche",
@@ -4926,13 +4926,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json"
       }
     },
     {
@@ -4981,8 +4981,8 @@
           "joined": "2018-11",
           "elixir_node": "de",
           "id": "mtekman",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
         },
         {
           "name": "Beatriz Serrano-Solano",
@@ -4993,8 +4993,8 @@
           "orcid": "0000-0002-5862-6132",
           "joined": "2020-07",
           "id": "beatrizserrano",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/beatrizserrano.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/beatrizserrano/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/beatrizserrano.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/beatrizserrano/"
         },
         {
           "name": "Cristóbal Gallardo",
@@ -5002,16 +5002,16 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5752-2155",
           "id": "gallardoalba",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
         },
         {
           "name": "Pavankumar Videm",
           "orcid": "0000-0002-5192-126X",
           "joined": "2017-09",
           "id": "pavanvidem",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
         }
       ],
       "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -5064,11 +5064,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
           "wfid": "single-cell-scrna-plant",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-plant/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-plant/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -5076,7 +5076,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/anndata_import/anndata_import/0.7.5+galaxy0",
         "toolshed.g2.bx.psu.edu/repos/iuc/anndata_manipulate/anndata_manipulate/0.7.5+galaxy0",
@@ -5196,8 +5196,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json"
       }
     },
     {
@@ -5309,11 +5309,11 @@
         {
           "workflow": "Galaxy-Workflow-AnnData_object_to_Monocle_input_files.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-AnnData_object_to_Monocle_input_files.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-AnnData_object_to_Monocle_input_files.ga",
           "path": "topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-AnnData_object_to_Monocle_input_files.ga",
           "wfid": "single-cell-scrna-case_monocle3-trajectories",
           "wfname": "galaxy-workflow-anndata_object_to_monocle_input_files",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/galaxy-workflow-anndata_object_to_monocle_input_files",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/galaxy-workflow-anndata_object_to_monocle_input_files",
           "license": null,
           "creators": [
 
@@ -5323,11 +5323,11 @@
         {
           "workflow": "Galaxy-Workflow-Monocle3_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-Monocle3_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-Monocle3_workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Galaxy-Workflow-Monocle3_workflow.ga",
           "wfid": "single-cell-scrna-case_monocle3-trajectories",
           "wfname": "galaxy-workflow-monocle3_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/galaxy-workflow-monocle3_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/galaxy-workflow-monocle3_workflow",
           "license": null,
           "creators": [
 
@@ -5337,11 +5337,11 @@
         {
           "workflow": "Trajectory-analysis-using-Monocle3---full-tutorial-workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Trajectory-analysis-using-Monocle3---full-tutorial-workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Trajectory-analysis-using-Monocle3---full-tutorial-workflow.ga",
           "path": "topics/single-cell/tutorials/scrna-case_monocle3-trajectories/workflows/Trajectory-analysis-using-Monocle3---full-tutorial-workflow.ga",
           "wfid": "single-cell-scrna-case_monocle3-trajectories",
           "wfname": "trajectory-analysis-using-monocle3---full-tutorial-workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/trajectory-analysis-using-monocle3---full-tutorial-workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_monocle3-trajectories/versions/trajectory-analysis-using-monocle3---full-tutorial-workflow",
           "license": "CC-BY-4.0",
           "creators": [
             {
@@ -5353,7 +5353,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json",
       "tools": [
         "Cut1",
         "Filter1",
@@ -5507,8 +5507,8 @@
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         },
         {
           "name": "Helena Rasche",
@@ -5527,8 +5527,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Wendi Bacon",
@@ -5540,8 +5540,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "Wendi Bacon",
@@ -5553,8 +5553,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "EPSRC Training Grant DTP 2020-2021 Open University",
@@ -5563,13 +5563,13 @@
           "funder": true,
           "funding_statement": "The research internship was supported through EPSRC Training Grant DTP 2020-2021 Open University",
           "id": "epsrc-training-grant",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/epsrc-training-grant.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/epsrc-training-grant/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/epsrc-training-grant.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/epsrc-training-grant/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-trajectories/tutorial.json"
       }
     },
     {
@@ -5646,7 +5646,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
       "tools": [
 
       ],
@@ -5700,8 +5700,8 @@
           "email": "juliajot36@gmail.com",
           "joined": "2022-06",
           "id": "wee-snufkin",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
         },
         {
           "name": "Helena Rasche",
@@ -5720,16 +5720,16 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "Pavankumar Videm",
           "orcid": "0000-0002-5192-126X",
           "joined": "2017-09",
           "id": "pavanvidem",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
         },
         {
           "name": "Wendi Bacon",
@@ -5741,8 +5741,8 @@
           "orcid": "0000-0002-8170-8806",
           "bio": "Lecturer at The Open University",
           "id": "nomadscientist",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
         },
         {
           "name": "EOSC-Life",
@@ -5753,14 +5753,14 @@
           "funding_id": "824087",
           "funding_system": "cordis",
           "funding_statement": "EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/eosc-life.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eosc-life.json",
           "id": "eosc-life",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eosc-life/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eosc-life/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_monocle3-rstudio/tutorial.json"
       }
     }
   ]

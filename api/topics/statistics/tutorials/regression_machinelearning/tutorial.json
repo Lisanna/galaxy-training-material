@@ -23,8 +23,8 @@
       "orcid": "0000-0001-6811-9196",
       "joined": "2019-07",
       "id": "khanteymoori",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/khanteymoori.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/khanteymoori/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/khanteymoori.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/khanteymoori/"
     },
     {
       "name": "Anup Kumar",
@@ -33,16 +33,16 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
     },
     {
       "name": "Simon Bray",
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
     }
   ],
   "short_id": "T00271",
@@ -99,11 +99,11 @@
     {
       "workflow": "regression.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/regression_machinelearning/workflows/regression.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/regression_machinelearning/workflows/regression.ga",
       "path": "topics/statistics/tutorials/regression_machinelearning/workflows/regression.ga",
       "wfid": "statistics-regression_machinelearning",
       "wfname": "regression",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-regression_machinelearning/versions/regression",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-regression_machinelearning/versions/regression",
       "license": null,
       "creators": [
 
@@ -111,7 +111,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/regression_machinelearning/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/regression_machinelearning/tutorial.json",
   "tools": [
     "Remove beginning1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_regression_performance_plots/plotly_regression_performance_plots/0.1",

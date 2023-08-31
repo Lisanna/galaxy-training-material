@@ -34,8 +34,8 @@
       "orcid": "0000-0001-7955-2518",
       "joined": "2019-03",
       "id": "matthias313",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/matthias313.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/matthias313/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/matthias313.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/matthias313/"
     },
     {
       "name": "Melanie Föll",
@@ -46,8 +46,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
     }
   ],
   "subtopic": "id-quant",
@@ -73,11 +73,11 @@
     {
       "workflow": "Galaxy-Workflow-_DIA_Training_using_HEK_Ecoli_3_EG_data_.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/DIA_Analysis_OSW/workflows/Galaxy-Workflow-_DIA_Training_using_HEK_Ecoli_3_EG_data_.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/DIA_Analysis_OSW/workflows/Galaxy-Workflow-_DIA_Training_using_HEK_Ecoli_3_EG_data_.ga",
       "path": "topics/proteomics/tutorials/DIA_Analysis_OSW/workflows/Galaxy-Workflow-_DIA_Training_using_HEK_Ecoli_3_EG_data_.ga",
       "wfid": "proteomics-DIA_Analysis_OSW",
       "wfname": "galaxy-workflow-_dia_training_using_hek_ecoli_3_eg_data_",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_OSW/versions/galaxy-workflow-_dia_training_using_hek_ecoli_3_eg_data_",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_OSW/versions/galaxy-workflow-_dia_training_using_hek_ecoli_3_eg_data_",
       "license": null,
       "creators": [
 
@@ -85,7 +85,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_OSW/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/DIA_Analysis_OSW/tutorial.json",
   "tools": [
     "Grep1",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/msconvert/msconvert/3.0.19052.1",

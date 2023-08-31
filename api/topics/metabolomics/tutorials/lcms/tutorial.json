@@ -22,37 +22,37 @@
       "name": "Mélanie Petera",
       "joined": "2019-06",
       "id": "melpetera",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
     },
     {
       "name": "Gildas Le Corguillé",
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "lecorguille",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
     },
     {
       "name": "Jean-François Martin",
       "joined": "2019-06",
       "id": "jfrancoismartin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jfrancoismartin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfrancoismartin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfrancoismartin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfrancoismartin/"
     },
     {
       "name": "Yann Guitton",
       "joined": "2019-06",
       "id": "yguitton",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/yguitton.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yguitton/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yguitton.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yguitton/"
     },
     {
       "name": "Workflow4Metabolomics core team",
       "joined": "2019-06",
       "id": "workflow4metabolomics",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
     }
   ],
   "short_id": "T00195",
@@ -74,11 +74,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
       "path": "topics/metabolomics/tutorials/lcms/workflows/main_workflow.ga",
       "wfid": "metabolomics-lcms",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-lcms/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-lcms/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -86,7 +86,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/ethevenot/qualitymetrics/quality_metrics/2.2.8",
     "toolshed.g2.bx.psu.edu/repos/ethevenot/univariate/Univariate/2.2.4",

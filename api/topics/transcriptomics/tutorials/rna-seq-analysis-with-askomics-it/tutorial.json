@@ -34,8 +34,8 @@
       "email": "xavier.garnier@irisa.fr",
       "joined": "2020-07",
       "id": "xgaia",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/xgaia.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/xgaia/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/xgaia.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/xgaia/"
     },
     {
       "name": "Anthony Bretaudeau",
@@ -54,22 +54,22 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Anne Siegel",
       "joined": "2020-07",
       "id": "annesiegel",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/annesiegel.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annesiegel/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annesiegel.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annesiegel/"
     },
     {
       "name": "Olivier Dameron",
       "joined": "2020-07",
       "id": "odameron",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/odameron.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/odameron/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/odameron.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/odameron/"
     },
     {
       "name": "Mateo Boudet",
@@ -78,8 +78,8 @@
       "joined": "2021-05",
       "elixir_node": "fr",
       "id": "mboudet",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mboudet.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mboudet/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mboudet.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mboudet/"
     }
   ],
   "short_id": "T00297",
@@ -97,7 +97,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-analysis-with-askomics-it/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-analysis-with-askomics-it/tutorial.json",
   "tools": [
 
   ],

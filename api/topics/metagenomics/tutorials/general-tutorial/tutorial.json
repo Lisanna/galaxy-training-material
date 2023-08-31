@@ -39,8 +39,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Bérénice Batut",
@@ -60,8 +60,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00201",
@@ -83,11 +83,11 @@
     {
       "workflow": "amplicon.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
       "path": "topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
       "wfid": "metagenomics-general-tutorial",
       "wfname": "amplicon",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/amplicon",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/amplicon",
       "license": null,
       "creators": [
 
@@ -97,11 +97,11 @@
     {
       "workflow": "wgs-worklow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
       "path": "topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
       "wfid": "metagenomics-general-tutorial",
       "wfname": "wgs-worklow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/wgs-worklow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/wgs-worklow",
       "license": null,
       "creators": [
 
@@ -109,7 +109,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/crs4/taxonomy_krona_chart/taxonomy_krona_chart/2.6.1",
     "toolshed.g2.bx.psu.edu/repos/iuc/humann2/humann2/0.9.9.0",

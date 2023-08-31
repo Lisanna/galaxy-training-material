@@ -20,8 +20,8 @@
       "name": "Vijay",
       "joined": "2018-07",
       "id": "nvk747",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nvk747.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nvk747/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nvk747.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nvk747/"
     },
     {
       "name": "Daniel Blankenberg",
@@ -29,8 +29,8 @@
       "orcid": "0000-0002-6833-9049",
       "joined": "2018-07",
       "id": "blankenberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
     }
   ],
   "tags": [
@@ -58,11 +58,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/main_workflow.ga",
       "path": "topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/workflows/main_workflow.ga",
       "wfid": "statistics-aberrant_pi3k_pathway_analysis",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-aberrant_pi3k_pathway_analysis/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-aberrant_pi3k_pathway_analysis/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -70,7 +70,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/vijay/pancancer_alternative_genes_pathwaymapper/pancancer_alternative_genes_pathwaymapper/0.1.9",
     "toolshed.g2.bx.psu.edu/repos/vijay/pancancer_apply_weights/pancancer_apply_weights/0.1.9",

@@ -47,8 +47,8 @@
       "orcid": "0000-0003-2949-3921",
       "joined": "2017-09",
       "id": "malloryfreeberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/malloryfreeberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/malloryfreeberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/malloryfreeberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/malloryfreeberg/"
     },
     {
       "name": "Mo Heydarian",
@@ -56,15 +56,15 @@
       "orcid": "0000-0001-9449-9364",
       "joined": "2017-09",
       "id": "moheydarian",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/moheydarian.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/moheydarian/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/moheydarian.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/moheydarian/"
     },
     {
       "name": "Vivek Bhardwaj",
       "joined": "2017-09",
       "id": "vivekbhr",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
     },
     {
       "name": "Joachim Wolff",
@@ -72,8 +72,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Anika Erxleben",
@@ -82,8 +82,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
     }
   ],
   "short_id": "T00143",
@@ -105,11 +105,11 @@
     {
       "workflow": "tal1-binding-site-identification-workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
       "path": "topics/epigenetics/tutorials/tal1-binding-site-identification/workflows/tal1-binding-site-identification-workflow.ga",
       "wfid": "epigenetics-tal1-binding-site-identification",
       "wfname": "tal1-binding-site-identification-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-tal1-binding-site-identification/versions/tal1-binding-site-identification-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-tal1-binding-site-identification/versions/tal1-binding-site-identification-workflow",
       "license": null,
       "creators": [
 
@@ -117,7 +117,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/tal1-binding-site-identification/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_compare/deeptools_bam_compare/3.3.2.0.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_gc_bias/deeptools_compute_gc_bias/3.3.2.0.0",

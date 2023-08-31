@@ -20,8 +20,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     }
   ],
   "tags": [
@@ -71,11 +71,11 @@
     {
       "workflow": "Comparative-gene-analysis.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/gene-centric/workflows/Comparative-gene-analysis.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/gene-centric/workflows/Comparative-gene-analysis.ga",
       "path": "topics/genome-annotation/tutorials/gene-centric/workflows/Comparative-gene-analysis.ga",
       "wfid": "genome-annotation-gene-centric",
       "wfname": "comparative-gene-analysis",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-gene-centric/versions/comparative-gene-analysis",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-gene-centric/versions/comparative-gene-analysis",
       "license": null,
       "creators": [
         {
@@ -87,7 +87,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/gene-centric/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/gene-centric/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

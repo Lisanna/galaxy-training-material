@@ -39,16 +39,16 @@
       "joined": "2021-08",
       "email": "miguel.roncoroni@elixir-belgium.org",
       "id": "roncoronimiguel",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/roncoronimiguel.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/roncoronimiguel/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/roncoronimiguel.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/roncoronimiguel/"
     },
     {
       "name": "Brigida Gallone",
       "orcid": "0000-0003-3045-5949",
       "joined": "2022-05",
       "id": "brigidagallone",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/brigidagallone.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/brigidagallone/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/brigidagallone.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/brigidagallone/"
     }
   ],
   "short_id": "T00132",
@@ -70,11 +70,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/phylogeny-data-prep/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/phylogeny-data-prep/workflows/main_workflow.ga",
       "path": "topics/ecology/tutorials/phylogeny-data-prep/workflows/main_workflow.ga",
       "wfid": "ecology-phylogeny-data-prep",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-phylogeny-data-prep/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-phylogeny-data-prep/versions/main_workflow",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -86,7 +86,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/phylogeny-data-prep/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/phylogeny-data-prep/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/glimmer_gbk_to_orf/glimmer_gbk_to_orf/3.02",

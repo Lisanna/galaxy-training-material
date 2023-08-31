@@ -52,8 +52,8 @@
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -76,11 +76,11 @@
     {
       "workflow": "scATAC-seq-Count-Matrix-Filtering.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
       "path": "topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-Count-Matrix-Filtering.ga",
       "wfid": "single-cell-scatac-preprocessing-tenx",
       "wfname": "scatac-seq-count-matrix-filtering",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-count-matrix-filtering",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-count-matrix-filtering",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -94,11 +94,11 @@
     {
       "workflow": "scATAC-seq-FASTQ-to-Count-Matrix.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
       "path": "topics/single-cell/tutorials/scatac-preprocessing-tenx/workflows/scATAC-seq-FASTQ-to-Count-Matrix.ga",
       "wfid": "single-cell-scatac-preprocessing-tenx",
       "wfname": "scatac-seq-fastq-to-count-matrix",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-fastq-to-count-matrix",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scatac-preprocessing-tenx/versions/scatac-seq-fastq-to-count-matrix",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -110,7 +110,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scatac-preprocessing-tenx/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sorted_uniq/1.1.0",
     "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.2",

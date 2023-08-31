@@ -28,8 +28,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6421-3484",
       "id": "delphine-l",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
     },
     {
       "name": "Alex Ostrovsky",
@@ -37,8 +37,8 @@
       "orcid": "0000-0002-7901-7109",
       "joined": "2019-06",
       "id": "astrovsky01",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/astrovsky01.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/astrovsky01/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/astrovsky01.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/astrovsky01/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -46,44 +46,44 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
     },
     {
       "name": "Anna Syme",
       "joined": "2017-09",
       "orcid": "0000-0002-9906-0673",
       "id": "annasyme",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
     },
     {
       "name": "Linelle Abueg",
       "joined": "2022-01",
       "id": "abueg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/abueg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abueg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abueg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abueg/"
     },
     {
       "name": "Brandon Pickett",
       "joined": "2022-01",
       "id": "pickettbd",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pickettbd.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pickettbd/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pickettbd.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pickettbd/"
     },
     {
       "name": "Giulio Formenti",
       "joined": "2022-01",
       "id": "gf777",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/gf777.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gf777/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gf777.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gf777/"
     },
     {
       "name": "Marcella Sozzoni",
       "joined": "2022-03",
       "id": "msozzoni",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/msozzoni.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/msozzoni/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/msozzoni.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/msozzoni/"
     }
   ],
   "abbreviations": {
@@ -120,11 +120,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
       "path": "topics/assembly/tutorials/vgp_genome_assembly/workflows/main_workflow.ga",
       "wfid": "assembly-vgp_genome_assembly",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-vgp_genome_assembly/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-vgp_genome_assembly/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -132,7 +132,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
   "tools": [
     "Convert characters1",
     "cat1",

@@ -59,7 +59,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/stop-worrying-love-systemd/tutorial.json",
   "tools": [
 
   ],
@@ -125,8 +125,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Nate Coraor",
@@ -136,8 +136,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
     },
     {
       "name": "Nate Coraor",
@@ -147,8 +147,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
     }
   ]
 }

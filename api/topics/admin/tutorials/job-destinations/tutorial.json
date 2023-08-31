@@ -98,7 +98,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/job-destinations/tutorial.json",
   "tools": [
 
   ],
@@ -155,8 +155,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
     },
     {
       "name": "Björn Grüning",
@@ -170,15 +170,15 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Nuwan Goonasekera",
       "joined": "2019-06",
       "id": "nuwang",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nuwang.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nuwang/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nuwang.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nuwang/"
     },
     {
       "name": "Mira Kuntz",
@@ -188,8 +188,8 @@
       "joined": "2022-07",
       "elixir_node": "de",
       "id": "mira-miracoli",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
     },
     {
       "name": "Helena Rasche",
@@ -208,15 +208,15 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Enis Afgan",
       "joined": "2018-06",
       "id": "afgane",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/afgane.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/afgane/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/afgane.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/afgane/"
     },
     {
       "name": "Catherine Bromhead",
@@ -224,8 +224,8 @@
       "joined": "2019-12",
       "elixir_node": "au",
       "id": "cat-bro",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/cat-bro.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cat-bro/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cat-bro.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cat-bro/"
     }
   ]
 }

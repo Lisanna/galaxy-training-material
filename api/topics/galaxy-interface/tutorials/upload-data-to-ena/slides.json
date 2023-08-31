@@ -57,11 +57,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/upload-data-to-ena/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/upload-data-to-ena/workflows/main_workflow.ga",
       "path": "topics/galaxy-interface/tutorials/upload-data-to-ena/workflows/main_workflow.ga",
       "wfid": "galaxy-interface-upload-data-to-ena",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-upload-data-to-ena/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-upload-data-to-ena/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -69,7 +69,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/ieguinoa/ena_webin_cli/ena_webin_cli/7d751b5943b0",
     "toolshed.g2.bx.psu.edu/repos/iuc/ena_upload/ena_upload/0.3.2",

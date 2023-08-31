@@ -29,7 +29,7 @@
   },
   "hands_on": false,
   "slides": true,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/algorithms-introduction/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/algorithms-introduction/tutorial.json",
   "tools": [
 
   ],

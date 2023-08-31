@@ -23,30 +23,30 @@
       "name": "Mélanie Petera",
       "joined": "2019-06",
       "id": "melpetera",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
     },
     {
       "name": "Jean-François Martin",
       "joined": "2019-06",
       "id": "jfrancoismartin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jfrancoismartin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfrancoismartin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfrancoismartin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfrancoismartin/"
     },
     {
       "name": "Gildas Le Corguillé",
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "lecorguille",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
     },
     {
       "name": "Workflow4Metabolomics core team",
       "joined": "2019-06",
       "id": "workflow4metabolomics",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
     }
   ],
   "short_id": "T00197",
@@ -64,7 +64,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/lecorguille/camera_annotate/abims_CAMERA_annotateDiffreport/2.2.6+camera1.48.0-galaxy0",
     "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",

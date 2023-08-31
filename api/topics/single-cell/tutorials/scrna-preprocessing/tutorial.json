@@ -57,8 +57,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Bérénice Batut",
@@ -78,8 +78,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Anika Erxleben",
@@ -88,8 +88,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
     },
     {
       "name": "Wolfgang Maier",
@@ -100,8 +100,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -124,11 +124,11 @@
     {
       "workflow": "scrna_mp_celseq.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
       "path": "topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_mp_celseq.ga",
       "wfid": "single-cell-scrna-preprocessing",
       "wfname": "scrna_mp_celseq",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_mp_celseq",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_mp_celseq",
       "license": null,
       "creators": [
 
@@ -138,11 +138,11 @@
     {
       "workflow": "scrna_pp_celseq.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
       "path": "topics/single-cell/tutorials/scrna-preprocessing/workflows/scrna_pp_celseq.ga",
       "wfid": "single-cell-scrna-preprocessing",
       "wfname": "scrna_pp_celseq",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_pp_celseq",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing/versions/scrna_pp_celseq",
       "license": null,
       "creators": [
 
@@ -150,7 +150,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing/tutorial.json",
   "tools": [
     "__FLATTEN__",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/1.1.1",

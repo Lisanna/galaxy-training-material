@@ -27,8 +27,8 @@
       "email": "leith023@umn.edu",
       "joined": "2019-07",
       "id": "emmaleith",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/emmaleith.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emmaleith/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emmaleith.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emmaleith/"
     },
     {
       "name": "Subina Mehta",
@@ -39,16 +39,16 @@
       "orcid": "0000-0001-9818-0537",
       "joined": "2018-06",
       "id": "subinamehta",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
     },
     {
       "name": "James Johnson",
       "email": "jj@umn.edu",
       "joined": "2017-09",
       "id": "jj-umn",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/jj-umn.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jj-umn/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jj-umn.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jj-umn/"
     },
     {
       "name": "Pratik Jagtap",
@@ -56,8 +56,8 @@
       "joined": "2017-09",
       "orcid": "0000-0003-0984-0973",
       "id": "pratikdjagtap",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
     },
     {
       "name": "Timothy J. Griffin",
@@ -66,8 +66,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6801-2559",
       "id": "timothygriffin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/timothygriffin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/timothygriffin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/timothygriffin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/timothygriffin/"
     }
   ],
   "short_id": "T00215",
@@ -155,11 +155,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/encyclopedia/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/encyclopedia/workflows/main_workflow.ga",
       "path": "topics/proteomics/tutorials/encyclopedia/workflows/main_workflow.ga",
       "wfid": "proteomics-encyclopedia",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-encyclopedia/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-encyclopedia/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -167,7 +167,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/encyclopedia/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/encyclopedia/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/galaxyp/encyclopedia_quantify/encyclopedia_quantify/0.9.5.0",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/encyclopedia_quantify/encyclopedia_quantify/1.2.2+galaxy0",

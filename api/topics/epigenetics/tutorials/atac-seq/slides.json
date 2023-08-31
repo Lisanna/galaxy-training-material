@@ -107,11 +107,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
       "path": "topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.ga",
       "wfid": "epigenetics-atac-seq",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-atac-seq/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -119,7 +119,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

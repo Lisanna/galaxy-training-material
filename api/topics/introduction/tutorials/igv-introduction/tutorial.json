@@ -14,8 +14,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Joachim Wolff",
@@ -23,15 +23,15 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Anne Pajon",
       "joined": "2017-09",
       "id": "pajanne",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pajanne.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pajanne/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pajanne.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pajanne/"
     }
   ],
   "short_id": "T00193",
@@ -49,7 +49,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/igv-introduction/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/igv-introduction/tutorial.json",
   "tools": [
 
   ],

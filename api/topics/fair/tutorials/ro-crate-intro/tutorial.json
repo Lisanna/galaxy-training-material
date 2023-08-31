@@ -66,16 +66,16 @@
       "fediverse": "https://scholar.social/@soilandreyes",
       "fediverse_flavor": "mastodon",
       "id": "stain",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/stain.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stain/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stain.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stain/"
     },
     {
       "name": "Peter Sefton",
       "orcid": "0000-0002-3545-944X",
       "joined": "2023-04",
       "id": "ptsefton",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/ptsefton.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ptsefton/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ptsefton.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ptsefton/"
     }
   ],
   "priority": 1,
@@ -100,7 +100,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
   "tools": [
 
   ],

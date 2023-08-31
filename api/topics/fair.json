@@ -22,16 +22,16 @@
       "elixir_node": "it",
       "orcid": "0000-0001-8271-5429",
       "id": "simleo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
     },
     {
       "name": "Luca Pireddu",
       "joined": "2023-04",
       "orcid": "0000-0002-4663-5613",
       "id": "ilveroluca",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/ilveroluca.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ilveroluca/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ilveroluca.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ilveroluca/"
     },
     {
       "name": "Stian Soiland-Reyes",
@@ -48,8 +48,8 @@
       "fediverse": "https://scholar.social/@soilandreyes",
       "fediverse_flavor": "mastodon",
       "id": "stain",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/stain.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stain/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stain.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stain/"
     },
     {
       "name": "Paul De Geest",
@@ -57,8 +57,8 @@
       "elixir_node": "be",
       "orcid": "0000-0002-8940-4946",
       "id": "pauldg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pauldg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pauldg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pauldg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pauldg/"
     },
     {
       "name": "Katarzyna Kamieniecka",
@@ -67,8 +67,8 @@
       "joined": "2018-08",
       "elixir_node": "uk",
       "id": "kkamieniecka",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
     },
     {
       "name": "Krzysztof Poterlowicz",
@@ -77,8 +77,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "poterlowicz-lab",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
     }
   ],
   "materials": [
@@ -124,7 +124,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
       "tools": [
 
       ],
@@ -179,8 +179,8 @@
           "elixir_node": "it",
           "orcid": "0000-0001-8271-5429",
           "id": "simleo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
         },
         {
           "name": "BeYond-COVID",
@@ -189,14 +189,14 @@
           "funding_id": "101046203",
           "funding_system": "cordis",
           "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
           "id": "by-covid",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-workflow-run-ro-crate/tutorial.json"
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
       "tools": [
 
       ],
@@ -307,8 +307,8 @@
           "joined": "2018-08",
           "elixir_node": "uk",
           "id": "kkamieniecka",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
         },
         {
           "name": "Krzysztof Poterlowicz",
@@ -317,8 +317,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "poterlowicz-lab",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
         },
         {
           "name": "Helena Rasche",
@@ -337,13 +337,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-intro/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-intro/tutorial.json"
       }
     },
     {
@@ -414,16 +414,16 @@
           "fediverse": "https://scholar.social/@soilandreyes",
           "fediverse_flavor": "mastodon",
           "id": "stain",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/stain.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stain/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stain.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stain/"
         },
         {
           "name": "Peter Sefton",
           "orcid": "0000-0002-3545-944X",
           "joined": "2023-04",
           "id": "ptsefton",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ptsefton.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ptsefton/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ptsefton.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ptsefton/"
         }
       ],
       "priority": 1,
@@ -448,7 +448,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
       "tools": [
 
       ],
@@ -497,8 +497,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-intro/tutorial.json"
       }
     },
     {
@@ -553,7 +553,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
       "tools": [
 
       ],
@@ -608,8 +608,8 @@
           "elixir_node": "it",
           "orcid": "0000-0001-8271-5429",
           "id": "simleo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
         },
         {
           "name": "Bruno P. Kinoshita",
@@ -617,8 +617,8 @@
           "orcid": "0000-0001-8250-4074",
           "elixir_node": "es",
           "id": "kinow",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kinow.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kinow/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kinow.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kinow/"
         },
         {
           "name": "Helena Rasche",
@@ -637,8 +637,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "BeYond-COVID",
@@ -647,14 +647,14 @@
           "funding_id": "101046203",
           "funding_system": "cordis",
           "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
           "id": "by-covid",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-python/tutorial.json"
       }
     },
     {
@@ -718,7 +718,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/data-management/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/data-management/tutorial.json",
       "tools": [
 
       ],
@@ -774,8 +774,8 @@
           "joined": "2018-08",
           "elixir_node": "uk",
           "id": "kkamieniecka",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
         },
         {
           "name": "Krzysztof Poterlowicz",
@@ -784,8 +784,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "poterlowicz-lab",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
         },
         {
           "name": "Helena Rasche",
@@ -804,13 +804,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/data-management/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/data-management/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/data-management/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/data-management/tutorial.json"
       }
     },
     {
@@ -859,7 +859,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json",
       "tools": [
 
       ],
@@ -914,8 +914,8 @@
           "elixir_node": "be",
           "orcid": "0000-0002-8940-4946",
           "id": "pauldg",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/pauldg.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pauldg/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pauldg.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pauldg/"
         },
         {
           "name": "BeYond-COVID",
@@ -924,14 +924,14 @@
           "funding_id": "101046203",
           "funding_system": "cordis",
           "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
           "id": "by-covid",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-in-galaxy/tutorial.json"
       }
     },
     {
@@ -995,7 +995,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json",
       "tools": [
 
       ],
@@ -1051,8 +1051,8 @@
           "joined": "2018-08",
           "elixir_node": "uk",
           "id": "kkamieniecka",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
         },
         {
           "name": "Krzysztof Poterlowicz",
@@ -1061,8 +1061,8 @@
           "joined": "2017-09",
           "elixir_node": "uk",
           "id": "poterlowicz-lab",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
         },
         {
           "name": "Helena Rasche",
@@ -1081,13 +1081,13 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-gtn/tutorial.json"
       }
     },
     {
@@ -1138,7 +1138,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json",
       "tools": [
 
       ],
@@ -1193,8 +1193,8 @@
           "elixir_node": "it",
           "orcid": "0000-0001-8271-5429",
           "id": "simleo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
         },
         {
           "name": "BeYond-COVID",
@@ -1203,14 +1203,14 @@
           "funding_id": "101046203",
           "funding_system": "cordis",
           "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
           "id": "by-covid",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-galaxy-best-practices/tutorial.json"
       }
     },
     {
@@ -1276,7 +1276,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json",
       "tools": [
 
       ],
@@ -1330,8 +1330,8 @@
           "joined": "2023-04",
           "orcid": "0000-0002-4663-5613",
           "id": "ilveroluca",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ilveroluca.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ilveroluca/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ilveroluca.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ilveroluca/"
         },
         {
           "name": "Simone Leo",
@@ -1339,8 +1339,8 @@
           "elixir_node": "it",
           "orcid": "0000-0001-8271-5429",
           "id": "simleo",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/simleo.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simleo/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simleo.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simleo/"
         },
         {
           "name": "Marco Enrico Piras",
@@ -1348,8 +1348,8 @@
           "orcid": "0000-0002-5207-0030",
           "elixir_node": "it",
           "id": "kikkomep",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kikkomep.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kikkomep/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kikkomep.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kikkomep/"
         },
         {
           "name": "Helena Rasche",
@@ -1368,8 +1368,8 @@
             "lon": 4.46
           },
           "id": "hexylena",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
         },
         {
           "name": "BeYond-COVID",
@@ -1378,14 +1378,14 @@
           "funding_id": "101046203",
           "funding_system": "cordis",
           "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
           "id": "by-covid",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/ro-crate-submitting-life-monitor/tutorial.json"
       }
     }
   ]

@@ -127,11 +127,11 @@
     {
       "workflow": "deg-analysis.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/workflows/deg-analysis.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/ref-based/workflows/deg-analysis.ga",
       "path": "topics/transcriptomics/tutorials/ref-based/workflows/deg-analysis.ga",
       "wfid": "transcriptomics-ref-based",
       "wfname": "deg-analysis",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/deg-analysis",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/deg-analysis",
       "license": "MIT",
       "creators": [
         {
@@ -190,11 +190,11 @@
     {
       "workflow": "qc-mapping-counting-paired-and-single.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting-paired-and-single.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting-paired-and-single.ga",
       "path": "topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting-paired-and-single.ga",
       "wfid": "transcriptomics-ref-based",
       "wfname": "qc-mapping-counting-paired-and-single",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/qc-mapping-counting-paired-and-single",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/qc-mapping-counting-paired-and-single",
       "license": "MIT",
       "creators": [
         {
@@ -253,11 +253,11 @@
     {
       "workflow": "qc-mapping-counting.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting.ga",
       "path": "topics/transcriptomics/tutorials/ref-based/workflows/qc-mapping-counting.ga",
       "wfid": "transcriptomics-ref-based",
       "wfname": "qc-mapping-counting",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/qc-mapping-counting",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-ref-based/versions/qc-mapping-counting",
       "license": "MIT",
       "creators": [
         {
@@ -314,7 +314,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/ref-based/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/ref-based/tutorial.json",
   "tools": [
     "ChangeCase",
     "Cut1",
@@ -638,16 +638,16 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Mallory Freeberg",
       "orcid": "0000-0003-2949-3921",
       "joined": "2017-09",
       "id": "malloryfreeberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/malloryfreeberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/malloryfreeberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/malloryfreeberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/malloryfreeberg/"
     },
     {
       "name": "Mo Heydarian",
@@ -655,8 +655,8 @@
       "orcid": "0000-0001-9449-9364",
       "joined": "2017-09",
       "id": "moheydarian",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/moheydarian.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/moheydarian/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/moheydarian.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/moheydarian/"
     },
     {
       "name": "Anika Erxleben",
@@ -665,16 +665,16 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     },
     {
       "name": "Clemens Blank",
@@ -683,16 +683,16 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "blankclemens",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankclemens.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankclemens/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankclemens.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankclemens/"
     },
     {
       "name": "Maria Doyle",
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Nicola Soranzo",
@@ -702,8 +702,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Peter van Heusden",
@@ -712,8 +712,8 @@
       "joined": "2017-09",
       "bio": "Research at the South African National Bioinformatics Institute",
       "id": "pvanheus",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pvanheus.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pvanheus/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pvanheus.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pvanheus/"
     },
     {
       "name": "Lucille Delisle",
@@ -728,8 +728,8 @@
         "lon": 6.56
       },
       "id": "lldelisle",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
     },
     {
       "name": "Helena Rasche",
@@ -748,8 +748,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ]
 }

@@ -54,8 +54,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Hans-Rudolf Hotz",
@@ -75,8 +75,8 @@
         "lon": 7.6
       },
       "id": "hrhotz",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
     },
     {
       "name": "Daniel Blankenberg",
@@ -84,8 +84,8 @@
       "orcid": "0000-0002-6833-9049",
       "joined": "2018-07",
       "id": "blankenberg",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
     },
     {
       "name": "Wendi Bacon",
@@ -97,16 +97,16 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -172,11 +172,11 @@
     {
       "workflow": "scRNA-seq-Preprocessing-TenX.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
       "path": "topics/single-cell/tutorials/scrna-preprocessing-tenx/workflows/scRNA-seq-Preprocessing-TenX.ga",
       "wfid": "single-cell-scrna-preprocessing-tenx",
       "wfname": "scrna-seq-preprocessing-tenx",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing-tenx/versions/scrna-seq-preprocessing-tenx",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-preprocessing-tenx/versions/scrna-seq-preprocessing-tenx",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -208,7 +208,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/dropletutils/dropletutils/1.10.0+galaxy2",
     "toolshed.g2.bx.psu.edu/repos/iuc/multiqc/multiqc/1.9+galaxy1",

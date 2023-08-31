@@ -107,7 +107,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_JUPYTER-trajectories/tutorial.json",
   "tools": [
 
   ],
@@ -166,16 +166,16 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Julia Jakiela",
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
     },
     {
       "name": "Mehmet Tekman",
@@ -183,8 +183,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Helena Rasche",
@@ -203,8 +203,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     }
   ]
 }

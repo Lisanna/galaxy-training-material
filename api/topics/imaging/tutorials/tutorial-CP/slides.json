@@ -48,11 +48,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
       "path": "topics/imaging/tutorials/tutorial-CP/workflows/main_workflow.ga",
       "wfid": "imaging-tutorial-CP",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-tutorial-CP/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-tutorial-CP/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -60,7 +60,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/cp_cellprofiler/cp_cellprofiler/3.1.9",
     "toolshed.g2.bx.psu.edu/repos/bgruening/cp_common/cp_common/3.1.9",

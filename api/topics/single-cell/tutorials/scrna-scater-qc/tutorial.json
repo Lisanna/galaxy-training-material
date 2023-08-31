@@ -50,8 +50,8 @@
       "orcid": "0000-0002-5003-1425",
       "joined": "2019-10",
       "id": "ethering",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/ethering.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ethering/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ethering.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ethering/"
     },
     {
       "name": "Nicola Soranzo",
@@ -61,8 +61,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -85,11 +85,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
       "path": "topics/single-cell/tutorials/scrna-scater-qc/workflows/main_workflow.ga",
       "wfid": "single-cell-scrna-scater-qc",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scater-qc/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-scater-qc/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -97,7 +97,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/scater_create_qcmetric_ready_sce/scater_create_qcmetric_ready_sce/1.12.2",
     "toolshed.g2.bx.psu.edu/repos/iuc/scater_filter/scater_filter/1.12.2",

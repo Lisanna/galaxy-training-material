@@ -20,8 +20,8 @@
       "orcid": "0000-0002-4319-5616",
       "joined": "2022-03",
       "id": "kenza12",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/kenza12.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenza12/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenza12.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenza12/"
     },
     {
       "name": "Thomas Duigou",
@@ -30,8 +30,8 @@
       "linkedin": "thomas-duigou-ba281730",
       "joined": "2022-03",
       "id": "tduigou",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/tduigou.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tduigou/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tduigou.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tduigou/"
     },
     {
       "name": "Joan Hérisson",
@@ -40,8 +40,8 @@
       "linkedin": "joanherisson",
       "joined": "2022-03",
       "id": "breakthewall",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/breakthewall.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/breakthewall/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/breakthewall.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/breakthewall/"
     },
     {
       "name": "Guillaume Gricourt",
@@ -50,8 +50,8 @@
       "linkedin": "guillaume-gricourt",
       "joined": "2022-03",
       "id": "guillaume-gricourt",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/guillaume-gricourt.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/guillaume-gricourt/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/guillaume-gricourt.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/guillaume-gricourt/"
     }
   ],
   "materials": [
@@ -78,8 +78,8 @@
           "linkedin": "guillaume-gricourt",
           "joined": "2022-03",
           "id": "guillaume-gricourt",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/guillaume-gricourt.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/guillaume-gricourt/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/guillaume-gricourt.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/guillaume-gricourt/"
         },
         {
           "name": "Thomas Duigou",
@@ -88,8 +88,8 @@
           "linkedin": "thomas-duigou-ba281730",
           "joined": "2022-03",
           "id": "tduigou",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/tduigou.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tduigou/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tduigou.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tduigou/"
         },
         {
           "name": "Kenza Bazi-Kabbaj",
@@ -97,8 +97,8 @@
           "orcid": "0000-0002-4319-5616",
           "joined": "2022-03",
           "id": "kenza12",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kenza12.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenza12/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenza12.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenza12/"
         },
         {
           "name": "Joan Hérisson",
@@ -107,8 +107,8 @@
           "linkedin": "joanherisson",
           "joined": "2022-03",
           "id": "breakthewall",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/breakthewall.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/breakthewall/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/breakthewall.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/breakthewall/"
         },
         {
           "name": "Ioana Popescu",
@@ -118,8 +118,8 @@
           "linkedin": "ioana-popescu-8207a026",
           "joined": "2022-03",
           "id": "ioanagry",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ioanagry.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ioanagry/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ioanagry.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ioanagry/"
         },
         {
           "name": "Jean-Loup Faulon",
@@ -130,8 +130,8 @@
           "joined": "2022-03",
           "elixir_node": "fr",
           "id": "jfaulon",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jfaulon.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfaulon/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfaulon.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfaulon/"
         }
       ],
       "short_id": "T00275",
@@ -180,11 +180,11 @@
         {
           "workflow": "RetroSynthesis.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
           "path": "topics/synthetic-biology/tutorials/retrosynthesis_analysis/workflows/RetroSynthesis.ga",
           "wfid": "synthetic-biology-retrosynthesis_analysis",
           "wfname": "retrosynthesis",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/synthetic-biology-retrosynthesis_analysis/versions/retrosynthesis",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/synthetic-biology-retrosynthesis_analysis/versions/retrosynthesis",
           "license": null,
           "creators": [
 
@@ -192,7 +192,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/tduigou/get_sbml_model/get_sbml_model/0.0.1",
         "toolshed.g2.bx.psu.edu/repos/tduigou/retropath2/retropath2/2.3.0",
@@ -273,8 +273,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json"
       }
     },
     {
@@ -298,8 +298,8 @@
           "orcid": "0000-0002-4319-5616",
           "joined": "2022-03",
           "id": "kenza12",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kenza12.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenza12/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenza12.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenza12/"
         },
         {
           "name": "Thomas Duigou",
@@ -308,8 +308,8 @@
           "linkedin": "thomas-duigou-ba281730",
           "joined": "2022-03",
           "id": "tduigou",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/tduigou.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tduigou/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tduigou.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tduigou/"
         },
         {
           "name": "Joan Hérisson",
@@ -318,8 +318,8 @@
           "linkedin": "joanherisson",
           "joined": "2022-03",
           "id": "breakthewall",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/breakthewall.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/breakthewall/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/breakthewall.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/breakthewall/"
         },
         {
           "name": "Guillaume Gricourt",
@@ -328,8 +328,8 @@
           "linkedin": "guillaume-gricourt",
           "joined": "2022-03",
           "id": "guillaume-gricourt",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/guillaume-gricourt.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/guillaume-gricourt/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/guillaume-gricourt.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/guillaume-gricourt/"
         },
         {
           "name": "Ioana Popescu",
@@ -339,8 +339,8 @@
           "linkedin": "ioana-popescu-8207a026",
           "joined": "2022-03",
           "id": "ioanagry",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ioanagry.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ioanagry/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ioanagry.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ioanagry/"
         },
         {
           "name": "Jean-Loup Faulon",
@@ -351,8 +351,8 @@
           "joined": "2022-03",
           "elixir_node": "fr",
           "id": "jfaulon",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jfaulon.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfaulon/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfaulon.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfaulon/"
         }
       ],
       "short_id": "T00274",
@@ -401,11 +401,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/synthetic-biology/tutorials/pathway_analysis/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/synthetic-biology/tutorials/pathway_analysis/workflows/main_workflow.ga",
           "path": "topics/synthetic-biology/tutorials/pathway_analysis/workflows/main_workflow.ga",
           "wfid": "synthetic-biology-pathway_analysis",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/synthetic-biology-pathway_analysis/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/synthetic-biology-pathway_analysis/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -413,7 +413,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/iuc/rpfba/rpfba/5.12.1",
         "toolshed.g2.bx.psu.edu/repos/tduigou/rpranker/rpranker/5.12.1",
@@ -478,8 +478,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json"
       }
     },
     {
@@ -508,8 +508,8 @@
           "orcid": "0000-0002-4319-5616",
           "joined": "2022-03",
           "id": "kenza12",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/kenza12.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenza12/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenza12.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenza12/"
         },
         {
           "name": "Thomas Duigou",
@@ -518,8 +518,8 @@
           "linkedin": "thomas-duigou-ba281730",
           "joined": "2022-03",
           "id": "tduigou",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/tduigou.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tduigou/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tduigou.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tduigou/"
         },
         {
           "name": "Joan Hérisson",
@@ -528,8 +528,8 @@
           "linkedin": "joanherisson",
           "joined": "2022-03",
           "id": "breakthewall",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/breakthewall.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/breakthewall/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/breakthewall.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/breakthewall/"
         },
         {
           "name": "Guillaume Gricourt",
@@ -538,8 +538,8 @@
           "linkedin": "guillaume-gricourt",
           "joined": "2022-03",
           "id": "guillaume-gricourt",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/guillaume-gricourt.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/guillaume-gricourt/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/guillaume-gricourt.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/guillaume-gricourt/"
         },
         {
           "name": "Ioana Popescu",
@@ -549,8 +549,8 @@
           "linkedin": "ioana-popescu-8207a026",
           "joined": "2022-03",
           "id": "ioanagry",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/ioanagry.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ioanagry/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ioanagry.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ioanagry/"
         },
         {
           "name": "Jean-Loup Faulon",
@@ -561,8 +561,8 @@
           "joined": "2022-03",
           "elixir_node": "fr",
           "id": "jfaulon",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/jfaulon.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jfaulon/"
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jfaulon.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jfaulon/"
         }
       ],
       "short_id": "T00273",
@@ -611,11 +611,11 @@
         {
           "workflow": "Genetic_Design_BASIC_Assembly.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/training-material/topics/synthetic-biology/tutorials/basic_assembly_analysis/workflows/Genetic_Design_BASIC_Assembly.ga",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/synthetic-biology/tutorials/basic_assembly_analysis/workflows/Genetic_Design_BASIC_Assembly.ga",
           "path": "topics/synthetic-biology/tutorials/basic_assembly_analysis/workflows/Genetic_Design_BASIC_Assembly.ga",
           "wfid": "synthetic-biology-basic_assembly_analysis",
           "wfname": "genetic_design_basic_assembly",
-          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/synthetic-biology-basic_assembly_analysis/versions/genetic_design_basic_assembly",
+          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/synthetic-biology-basic_assembly_analysis/versions/genetic_design_basic_assembly",
           "license": null,
           "creators": [
 
@@ -623,7 +623,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json",
+      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/tduigou/dnabot/dnabot/3.1.0",
         "toolshed.g2.bx.psu.edu/repos/tduigou/rpbasicdesign/rpbasicdesign/0.3.4",
@@ -680,8 +680,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json"
       }
     }
   ]

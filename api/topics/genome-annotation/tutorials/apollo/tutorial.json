@@ -146,11 +146,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
       "path": "topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
       "wfid": "genome-annotation-apollo",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-apollo/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-apollo/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -158,7 +158,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/gga/apollo_create_account/create_account/3.1",
     "toolshed.g2.bx.psu.edu/repos/gga/apollo_create_or_update/create_or_update/4.2.5",
@@ -257,8 +257,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Helena Rasche",
@@ -277,8 +277,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Nathan Dunn",
@@ -286,8 +286,8 @@
       "email": "nathandunn@lbl.gov",
       "joined": "2019-07",
       "id": "nathandunn",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/nathandunn.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nathandunn/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nathandunn.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nathandunn/"
     },
     {
       "name": "Mateo Boudet",
@@ -296,8 +296,8 @@
       "joined": "2021-05",
       "elixir_node": "fr",
       "id": "mboudet",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/mboudet.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mboudet/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mboudet.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mboudet/"
     },
     {
       "name": "Erasmus+ Programme",
@@ -305,12 +305,12 @@
       "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
       "github": false,
       "funder": true,
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
       "funding_id": "2020-1-NL01-KA203-064717",
       "funding_system": "erasmusplus",
       "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
       "id": "erasmusplus",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
     }
   ]
 }

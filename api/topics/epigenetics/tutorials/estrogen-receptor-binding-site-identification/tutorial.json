@@ -34,8 +34,8 @@
       "name": "Friederike Dündar",
       "joined": "2017-09",
       "id": "friedue",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/friedue.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/friedue/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/friedue.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/friedue/"
     },
     {
       "name": "Anika Erxleben",
@@ -44,8 +44,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
     },
     {
       "name": "Bérénice Batut",
@@ -65,22 +65,22 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Vivek Bhardwaj",
       "joined": "2017-09",
       "id": "vivekbhr",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
     },
     {
       "name": "Fidel Ramirez",
       "joined": "2017-09",
       "id": "fidelram",
-      "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
-      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
+      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
+      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
     }
   ],
   "short_id": "T00138",
@@ -102,11 +102,11 @@
     {
       "workflow": "chip_seq.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
       "path": "topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/chip_seq.ga",
       "wfid": "epigenetics-estrogen-receptor-binding-site-identification",
       "wfname": "chip_seq",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/chip_seq",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/chip_seq",
       "license": null,
       "creators": [
 
@@ -116,11 +116,11 @@
     {
       "workflow": "qc_mapping.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
+      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
       "path": "topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/workflows/qc_mapping.ga",
       "wfid": "epigenetics-estrogen-receptor-binding-site-identification",
       "wfname": "qc_mapping",
-      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/qc_mapping",
+      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-estrogen-receptor-binding-site-identification/versions/qc_mapping",
       "license": null,
       "creators": [
 
@@ -128,7 +128,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
+  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/estrogen-receptor-binding-site-identification/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_compare/deeptools_bam_compare/2.5.1.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_bam_coverage/deeptools_bam_coverage/2.5.1.1.0",
