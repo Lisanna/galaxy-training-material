@@ -23,8 +23,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
       "path": "topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
       "wfid": "metagenomics-nanopore-16S-metagenomics",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-nanopore-16S-metagenomics/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-nanopore-16S-metagenomics/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -61,7 +61,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
   "tools": [
     "Remove beginning1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_replace_in_line/1.1.2",

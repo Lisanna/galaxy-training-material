@@ -25,8 +25,8 @@
       "orcid": "0000-0002-6100-4385",
       "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
       "id": "slugger70",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
     }
   ],
   "short_id": "T00034",
@@ -79,11 +79,11 @@
     {
       "workflow": "assembly-general-introduction.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
       "path": "topics/assembly/tutorials/general-introduction/workflows/assembly-general-introduction.ga",
       "wfid": "assembly-general-introduction",
       "wfname": "assembly-general-introduction",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-general-introduction/versions/assembly-general-introduction",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-general-introduction/versions/assembly-general-introduction",
       "license": null,
       "creators": [
 
@@ -91,7 +91,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/fastq_paired_end_interlacer/fastq_paired_end_interlacer/1.2.0.1+galaxy0",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72+galaxy1",

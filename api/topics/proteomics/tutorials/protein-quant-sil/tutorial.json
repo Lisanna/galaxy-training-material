@@ -36,8 +36,8 @@
       "email": "sigloch+github@mailbox.org",
       "joined": "2017-09",
       "id": "stortebecker",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stortebecker.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stortebecker/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/stortebecker.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stortebecker/"
     },
     {
       "name": "Björn Grüning",
@@ -51,8 +51,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Matthias Fahrner",
@@ -61,8 +61,8 @@
       "orcid": "0000-0001-7955-2518",
       "joined": "2019-03",
       "id": "matthias313",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/matthias313.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/matthias313/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/matthias313.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/matthias313/"
     }
   ],
   "subtopic": "id-quant",
@@ -89,11 +89,11 @@
     {
       "workflow": "workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/protein-quant-sil/workflows/workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/protein-quant-sil/workflows/workflow.ga",
       "path": "topics/proteomics/tutorials/protein-quant-sil/workflows/workflow.ga",
       "wfid": "proteomics-protein-quant-sil",
       "wfname": "workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-protein-quant-sil/versions/workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-protein-quant-sil/versions/workflow",
       "license": null,
       "creators": [
 
@@ -101,7 +101,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/protein-quant-sil/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-quant-sil/tutorial.json",
   "tools": [
     "Grep1",
     "Summary_Statistics1",

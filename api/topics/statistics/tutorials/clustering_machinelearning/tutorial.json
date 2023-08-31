@@ -25,8 +25,8 @@
       "orcid": "0000-0001-6811-9196",
       "joined": "2019-07",
       "id": "khanteymoori",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/khanteymoori.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/khanteymoori/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/khanteymoori.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/khanteymoori/"
     },
     {
       "name": "Anup Kumar",
@@ -35,8 +35,8 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
     }
   ],
   "short_id": "T00264",
@@ -58,11 +58,11 @@
     {
       "workflow": "clustering.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/clustering.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/clustering_machinelearning/workflows/clustering.ga",
       "path": "topics/statistics/tutorials/clustering_machinelearning/workflows/clustering.ga",
       "wfid": "statistics-clustering_machinelearning",
       "wfname": "clustering",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-clustering_machinelearning/versions/clustering",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-clustering_machinelearning/versions/clustering",
       "license": null,
       "creators": [
 
@@ -70,7 +70,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/clustering_machinelearning/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/clustering_machinelearning/tutorial.json",
   "tools": [
     "csv_to_tabular",
     "toolshed.g2.bx.psu.edu/repos/bgruening/sklearn_numeric_clustering/sklearn_numeric_clustering/1.0.8.1",

@@ -56,11 +56,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
       "path": "topics/metabolomics/tutorials/gc_ms_with_xcms/workflows/main_workflow.ga",
       "wfid": "metabolomics-gc_ms_with_xcms",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-gc_ms_with_xcms/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-gc_ms_with_xcms/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -72,7 +72,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/galaxyp/msconvert/msconvert/3.0.20287.2",
     "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",
@@ -231,8 +231,8 @@
       "email": "trojak@mail.muni.cz",
       "orcid": "0000-0003-0841-2707",
       "id": "xtrojak",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/xtrojak.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/xtrojak/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/xtrojak.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/xtrojak/"
     },
     {
       "name": "Helge Hecht",
@@ -240,8 +240,8 @@
       "email": "helge.hecht@recetox.muni.cz",
       "orcid": "0000-0001-6744-996X",
       "id": "hechth",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hechth.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hechth/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hechth.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hechth/"
     },
     {
       "name": "Maxim Skoryk",
@@ -249,8 +249,8 @@
       "orcid": "0000-0003-2056-8018",
       "joined": "2023-03",
       "id": "maximskorik",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/maximskorik.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/maximskorik/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/maximskorik.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/maximskorik/"
     },
     {
       "name": "Helena Rasche",
@@ -269,8 +269,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ]
 }

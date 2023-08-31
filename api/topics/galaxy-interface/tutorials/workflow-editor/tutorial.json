@@ -26,8 +26,8 @@
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     }
   ],
   "level": "Intermediate",
@@ -51,11 +51,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/workflow-editor/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/workflow-editor/workflows/main_workflow.ga",
       "path": "topics/galaxy-interface/tutorials/workflow-editor/workflows/main_workflow.ga",
       "wfid": "galaxy-interface-workflow-editor",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-editor/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-editor/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -65,11 +65,11 @@
     {
       "workflow": "subworkflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/workflow-editor/workflows/subworkflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/workflow-editor/workflows/subworkflow.ga",
       "path": "topics/galaxy-interface/tutorials/workflow-editor/workflows/subworkflow.ga",
       "wfid": "galaxy-interface-workflow-editor",
       "wfname": "subworkflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-editor/versions/subworkflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-editor/versions/subworkflow",
       "license": null,
       "creators": [
 
@@ -77,7 +77,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/workflow-editor/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-editor/tutorial.json",
   "tools": [
     "Paste1",
     "Show beginning1",

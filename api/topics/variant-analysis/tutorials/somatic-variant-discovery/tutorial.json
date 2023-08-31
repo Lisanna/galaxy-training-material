@@ -23,8 +23,8 @@
       "email": "k.jumah@bradford.ac.uk",
       "joined": "2022-09",
       "id": "Khaled196",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/Khaled196.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/Khaled196/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/Khaled196.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/Khaled196/"
     },
     {
       "name": "Katarzyna Kamieniecka",
@@ -33,8 +33,8 @@
       "joined": "2018-08",
       "elixir_node": "uk",
       "id": "kkamieniecka",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
     },
     {
       "name": "Wolfgang Maier",
@@ -45,15 +45,15 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     },
     {
       "name": "David Salgado",
       "joined": "2022-10",
       "id": "d-salgado",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/d-salgado.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/d-salgado/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/d-salgado.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/d-salgado/"
     },
     {
       "name": "Krzysztof Poterlowicz",
@@ -62,8 +62,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "poterlowicz-lab",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
     }
   ],
   "short_id": "T00317",
@@ -85,11 +85,11 @@
     {
       "workflow": "Control-FREEC_MIRACUM_-_somatic_variant_discovery_from_WES_data.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/somatic-variant-discovery/workflows/Control-FREEC_MIRACUM_-_somatic_variant_discovery_from_WES_data.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/somatic-variant-discovery/workflows/Control-FREEC_MIRACUM_-_somatic_variant_discovery_from_WES_data.ga",
       "path": "topics/variant-analysis/tutorials/somatic-variant-discovery/workflows/Control-FREEC_MIRACUM_-_somatic_variant_discovery_from_WES_data.ga",
       "wfid": "variant-analysis-somatic-variant-discovery",
       "wfname": "control-freec_miracum_-_somatic_variant_discovery_from_wes_data",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-somatic-variant-discovery/versions/control-freec_miracum_-_somatic_variant_discovery_from_wes_data",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-somatic-variant-discovery/versions/control-freec_miracum_-_somatic_variant_discovery_from_wes_data",
       "license": null,
       "creators": [
 
@@ -97,7 +97,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/somatic-variant-discovery/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/somatic-variant-discovery/tutorial.json",
   "tools": [
     "Grep1",
     "__BUILD_LIST__",

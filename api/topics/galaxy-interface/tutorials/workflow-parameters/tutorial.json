@@ -27,8 +27,8 @@
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Helena Rasche",
@@ -47,8 +47,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "level": "Intermediate",
@@ -101,11 +101,11 @@
     {
       "workflow": "cut_n_lines.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/galaxy-interface/tutorials/workflow-parameters/workflows/cut_n_lines.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/workflow-parameters/workflows/cut_n_lines.ga",
       "path": "topics/galaxy-interface/tutorials/workflow-parameters/workflows/cut_n_lines.ga",
       "wfid": "galaxy-interface-workflow-parameters",
       "wfname": "cut_n_lines",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-parameters/versions/cut_n_lines",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/galaxy-interface-workflow-parameters/versions/cut_n_lines",
       "license": null,
       "creators": [
 
@@ -113,7 +113,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/workflow-parameters/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-parameters/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_head_tool/1.1.0"
   ],

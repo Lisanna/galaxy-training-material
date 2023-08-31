@@ -69,11 +69,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/lncrna/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/lncrna/workflows/main_workflow.ga",
       "path": "topics/genome-annotation/tutorials/lncrna/workflows/main_workflow.ga",
       "wfid": "genome-annotation-lncrna",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-lncrna/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-lncrna/versions/main_workflow",
       "license": "GPL-3.0-or-later",
       "creators": [
         {
@@ -85,7 +85,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/lncrna/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/lncrna/tutorial.json",
   "tools": [
     "Extract_features1",
     "https://toolshed.g2.bx.psu.edu/view/bgruening/text_processing/f46f0e4f75c4",
@@ -167,8 +167,8 @@
       "orcid": "0000-0001-7379-9173",
       "joined": "2021-11",
       "id": "stephanierobin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
     },
     {
       "name": "Anthony Bretaudeau",
@@ -187,8 +187,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
     }
   ]
 }

@@ -31,8 +31,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     }
   ],
   "short_id": "T00318",
@@ -54,11 +54,11 @@
     {
       "workflow": "somatic_variants_tutorial_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/somatic-variants/workflows/somatic_variants_tutorial_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/somatic-variants/workflows/somatic_variants_tutorial_workflow.ga",
       "path": "topics/variant-analysis/tutorials/somatic-variants/workflows/somatic_variants_tutorial_workflow.ga",
       "wfid": "variant-analysis-somatic-variants",
       "wfname": "somatic_variants_tutorial_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-somatic-variants/versions/somatic_variants_tutorial_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-somatic-variants/versions/somatic_variants_tutorial_workflow",
       "license": null,
       "creators": [
 
@@ -66,7 +66,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/somatic-variants/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/somatic-variants/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/column_arrange_by_header/bg_column_arrange_by_header/0.2",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_easyjoin_tool/1.1.1",

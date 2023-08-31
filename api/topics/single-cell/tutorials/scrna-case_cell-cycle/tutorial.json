@@ -80,11 +80,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
       "path": "topics/single-cell/tutorials/scrna-case_cell-cycle/workflows/main_workflow.ga",
       "wfid": "single-cell-scrna-case_cell-cycle",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_cell-cycle/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_cell-cycle/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -92,7 +92,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
   "tools": [
     "cat1",
     "sort1",
@@ -214,8 +214,8 @@
       "email": "marisa.loach@open.ac.uk",
       "joined": "2022-10",
       "id": "MarisaJL",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/MarisaJL.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/MarisaJL/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/MarisaJL.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/MarisaJL/"
     },
     {
       "name": "Wendi Bacon",
@@ -227,8 +227,8 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Graeme Tyson",
@@ -236,8 +236,8 @@
       "orcid": "0000-0002-1748-2806",
       "joined": "2022-09",
       "id": "hrukkudyr",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrukkudyr.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrukkudyr/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hrukkudyr.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrukkudyr/"
     }
   ]
 }

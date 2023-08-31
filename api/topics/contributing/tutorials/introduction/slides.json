@@ -26,7 +26,7 @@
   },
   "hands_on": false,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/contributing/tutorials/introduction/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/contributing/tutorials/introduction/tutorial.json",
   "tools": [
 
   ],

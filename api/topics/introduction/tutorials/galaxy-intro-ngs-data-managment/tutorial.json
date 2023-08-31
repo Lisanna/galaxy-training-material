@@ -27,23 +27,23 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Dave Clements",
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
     },
     {
       "name": "Daniel Blankenberg",
@@ -51,8 +51,8 @@
       "orcid": "0000-0002-6833-9049",
       "joined": "2018-07",
       "id": "blankenberg",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
     }
   ],
   "short_id": "T00188",
@@ -104,11 +104,11 @@
     {
       "workflow": "ngs_intro_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/workflows/ngs_intro_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/workflows/ngs_intro_workflow.ga",
       "path": "topics/introduction/tutorials/galaxy-intro-ngs-data-managment/workflows/ngs_intro_workflow.ga",
       "wfid": "introduction-galaxy-intro-ngs-data-managment",
       "wfname": "ngs_intro_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-ngs-data-managment/versions/ngs_intro_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-ngs-data-managment/versions/ngs_intro_workflow",
       "license": null,
       "creators": [
 
@@ -116,7 +116,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.json",
   "tools": [
     "Grep1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cut_tool/1.1.0",

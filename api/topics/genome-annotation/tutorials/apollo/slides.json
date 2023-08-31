@@ -146,11 +146,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
       "path": "topics/genome-annotation/tutorials/apollo/workflows/main_workflow.ga",
       "wfid": "genome-annotation-apollo",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-apollo/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-apollo/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -158,7 +158,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/gga/apollo_create_account/create_account/3.1",
     "toolshed.g2.bx.psu.edu/repos/gga/apollo_create_or_update/create_or_update/4.2.5",
@@ -168,13 +168,14 @@
   ],
   "supported_servers": {
     "exact": [
+
+    ],
+    "inexact": [
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
         "usegalaxy": "true"
-      }
-    ],
-    "inexact": [
+      },
       {
         "url": "https://usegalaxy.no/",
         "name": "UseGalaxy.no",

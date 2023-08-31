@@ -15,8 +15,8 @@
       "name": "Christoph Stritt",
       "joined": "2022-03",
       "id": "cstritt",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cstritt.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cstritt/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/cstritt.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cstritt/"
     },
     {
       "name": "Peter van Heusden",
@@ -25,8 +25,8 @@
       "joined": "2017-09",
       "bio": "Research at the South African National Bioinformatics Institute",
       "id": "pvanheus",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pvanheus.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pvanheus/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pvanheus.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pvanheus/"
     }
   ],
   "edam_ontology": [
@@ -100,11 +100,11 @@
         {
           "workflow": "Galaxy-Workflow-From_BAMs_to_drug_resistance_prediction_with_TB-profiler.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_BAMs_to_drug_resistance_prediction_with_TB-profiler.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_BAMs_to_drug_resistance_prediction_with_TB-profiler.ga",
           "path": "topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_BAMs_to_drug_resistance_prediction_with_TB-profiler.ga",
           "wfid": "evolution-mtb_transmission",
           "wfname": "galaxy-workflow-from_bams_to_drug_resistance_prediction_with_tb-profiler",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/galaxy-workflow-from_bams_to_drug_resistance_prediction_with_tb-profiler",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/galaxy-workflow-from_bams_to_drug_resistance_prediction_with_tb-profiler",
           "license": null,
           "creators": [
 
@@ -114,11 +114,11 @@
         {
           "workflow": "Galaxy-Workflow-From_Fastqs_to_VCFs_and_BAMs.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_Fastqs_to_VCFs_and_BAMs.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_Fastqs_to_VCFs_and_BAMs.ga",
           "path": "topics/evolution/tutorials/mtb_transmission/workflows/Galaxy-Workflow-From_Fastqs_to_VCFs_and_BAMs.ga",
           "wfid": "evolution-mtb_transmission",
           "wfname": "galaxy-workflow-from_fastqs_to_vcfs_and_bams",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/galaxy-workflow-from_fastqs_to_vcfs_and_bams",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/galaxy-workflow-from_fastqs_to_vcfs_and_bams",
           "license": null,
           "creators": [
 
@@ -128,11 +128,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/evolution/tutorials/mtb_transmission/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/evolution/tutorials/mtb_transmission/workflows/main_workflow.ga",
           "path": "topics/evolution/tutorials/mtb_transmission/workflows/main_workflow.ga",
           "wfid": "evolution-mtb_transmission",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/evolution-mtb_transmission/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -140,7 +140,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json",
       "tools": [
         "Grep1",
         "__MERGE_COLLECTION__",
@@ -358,22 +358,22 @@
           "name": "Galo A. Goig",
           "joined": "2022-03",
           "id": "GaloGS",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/GaloGS.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/GaloGS/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/GaloGS.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/GaloGS/"
         },
         {
           "name": "Daniela Brites",
           "joined": "2022-03",
           "id": "dbrites",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dbrites.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dbrites/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/dbrites.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dbrites/"
         },
         {
           "name": "Christoph Stritt",
           "joined": "2022-03",
           "id": "cstritt",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cstritt.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cstritt/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/cstritt.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cstritt/"
         },
         {
           "name": "Wolfgang Maier",
@@ -384,13 +384,13 @@
           "fediverse": "https://scholar.social/@zerodivision",
           "fediverse_flavor": "mastodon",
           "id": "wm75",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json"
       }
     },
     {
@@ -457,11 +457,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/evolution/tutorials/mtb_phylogeny/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/evolution/tutorials/mtb_phylogeny/workflows/main_workflow.ga",
           "path": "topics/evolution/tutorials/mtb_phylogeny/workflows/main_workflow.ga",
           "wfid": "evolution-mtb_phylogeny",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/evolution-mtb_phylogeny/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/evolution-mtb_phylogeny/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -469,7 +469,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json",
       "tools": [
         "interactive_tool_rstudio",
         "toolshed.g2.bx.psu.edu/repos/iuc/raxml/raxml/8.2.12+galaxy0",
@@ -537,22 +537,22 @@
           "name": "Christoph Stritt",
           "joined": "2022-03",
           "id": "cstritt",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cstritt.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cstritt/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/cstritt.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cstritt/"
         },
         {
           "name": "Daniela Brites",
           "joined": "2022-03",
           "id": "dbrites",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dbrites.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dbrites/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/dbrites.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dbrites/"
         },
         {
           "name": "Galo A. Goig",
           "joined": "2022-03",
           "id": "GaloGS",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/GaloGS.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/GaloGS/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/GaloGS.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/GaloGS/"
         },
         {
           "name": "Wolfgang Maier",
@@ -563,13 +563,13 @@
           "fediverse": "https://scholar.social/@zerodivision",
           "fediverse_flavor": "mastodon",
           "id": "wm75",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json"
       }
     }
   ]

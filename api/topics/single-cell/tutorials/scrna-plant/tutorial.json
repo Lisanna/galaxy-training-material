@@ -44,8 +44,8 @@
       "joined": "2018-11",
       "elixir_node": "de",
       "id": "mtekman",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mtekman.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mtekman/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mtekman.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mtekman/"
     },
     {
       "name": "Beatriz Serrano-Solano",
@@ -56,8 +56,8 @@
       "orcid": "0000-0002-5862-6132",
       "joined": "2020-07",
       "id": "beatrizserrano",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/beatrizserrano.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/beatrizserrano/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/beatrizserrano.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/beatrizserrano/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -65,16 +65,16 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "gitter": "Galaxy-Training-Network/galaxy-single-cell",
@@ -127,11 +127,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
       "path": "topics/single-cell/tutorials/scrna-plant/workflows/main_workflow.ga",
       "wfid": "single-cell-scrna-plant",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-plant/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-plant/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -139,7 +139,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-plant/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/anndata_import/anndata_import/0.7.5+galaxy0",
     "toolshed.g2.bx.psu.edu/repos/iuc/anndata_manipulate/anndata_manipulate/0.7.5+galaxy0",

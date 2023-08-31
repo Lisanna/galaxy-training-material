@@ -29,8 +29,8 @@
       "name": "Anne Pajon",
       "joined": "2017-09",
       "id": "pajanne",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pajanne.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pajanne/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pajanne.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pajanne/"
     },
     {
       "name": "Clemens Blank",
@@ -39,8 +39,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "blankclemens",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankclemens.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankclemens/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankclemens.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankclemens/"
     },
     {
       "name": "Bérénice Batut",
@@ -60,8 +60,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Björn Grüning",
@@ -75,8 +75,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Nicola Soranzo",
@@ -86,22 +86,22 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Dilmurat Yusuf",
       "joined": "2017-09",
       "id": "dyusuf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dyusuf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dyusuf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/dyusuf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dyusuf/"
     },
     {
       "name": "Sarah Peter",
       "joined": "2018-09",
       "id": "sarah-peter",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/sarah-peter.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/sarah-peter/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/sarah-peter.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/sarah-peter/"
     },
     {
       "name": "Helena Rasche",
@@ -120,8 +120,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00189",
@@ -143,11 +143,11 @@
     {
       "workflow": "Galaxy-Introduction-Peaks2Genes-Part-1-Workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/workflows/Galaxy-Introduction-Peaks2Genes-Part-1-Workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/workflows/Galaxy-Introduction-Peaks2Genes-Part-1-Workflow.ga",
       "path": "topics/introduction/tutorials/galaxy-intro-peaks2genes/workflows/Galaxy-Introduction-Peaks2Genes-Part-1-Workflow.ga",
       "wfid": "introduction-galaxy-intro-peaks2genes",
       "wfname": "galaxy-introduction-peaks2genes-part-1-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-peaks2genes/versions/galaxy-introduction-peaks2genes-part-1-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-peaks2genes/versions/galaxy-introduction-peaks2genes-part-1-workflow",
       "license": null,
       "creators": [
 
@@ -155,7 +155,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.json",
   "tools": [
     "CONVERTER_interval_to_bed_0",
     "Cut1",

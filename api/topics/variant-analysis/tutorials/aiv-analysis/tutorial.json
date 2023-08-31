@@ -31,8 +31,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     }
   ],
   "tags": [
@@ -54,7 +54,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/aiv-analysis/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/aiv-analysis/tutorial.json",
   "tools": [
     "Grep1",
     "Show beginning1",

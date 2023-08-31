@@ -35,8 +35,8 @@
       "orcid": "0000-0001-7955-2518",
       "joined": "2019-03",
       "id": "matthias313",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/matthias313.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/matthias313/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/matthias313.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/matthias313/"
     },
     {
       "name": "Melanie Föll",
@@ -47,8 +47,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
     }
   ],
   "subtopic": "post-process",
@@ -74,11 +74,11 @@
     {
       "workflow": "Galaxy-Workflow-DIA_MSstats_Training_export_tabular.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_export_tabular.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_export_tabular.ga",
       "path": "topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_export_tabular.ga",
       "wfid": "proteomics-DIA_Analysis_MSstats",
       "wfname": "galaxy-workflow-dia_msstats_training_export_tabular",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_MSstats/versions/galaxy-workflow-dia_msstats_training_export_tabular",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_MSstats/versions/galaxy-workflow-dia_msstats_training_export_tabular",
       "license": null,
       "creators": [
 
@@ -88,11 +88,11 @@
     {
       "workflow": "Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
       "path": "topics/proteomics/tutorials/DIA_Analysis_MSstats/workflows/Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
       "wfid": "proteomics-DIA_Analysis_MSstats",
       "wfname": "galaxy-workflow-dia_msstats_training_msstats_input_tabular",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_MSstats/versions/galaxy-workflow-dia_msstats_training_msstats_input_tabular",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-DIA_Analysis_MSstats/versions/galaxy-workflow-dia_msstats_training_msstats_input_tabular",
       "license": null,
       "creators": [
 
@@ -100,7 +100,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/DIA_Analysis_MSstats/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_MSstats/tutorial.json",
   "tools": [
     "Filter1",
     "Grep1",

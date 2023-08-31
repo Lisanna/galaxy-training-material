@@ -59,7 +59,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/sequence-analysis/tutorials/sars-with-galaxy-on-anvil/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/sars-with-galaxy-on-anvil/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.2",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.73+galaxy0",
@@ -164,101 +164,101 @@
       "email": "nkucher3@jhu.edu",
       "joined": "2023-06",
       "id": "nakucher",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nakucher.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nakucher/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nakucher.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nakucher/"
     },
     {
       "name": "Ava Hoffman",
       "joined": "2023-06",
       "id": "avahoffman",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avahoffman.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avahoffman/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/avahoffman.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avahoffman/"
     },
     {
       "name": "Robert Meller",
       "joined": "2023-06",
       "id": "robertmeller",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/robertmeller.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/robertmeller/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/robertmeller.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/robertmeller/"
     },
     {
       "name": "Katherine Cox",
       "joined": "2023-06",
       "id": "katherinecox",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/katherinecox.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/katherinecox/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/katherinecox.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/katherinecox/"
     },
     {
       "name": "Frederick Tan",
       "joined": "2023-06",
       "id": "cutsort",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cutsort.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cutsort/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/cutsort.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cutsort/"
     },
     {
       "name": "Natalie Kucher",
       "email": "nkucher3@jhu.edu",
       "joined": "2023-06",
       "id": "nakucher",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nakucher.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nakucher/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nakucher.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nakucher/"
     },
     {
       "name": "Candace Savonen",
       "joined": "2023-06",
       "id": "cansavvy",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cansavvy.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cansavvy/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/cansavvy.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cansavvy/"
     },
     {
       "name": "Ava Hoffman",
       "joined": "2023-06",
       "id": "avahoffman",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avahoffman.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avahoffman/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/avahoffman.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avahoffman/"
     },
     {
       "name": "Katherine Cox",
       "joined": "2023-06",
       "id": "katherinecox",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/katherinecox.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/katherinecox/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/katherinecox.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/katherinecox/"
     },
     {
       "name": "Elizabeth Humphries",
       "joined": "2023-06",
       "id": "ehumph",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ehumph.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ehumph/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/ehumph.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ehumph/"
     },
     {
       "name": "Frederick Tan",
       "joined": "2023-06",
       "id": "cutsort",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cutsort.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cutsort/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/cutsort.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cutsort/"
     },
     {
       "name": "National Human Genome Research Institute Genomic Data Science Community Network",
       "github": false,
       "joined": "2023-06",
       "avatar": "https://www.genome.gov/themes/custom/nhgri/assets/global/NHGRI-logo.svg",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nhgri-gdscn.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nhgri-gdscn.json",
       "funder": true,
       "funding_id": "75N92022P00232",
       "id": "nhgri-gdscn",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nhgri-gdscn/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nhgri-gdscn/"
     },
     {
       "name": "National Human Genome Research Institute Genomic Data Science Analysis, Visualization, and Informatics Lab-Space",
       "github": false,
       "joined": "2023-06",
       "avatar": "https://www.genome.gov/themes/custom/nhgri/assets/global/NHGRI-logo.svg",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nhgri-anvil.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nhgri-anvil.json",
       "funder": true,
       "funding_id": "U24HG010263",
       "id": "nhgri-anvil",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nhgri-anvil/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nhgri-anvil/"
     }
   ]
 }

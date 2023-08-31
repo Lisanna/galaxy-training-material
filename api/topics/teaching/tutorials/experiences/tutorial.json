@@ -37,8 +37,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Fotis E. Psomopoulos",
@@ -50,8 +50,8 @@
       "joined": "2019-03",
       "elixir_node": "gr",
       "id": "fpsom",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fpsom.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fpsom/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/fpsom.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fpsom/"
     }
   ],
   "short_id": "T00277",
@@ -69,7 +69,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/teaching/tutorials/experiences/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/teaching/tutorials/experiences/tutorial.json",
   "tools": [
 
   ],

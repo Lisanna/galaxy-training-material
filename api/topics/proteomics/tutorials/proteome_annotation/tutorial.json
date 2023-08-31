@@ -23,8 +23,8 @@
       "name": "Valentin Loux",
       "joined": "2019-04",
       "id": "vloux",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vloux.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vloux/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/vloux.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vloux/"
     },
     {
       "name": "Florence Combes",
@@ -32,22 +32,22 @@
       "joined": "2019-04",
       "elixir_node": "fr",
       "id": "combesf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/combesf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/combesf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/combesf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/combesf/"
     },
     {
       "name": "David Christiany",
       "joined": "2019-04",
       "id": "davidchristiany",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/davidchristiany.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/davidchristiany/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/davidchristiany.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/davidchristiany/"
     },
     {
       "name": "Yves Vandenbrouck",
       "joined": "2019-04",
       "id": "yvandenb",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvandenb.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvandenb/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvandenb.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvandenb/"
     }
   ],
   "subtopic": "post-process",
@@ -104,11 +104,11 @@
     {
       "workflow": "Galaxy-Workflow-_Proteome_annotation_.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/proteome_annotation/workflows/Galaxy-Workflow-_Proteome_annotation_.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/proteome_annotation/workflows/Galaxy-Workflow-_Proteome_annotation_.ga",
       "path": "topics/proteomics/tutorials/proteome_annotation/workflows/Galaxy-Workflow-_Proteome_annotation_.ga",
       "wfid": "proteomics-proteome_annotation",
       "wfname": "galaxy-workflow-_proteome_annotation_",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-proteome_annotation/versions/galaxy-workflow-_proteome_annotation_",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-proteome_annotation/versions/galaxy-workflow-_proteome_annotation_",
       "license": null,
       "creators": [
 
@@ -118,11 +118,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/proteome_annotation/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/proteome_annotation/workflows/main_workflow.ga",
       "path": "topics/proteomics/tutorials/proteome_annotation/workflows/main_workflow.ga",
       "wfid": "proteomics-proteome_annotation",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-proteome_annotation/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-proteome_annotation/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -130,7 +130,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/proteome_annotation/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteome_annotation/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/proteore/proteore_clusterprofiler/cluter_profiler/2019.02.18",
     "toolshed.g2.bx.psu.edu/repos/proteore/proteore_expression_rnaseq_abbased/rna_abbased_data/2019.03.07",

@@ -23,8 +23,8 @@
       "orcid": "0000-0003-2949-3921",
       "joined": "2017-09",
       "id": "malloryfreeberg",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/malloryfreeberg.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/malloryfreeberg/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/malloryfreeberg.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/malloryfreeberg/"
     }
   ],
   "short_id": "T00307",
@@ -46,11 +46,11 @@
     {
       "workflow": "sRNA_seq_Step_1_Read_preprocessing_and_removal_of_artifacts.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_1_Read_preprocessing_and_removal_of_artifacts.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_1_Read_preprocessing_and_removal_of_artifacts.ga",
       "path": "topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_1_Read_preprocessing_and_removal_of_artifacts.ga",
       "wfid": "transcriptomics-srna",
       "wfname": "srna_seq_step_1_read_preprocessing_and_removal_of_artifacts",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-srna/versions/srna_seq_step_1_read_preprocessing_and_removal_of_artifacts",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-srna/versions/srna_seq_step_1_read_preprocessing_and_removal_of_artifacts",
       "license": null,
       "creators": [
 
@@ -60,11 +60,11 @@
     {
       "workflow": "sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
       "path": "topics/transcriptomics/tutorials/srna/workflows/sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
       "wfid": "transcriptomics-srna",
       "wfname": "srna_seq_step_2_salmon_and_deseq2",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-srna/versions/srna_seq_step_2_salmon_and_deseq2",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-srna/versions/srna_seq_step_2_salmon_and_deseq2",
       "license": null,
       "creators": [
 
@@ -72,7 +72,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/srna/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/srna/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/0.8.2",

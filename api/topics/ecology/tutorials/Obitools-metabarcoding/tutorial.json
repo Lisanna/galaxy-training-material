@@ -30,8 +30,8 @@
       "joined": "2020-11",
       "elixir_node": "fr",
       "id": "colineroyaux",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/colineroyaux.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/colineroyaux/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/colineroyaux.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/colineroyaux/"
     },
     {
       "name": "Olivier Norvez",
@@ -39,24 +39,24 @@
       "joined": "2022-02",
       "elixir_node": "fr",
       "id": "onorvez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/onorvez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/onorvez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/onorvez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/onorvez/"
     },
     {
       "github": false,
       "name": "Eric Coissac",
       "joined": "2022-02",
       "id": "ecoissac",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ecoissac.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ecoissac/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/ecoissac.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ecoissac/"
     },
     {
       "github": false,
       "name": "Frédéric Boyer",
       "joined": "2022-02",
       "id": "fboyer",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fboyer.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fboyer/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/fboyer.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fboyer/"
     },
     {
       "name": "Yvan Le Bras",
@@ -67,8 +67,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
     }
   ],
   "short_id": "T00124",
@@ -119,11 +119,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/Obitools-metabarcoding/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/Obitools-metabarcoding/workflows/main_workflow.ga",
       "path": "topics/ecology/tutorials/Obitools-metabarcoding/workflows/main_workflow.ga",
       "wfid": "ecology-Obitools-metabarcoding",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-Obitools-metabarcoding/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-Obitools-metabarcoding/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -131,7 +131,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/Obitools-metabarcoding/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/Obitools-metabarcoding/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

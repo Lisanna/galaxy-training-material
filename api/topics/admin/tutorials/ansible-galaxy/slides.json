@@ -138,7 +138,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/ansible-galaxy/tutorial.json",
   "tools": [
 
   ],
@@ -204,8 +204,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Nate Coraor",
@@ -215,8 +215,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
     },
     {
       "name": "Simon Gladman",
@@ -226,8 +226,8 @@
       "orcid": "0000-0002-6100-4385",
       "in_memoriam": "<a href=\"https://www.biocommons.org.au/news/simon-gladman\">Simon Gladman, system administrator of UseGalaxy.org.au, passed away on November 26, 2022</a>\n\n<a href=\"https://galaxyproject.org/news/2022-11-28-simon-gladman/\">He was a fantastic teacher, tutorial author, system administrator, and warm and welcoming friend.</a> He contributed heavily to the Galaxy Training Network and especially the Galaxy Administration community over the years, we will miss him dearly. The GTN and GAT would not be what they are today, without him.\n\n“Have I told you about my watch?”",
       "id": "slugger70",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/slugger70.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/slugger70/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/slugger70.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/slugger70/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -247,8 +247,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Nicola Soranzo",
@@ -258,8 +258,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Gianmauro Cuccuru",
@@ -267,15 +267,15 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5335-545X",
       "id": "gmauro",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gmauro.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gmauro/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gmauro.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gmauro/"
     },
     {
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Martin Čech",
@@ -293,8 +293,8 @@
       "fediverse_flavor": "mastodon",
       "joined": "2017-09",
       "id": "martenson",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/martenson.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/martenson/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/martenson.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/martenson/"
     },
     {
       "name": "John Chilton",
@@ -304,23 +304,23 @@
       "matrix": "jmchilton:matrix.org",
       "orcid": "0000-0002-6794-0756",
       "id": "jmchilton",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jmchilton.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jmchilton/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/jmchilton.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jmchilton/"
     },
     {
       "name": "Dave B.",
       "joined": "2021-06",
       "id": "davebx",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/davebx.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/davebx/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/davebx.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/davebx/"
     },
     {
       "name": "Gildas Le Corguillé",
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "lecorguille",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
     },
     {
       "name": "Anthony Bretaudeau",
@@ -339,8 +339,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Lucille Delisle",
@@ -355,8 +355,8 @@
         "lon": 6.56
       },
       "id": "lldelisle",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
     },
     {
       "name": "Mira Kuntz",
@@ -366,8 +366,8 @@
       "joined": "2022-07",
       "elixir_node": "de",
       "id": "mira-miracoli",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
     }
   ],
   "logo": "assets/images/gat.png",

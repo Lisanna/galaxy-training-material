@@ -32,8 +32,8 @@
       "elixir_node": "no",
       "orcid": "0000-0002-1784-2920",
       "id": "annefou",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
     },
     {
       "name": "Nadia Goué",
@@ -41,37 +41,37 @@
       "orcid": "0000-0003-2750-1473",
       "joined": "2019-07",
       "id": "nagoue",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nagoue.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nagoue/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nagoue.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nagoue/"
     },
     {
       "name": "Christopher Barnett",
       "joined": "2019-05",
       "id": "chrisbarnettster",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/chrisbarnettster.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/chrisbarnettster/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/chrisbarnettster.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/chrisbarnettster/"
     },
     {
       "name": "Michele Maroni",
       "joined": "2019-07",
       "id": "michelemaroni89",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/michelemaroni89.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/michelemaroni89/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/michelemaroni89.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/michelemaroni89/"
     },
     {
       "name": "Olha Nahorna",
       "joined": "2019-07",
       "id": "olanag1",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/olanag1.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/olanag1/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/olanag1.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/olanag1/"
     },
     {
       "name": "Dave Clements",
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -91,8 +91,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     }
   ],
   "short_id": "T00187",
@@ -157,11 +157,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/introduction/tutorials/galaxy-intro-101-everyone/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101-everyone/workflows/main_workflow.ga",
       "path": "topics/introduction/tutorials/galaxy-intro-101-everyone/workflows/main_workflow.ga",
       "wfid": "introduction-galaxy-intro-101-everyone",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-101-everyone/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-101-everyone/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -169,7 +169,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/galaxy-intro-101-everyone/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-101-everyone/tutorial.json",
   "tools": [
     "Cut1",
     "Grouping1",

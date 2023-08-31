@@ -72,7 +72,7 @@
   },
   "hands_on": false,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/users-groups-quotas/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/users-groups-quotas/tutorial.json",
   "tools": [
 
   ],
@@ -128,8 +128,8 @@
       "joined": "2017-12",
       "orcid": "0000-0001-8083-2963",
       "id": "natefoo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/natefoo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/natefoo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/natefoo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/natefoo/"
     },
     {
       "name": "Björn Grüning",
@@ -143,8 +143,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Helena Rasche",
@@ -163,8 +163,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "redirect_from": [

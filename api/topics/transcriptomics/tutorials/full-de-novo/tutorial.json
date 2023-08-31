@@ -36,16 +36,16 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Gildas Le Corguillé",
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "lecorguille",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lecorguille.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lecorguille/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lecorguille.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lecorguille/"
     },
     {
       "name": "Erwan Corre",
@@ -54,16 +54,16 @@
       "orcid": "0000-0001-6354-2278",
       "joined": "2019-04",
       "id": "r1corre",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
     },
     {
       "name": "Xi Liu",
       "github": false,
       "joined": "2019-11",
       "id": "xiliu",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/xiliu.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/xiliu/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/xiliu.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/xiliu/"
     }
   ],
   "short_id": "T00290",
@@ -85,11 +85,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/full-de-novo/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/full-de-novo/workflows/main_workflow.ga",
       "path": "topics/transcriptomics/tutorials/full-de-novo/workflows/main_workflow.ga",
       "wfid": "transcriptomics-full-de-novo",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-full-de-novo/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-full-de-novo/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -97,7 +97,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/full-de-novo/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/full-de-novo/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.69",
     "toolshed.g2.bx.psu.edu/repos/iuc/describe_samples/describe_samples/2.8.4",

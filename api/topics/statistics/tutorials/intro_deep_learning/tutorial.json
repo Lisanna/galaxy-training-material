@@ -26,8 +26,8 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
     },
     {
       "name": "Alireza Khanteymoori",
@@ -35,8 +35,8 @@
       "orcid": "0000-0001-6811-9196",
       "joined": "2019-07",
       "id": "khanteymoori",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/khanteymoori.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/khanteymoori/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/khanteymoori.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/khanteymoori/"
     }
   ],
   "short_id": "T00268",
@@ -58,11 +58,11 @@
     {
       "workflow": "Intro_To_Deep_Learning.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/intro_deep_learning/workflows/Intro_To_Deep_Learning.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/intro_deep_learning/workflows/Intro_To_Deep_Learning.ga",
       "path": "topics/statistics/tutorials/intro_deep_learning/workflows/Intro_To_Deep_Learning.ga",
       "wfid": "statistics-intro_deep_learning",
       "wfname": "intro_to_deep_learning",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-intro_deep_learning/versions/intro_to_deep_learning",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-intro_deep_learning/versions/intro_to_deep_learning",
       "license": null,
       "creators": [
 
@@ -70,7 +70,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/intro_deep_learning/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/intro_deep_learning/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_builder/keras_model_builder/0.5.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_config/keras_model_config/0.5.0",

@@ -49,8 +49,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Bérénice Batut",
@@ -70,8 +70,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Helena Rasche",
@@ -90,8 +90,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00237",
@@ -180,11 +180,11 @@
     {
       "workflow": "mapping-jbrowse.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/sequence-analysis/tutorials/mapping/workflows/mapping-jbrowse.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/workflows/mapping-jbrowse.ga",
       "path": "topics/sequence-analysis/tutorials/mapping/workflows/mapping-jbrowse.ga",
       "wfid": "sequence-analysis-mapping",
       "wfname": "mapping-jbrowse",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/sequence-analysis-mapping/versions/mapping-jbrowse",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/sequence-analysis-mapping/versions/mapping-jbrowse",
       "license": null,
       "creators": [
 
@@ -194,11 +194,11 @@
     {
       "workflow": "mapping.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/sequence-analysis/tutorials/mapping/workflows/mapping.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/workflows/mapping.ga",
       "path": "topics/sequence-analysis/tutorials/mapping/workflows/mapping.ga",
       "wfid": "sequence-analysis-mapping",
       "wfname": "mapping",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/sequence-analysis-mapping/versions/mapping",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/sequence-analysis-mapping/versions/mapping",
       "license": null,
       "creators": [
 
@@ -1981,7 +1981,7 @@
       }
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/sequence-analysis/tutorials/mapping/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/mapping/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/trim_galore/trim_galore/0.4.3.1",
     "toolshed.g2.bx.psu.edu/repos/devteam/bamtools_filter/bamFilter/2.4.1",

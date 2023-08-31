@@ -62,7 +62,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/python-testing/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/data-science/tutorials/python-testing/tutorial.json",
   "tools": [
 
   ],
@@ -115,8 +115,8 @@
       "name": "The Carpentries",
       "joined": "2021-09",
       "id": "carpentries",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/carpentries.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/carpentries/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/carpentries.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/carpentries/"
     },
     {
       "name": "Helena Rasche",
@@ -135,8 +135,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Donny Vrins",
@@ -144,31 +144,31 @@
       "linkedin": "Donny Vrins",
       "email": "D.vrins@live.nl",
       "id": "dirowa",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dirowa.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dirowa/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/dirowa.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dirowa/"
     },
     {
       "name": "Bazante Sanders",
       "joined": "2020-12",
       "id": "bazante1",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bazante1.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bazante1/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bazante1.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bazante1/"
     },
     {
       "name": "The Carpentries",
       "joined": "2021-09",
       "id": "carpentries",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/carpentries.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/carpentries/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/carpentries.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/carpentries/"
     },
     {
       "name": "Avans Hogeschool",
       "joined": "2020-11",
       "funder": true,
       "funding_statement": "A number of our employees contribute directly to the Galaxy Training Network and seek to make our higher education learning materials more accessible to a wider audience through the GTN platform. <a href=\"https://avans.nl/\">avans.nl</a>",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avans-atgm.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/avans-atgm.json",
       "id": "avans-atgm",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avans-atgm/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avans-atgm/"
     }
   ]
 }

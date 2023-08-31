@@ -34,8 +34,8 @@
       "matrix": "jmchilton:matrix.org",
       "orcid": "0000-0002-6794-0756",
       "id": "jmchilton",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jmchilton.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jmchilton/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/jmchilton.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jmchilton/"
     },
     {
       "name": "Helena Rasche",
@@ -54,8 +54,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "subtopic": "upload",
@@ -74,7 +74,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/galaxy-interface/tutorials/upload-rules-advanced/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-rules-advanced/tutorial.json",
   "tools": [
 
   ],

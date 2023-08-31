@@ -28,8 +28,8 @@
       "email": "watsocam@ohsu.edu",
       "orcid": "0000-0002-6942-2469",
       "id": "CameronFRWatson",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/CameronFRWatson.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/CameronFRWatson/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/CameronFRWatson.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/CameronFRWatson/"
     },
     {
       "name": "Allison Creason",
@@ -37,8 +37,8 @@
       "orcid": "0000-0001-5724-1276",
       "joined": "2023-02",
       "id": "alliecreason",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alliecreason.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alliecreason/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/alliecreason.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alliecreason/"
     }
   ],
   "short_id": "T00334",
@@ -60,11 +60,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
       "path": "topics/imaging/tutorials/multiplex-tissue-imaging-TMA/workflows/main_workflow.ga",
       "wfid": "imaging-multiplex-tissue-imaging-TMA",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/imaging-multiplex-tissue-imaging-TMA/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/imaging-multiplex-tissue-imaging-TMA/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -72,7 +72,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/goeckslab/mesmer/mesmer/0.12.3+galaxy2",
     "toolshed.g2.bx.psu.edu/repos/goeckslab/rename_tiff_channels/rename_tiff_channels/0.0.1+galaxy1",

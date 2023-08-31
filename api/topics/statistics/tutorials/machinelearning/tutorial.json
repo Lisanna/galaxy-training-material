@@ -30,8 +30,8 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
     }
   ],
   "short_id": "T00270",
@@ -53,11 +53,11 @@
     {
       "workflow": "machine_learning.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/machinelearning/workflows/machine_learning.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/machinelearning/workflows/machine_learning.ga",
       "path": "topics/statistics/tutorials/machinelearning/workflows/machine_learning.ga",
       "wfid": "statistics-machinelearning",
       "wfname": "machine_learning",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-machinelearning/versions/machine_learning",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-machinelearning/versions/machine_learning",
       "license": null,
       "creators": [
 
@@ -584,7 +584,7 @@
       }
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/machinelearning/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/machinelearning/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/sklearn_svm_classifier/sklearn_svm_classifier/1.0.8.1"
   ],

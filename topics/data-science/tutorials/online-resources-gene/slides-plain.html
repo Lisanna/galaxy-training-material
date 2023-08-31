@@ -17,7 +17,7 @@
 <script type="text/javascript">
 Sentry.init({
   dsn: "https://45e0ec6e4373462b92969505df37cf40@sentry.galaxyproject.org/10",
-  release: "galaxy-training-network@30dbaa150bc2ffba75056b198b92f5b9ca46aafc",
+  release: "galaxy-training-network@09f30d5c59d980e96a0d72637a774c2cea5a5306",
   integrations: [new Sentry.BrowserTracing(), new Sentry.Replay()],
   sampleRate: 0.1,
   tracesSampleRate: 0.1,
@@ -32,19 +32,19 @@ Sentry.init({
 </script>
 
         
-        <link rel="shortcut icon" href="/galaxy-training-material/favicon.ico" type="image/x-icon">
-        <link rel="alternate" type="application/atom+xml" href="/galaxy-training-material/feed.xml">
-        <link rel="canonical" href="https://training.galaxyproject.org/galaxy-training-material/topics/data-science/tutorials/online-resources-gene/slides-plain.html">
+        <link rel="shortcut icon" href="/training-material/favicon.ico" type="image/x-icon">
+        <link rel="alternate" type="application/atom+xml" href="/training-material/feed.xml">
+        <link rel="canonical" href="https://training.galaxyproject.org/training-material/topics/data-science/tutorials/online-resources-gene/slides-plain.html">
         <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0">
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" as="script" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/css/main.css?v=3" as="style">
-        <link rel='preload' href='/galaxy-training-material/assets/js/bundle.theme.js?v=1693444725' as='script'>
-<link rel='preload' href='/galaxy-training-material/assets/js/bundle.main.js?v=1693444725' as='script'>
-        <link rel="stylesheet" href="/galaxy-training-material/assets/css/main.css?v=3">
-        <link rel="manifest" href="/galaxy-training-material/manifest.json">
+        <link rel="preload" href="/training-material/assets/css/main.css?v=3" as="style">
+        <link rel='preload' href='/training-material/assets/js/bundle.theme.js?v=1693485069' as='script'>
+<link rel='preload' href='/training-material/assets/js/bundle.main.js?v=1693485069' as='script'>
+        <link rel="stylesheet" href="/training-material/assets/css/main.css?v=3">
+        <link rel="manifest" href="/training-material/manifest.json">
         <meta name="theme-color" content="#2c3143"/>
 
 
@@ -52,9 +52,8 @@ Sentry.init({
 <meta name="DC.type" content="text">
 <meta name="DC.title" content="Bioinformatics Data Types and Databases">
 <meta name="DC.publisher" content="Galaxy Training Network">
-<meta name="DC.date" content="2023-08-31 01:18:46 +0000">
+<meta name="DC.date" content="2023-08-31 12:31:11 +0000">
 <meta name="DC.creator" content="Lisanna Paladin">
-<meta name="DC.creator" content="BioNT">
 
         
         
@@ -65,17 +64,17 @@ Sentry.init({
         <meta property="og:title" content="Galaxy Training: Bioinformatics Data Types and Databases">
         <meta property="og:description" content="Collection of tutorials developed and maintained by the w...">
         
-        <meta property="og:image" content="/galaxy-training-material/assets/images/GTNLogo1000.png">
+        <meta property="og:image" content="/training-material/assets/images/GTNLogo1000.png">
 
         
     </head>
     <body data-spy="scroll" data-target="#toc">
-        <script src='/galaxy-training-material/assets/js/bundle.theme.js?v=1693444725'></script>
+        <script src='/training-material/assets/js/bundle.theme.js?v=1693485069'></script>
         <header>
     <nav class="navbar navbar-expand-md navbar-dark" aria-label="Site Navigation">
         <div class="container">
-            <a class="navbar-brand" href="/galaxy-training-material/">
-                <img src="/galaxy-training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
+            <a class="navbar-brand" href="/training-material/">
+                <img src="/training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
                 
                     Galaxy Training!
                 
@@ -88,7 +87,7 @@ Sentry.init({
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         
-                        <a class="nav-link" href="/galaxy-training-material/hall-of-fame" title="Hall of Fame">
+                        <a class="nav-link" href="/training-material/hall-of-fame" title="Hall of Fame">
                            <i class="fas fa-users" aria-hidden="true"></i><span class="visually-hidden">hall-of-fame</span> Contributors
                         </a>
 
@@ -96,7 +95,7 @@ Sentry.init({
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/galaxy-training-material/learning-pathways" title="Learning Pathways">
+                        <a class="nav-link" href="/training-material/learning-pathways" title="Learning Pathways">
                            <i class="fas fa-graduation-cap" aria-hidden="true"></i><span class="visually-hidden">curriculum</span> Learning Pathways
                         </a>
                     </li>
@@ -114,7 +113,7 @@ Sentry.init({
         </form>
         -->
 
-        <a class="dropdown-item" href="/galaxy-training-material/faq" title="Check our FAQs">
+        <a class="dropdown-item" href="/training-material/faq" title="Check our FAQs">
            <i class="far fa-question-circle" aria-hidden="true"></i><span class="visually-hidden">question</span> FAQs
         </a>
         
@@ -142,7 +141,7 @@ Sentry.init({
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> GTN statistics
         </a>
 
-        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/galaxy-training-material/topics/data-science/tutorials/online-resources-gene/slides-plain.html" title="Show view statistics of this page">
+        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/training-material/topics/data-science/tutorials/online-resources-gene/slides-plain.html" title="Show view statistics of this page">
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> Page Metrics
         </a>
 
@@ -191,7 +190,7 @@ Sentry.init({
                     <li class="nav-item">
                       <div id="navbarSupportedContent" role="search">
                         <!-- Search form -->
-                        <form class="form-inline mr-auto" method="GET" action="/galaxy-training-material/search2">
+                        <form class="form-inline mr-auto" method="GET" action="/training-material/search2">
                           <i class="fas fa-search nav-link" aria-hidden="true"></i>
                           <div class="md-form mb-2">
                             <input name="query" class="form-control nicer" type="text" placeholder="Search Tutorials" aria-label="Search">
@@ -214,7 +213,30 @@ Sentry.init({
 <div markdown="0">
 
 	<div class="contributors-line">
-		Authors: <a href="/galaxy-training-material/hall-of-fame/lisanna/" class="contributor-badge contributor-lisanna"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/lisanna?s=36" alt="Avatar" width="36" height="36">Lisanna Paladin</a><a href="/galaxy-training-material/hall-of-fame/biont/" class="contributor-badge contributor-biont"><img src="http://biont-training.eu/assets/img/BioNT_Logo_Layout_2106_blue_Version_2_cropped.png" alt="Avatar" width="36" height="36">BioNT</a>
+		
+<table class="contributions">
+	
+	<tr>
+		<td><abbr title="These people wrote the bulk of the tutorial, they may have done the analysis, built the workflow, and wrote the text themselves.">Author(s)</abbr></td>
+		<td>
+			<a href="/training-material/hall-of-fame/lisanna/" class="contributor-badge contributor-lisanna"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/lisanna?s=36" alt="Avatar" width="36" height="36">Lisanna Paladin</a>
+		</td>
+	</tr>
+	
+
+
+	
+
+	
+
+	
+
+	
+
+	
+</table>
+
+
 	</div>
 
 </div>
@@ -386,7 +408,7 @@ Sentry.init({
 ]</p>
 
 <p>.pull-right[
-<img src="/galaxy-training-material/assets/images/online/UniProt.png" alt="The UniProtKB, at the time of creation of these slides, includes 596793 manually curated entries (Reviewed) in Swiss-Prot and 248272897 Unreviewed entries in TrEMBL" />
+<img src="/training-material/assets/images/online/UniProt.png" alt="The UniProtKB, at the time of creation of these slides, includes 596793 manually curated entries (Reviewed) in Swiss-Prot and 248272897 Unreviewed entries in TrEMBL" />
 ]</p>
 
 <hr />
@@ -424,7 +446,7 @@ Understanding about biological entities comes from crossing the information into
 ]</p>
 
 <p>.pull-right[
-<img src="/galaxy-training-material/assets/images/online/merged-info.png" alt="New knowledge comes from merging and crossing different levels of information about a protein, the schema mentions: the sequence (plain, conservation), structure, genomic information (conservation, location, regulation), function." />
+<img src="/training-material/assets/images/online/merged-info.png" alt="New knowledge comes from merging and crossing different levels of information about a protein, the schema mentions: the sequence (plain, conservation), structure, genomic information (conservation, location, regulation), function." />
 ]</p>
 
 <hr />
@@ -809,13 +831,36 @@ This material is the result of a collaborative work. Thanks to the <a href="http
 
 
 
-<img src="/galaxy-training-material/topics/data-science/images/online-resources/BioNT_Logo_Layout_2106_blue_Version_2_cropped.png" alt="page logo" style="height: 100px;"/>
+<img src="/training-material/shared/images/BioNT_Logo.png" alt="page logo" style="height: 100px;"/>
 
 
 
 This material is licensed under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </section>
 
+
+
+
+
+<div markdown="1">
+<h2 id="funding">Funding</h2>
+<p>These individuals or organisations provided funding support for the development of this resource</p>
+
+<div class="row">
+
+	<div class="col-md-3 col-xs-12">
+		
+		<img class="funder-avatar" src="http://biont-training.eu/assets/img/BioNT_Logo_Layout_2106_blue_Version_2_cropped.png" alt="Logo">
+		
+		<a href="/training-material/hall-of-fame/biont/" class="btn btn-secondary">See Funder Profile</a>
+	</div>
+	<div class="col-md-9 col-xs-12">
+		<p>Co-funded by the European Union</p>
+
+	</div>
+
+</div>
+</div>
 
 
 
@@ -834,7 +879,7 @@ This material is licensed under the <a rel="license" href="https://creativecommo
 				The GTN infrastructure is licensed under <a rel="license" href="https://github.com/galaxyproject/training-material/blob/main/LICENSE.md">MIT</a>
 				</p>
 				<p>
-				Revision <a href="https://github.com/galaxyproject/training-material/commit/30dbaa150bc2ffba75056b198b92f5b9ca46aafc">30dbaa1</a>, built with Jekyll (4.3.2 | production)
+				Revision <a href="https://github.com/galaxyproject/training-material/commit/09f30d5c59d980e96a0d72637a774c2cea5a5306">09f30d5</a>, built with Jekyll (4.3.2 | production)
 				</p>
 			</div>
 			<div class="col-sm-6" style="text-align: right">
@@ -862,7 +907,7 @@ This material is licensed under the <a rel="license" href="https://creativecommo
 </footer>
 
 
-        <script src='/galaxy-training-material/assets/js/bundle.main.js?v=1693444725'></script>
+        <script src='/training-material/assets/js/bundle.main.js?v=1693485069'></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     </body>
 </html>

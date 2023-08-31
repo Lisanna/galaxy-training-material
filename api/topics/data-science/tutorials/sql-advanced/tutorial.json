@@ -86,8 +86,8 @@
       "name": "The Carpentries",
       "joined": "2021-09",
       "id": "carpentries",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/carpentries.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/carpentries/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/carpentries.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/carpentries/"
     },
     {
       "name": "Helena Rasche",
@@ -106,17 +106,17 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Avans Hogeschool",
       "joined": "2020-11",
       "funder": true,
       "funding_statement": "A number of our employees contribute directly to the Galaxy Training Network and seek to make our higher education learning materials more accessible to a wider audience through the GTN platform. <a href=\"https://avans.nl/\">avans.nl</a>",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/avans-atgm.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/avans-atgm.json",
       "id": "avans-atgm",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/avans-atgm/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/avans-atgm/"
     }
   ],
   "subtopic": "sql",
@@ -154,7 +154,7 @@
       ]
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/sql-advanced/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/data-science/tutorials/sql-advanced/tutorial.json",
   "tools": [
 
   ],

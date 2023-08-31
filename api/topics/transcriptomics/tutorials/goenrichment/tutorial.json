@@ -20,16 +20,16 @@
       "name": "IGC Bioinformatics Unit",
       "joined": "2018-12",
       "id": "igcbioinformatics",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/igcbioinformatics.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/igcbioinformatics/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/igcbioinformatics.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/igcbioinformatics/"
     },
     {
       "name": "Maria Doyle",
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
     }
   ],
   "short_id": "T00291",
@@ -51,11 +51,11 @@
     {
       "workflow": "goenrichment-workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/goenrichment/workflows/goenrichment-workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/goenrichment/workflows/goenrichment-workflow.ga",
       "path": "topics/transcriptomics/tutorials/goenrichment/workflows/goenrichment-workflow.ga",
       "wfid": "transcriptomics-goenrichment",
       "wfname": "goenrichment-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-goenrichment/versions/goenrichment-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-goenrichment/versions/goenrichment-workflow",
       "license": null,
       "creators": [
 
@@ -63,7 +63,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/goenrichment/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/goenrichment/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/iuc/goenrichment/goenrichment/2.0.1",

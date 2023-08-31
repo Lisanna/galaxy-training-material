@@ -17,7 +17,7 @@
 <script type="text/javascript">
 Sentry.init({
   dsn: "https://45e0ec6e4373462b92969505df37cf40@sentry.galaxyproject.org/10",
-  release: "galaxy-training-network@30dbaa150bc2ffba75056b198b92f5b9ca46aafc",
+  release: "galaxy-training-network@09f30d5c59d980e96a0d72637a774c2cea5a5306",
   integrations: [new Sentry.BrowserTracing(), new Sentry.Replay()],
   sampleRate: 0.1,
   tracesSampleRate: 0.1,
@@ -32,19 +32,19 @@ Sentry.init({
 </script>
 
         
-        <link rel="shortcut icon" href="/galaxy-training-material/favicon.ico" type="image/x-icon">
-        <link rel="alternate" type="application/atom+xml" href="/galaxy-training-material/feed.xml">
-        <link rel="canonical" href="https://training.galaxyproject.org/galaxy-training-material/news/2021/12/01/assembly-annotation.html">
+        <link rel="shortcut icon" href="/training-material/favicon.ico" type="image/x-icon">
+        <link rel="alternate" type="application/atom+xml" href="/training-material/feed.xml">
+        <link rel="canonical" href="https://training.galaxyproject.org/training-material/news/2021/12/01/assembly-annotation.html">
         <link rel="license" href="https://spdx.org/licenses/CC-BY-4.0">
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Bold-102a.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="/training-material/assets/fonts/AtkinsonHyperlegible/Atkinson-Hyperlegible-Italic-102a.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" as="script" crossorigin>
-        <link rel="preload" href="/galaxy-training-material/assets/css/main.css?v=3" as="style">
-        <link rel='preload' href='/galaxy-training-material/assets/js/bundle.theme.js?v=1693444725' as='script'>
-<link rel='preload' href='/galaxy-training-material/assets/js/bundle.main.js?v=1693444725' as='script'>
-        <link rel="stylesheet" href="/galaxy-training-material/assets/css/main.css?v=3">
-        <link rel="manifest" href="/galaxy-training-material/manifest.json">
+        <link rel="preload" href="/training-material/assets/css/main.css?v=3" as="style">
+        <link rel='preload' href='/training-material/assets/js/bundle.theme.js?v=1693485069' as='script'>
+<link rel='preload' href='/training-material/assets/js/bundle.main.js?v=1693485069' as='script'>
+        <link rel="stylesheet" href="/training-material/assets/css/main.css?v=3">
+        <link rel="manifest" href="/training-material/manifest.json">
         <meta name="theme-color" content="#2c3143"/>
 
 
@@ -68,17 +68,17 @@ Sentry.init({
         <meta property="og:title" content="Galaxy Training: New Tutorials: PacBio data QC and Genome Assembly, and Ge...">
         <meta property="og:description" content="Collection of tutorials developed and maintained by the w...">
         
-        <meta property="og:image" content="/galaxy-training-materialnews/images/funannotate_jbrowse.png">
+        <meta property="og:image" content="/training-materialnews/images/funannotate_jbrowse.png">
 
         
     </head>
     <body data-spy="scroll" data-target="#toc">
-        <script src='/galaxy-training-material/assets/js/bundle.theme.js?v=1693444725'></script>
+        <script src='/training-material/assets/js/bundle.theme.js?v=1693485069'></script>
         <header>
     <nav class="navbar navbar-expand-md navbar-dark" aria-label="Site Navigation">
         <div class="container">
-            <a class="navbar-brand" href="/galaxy-training-material/">
-                <img src="/galaxy-training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
+            <a class="navbar-brand" href="/training-material/">
+                <img src="/training-material/assets/images/GTN-60px.png" height="30" alt="Galaxy Training Network logo">
                 
                     Galaxy Training!
                 
@@ -91,7 +91,7 @@ Sentry.init({
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         
-                        <a class="nav-link" href="/galaxy-training-material/hall-of-fame" title="Hall of Fame">
+                        <a class="nav-link" href="/training-material/hall-of-fame" title="Hall of Fame">
                            <i class="fas fa-users" aria-hidden="true"></i><span class="visually-hidden">hall-of-fame</span> Contributors
                         </a>
 
@@ -99,7 +99,7 @@ Sentry.init({
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/galaxy-training-material/learning-pathways" title="Learning Pathways">
+                        <a class="nav-link" href="/training-material/learning-pathways" title="Learning Pathways">
                            <i class="fas fa-graduation-cap" aria-hidden="true"></i><span class="visually-hidden">curriculum</span> Learning Pathways
                         </a>
                     </li>
@@ -117,7 +117,7 @@ Sentry.init({
         </form>
         -->
 
-        <a class="dropdown-item" href="/galaxy-training-material/faq" title="Check our FAQs">
+        <a class="dropdown-item" href="/training-material/faq" title="Check our FAQs">
            <i class="far fa-question-circle" aria-hidden="true"></i><span class="visually-hidden">question</span> FAQs
         </a>
         
@@ -145,7 +145,7 @@ Sentry.init({
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> GTN statistics
         </a>
 
-        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/galaxy-training-material/news/2021/12/01/assembly-annotation.html" title="Show view statistics of this page">
+        <a class="dropdown-item" href="https://plausible.galaxyproject.eu/training.galaxyproject.org?period=12mo&page=/training-material/news/2021/12/01/assembly-annotation.html" title="Show view statistics of this page">
             <i class="fas fa-chart-bar" aria-hidden="true"></i><span class="visually-hidden">galaxy-barchart</span> Page Metrics
         </a>
 
@@ -194,7 +194,7 @@ Sentry.init({
                     <li class="nav-item">
                       <div id="navbarSupportedContent" role="search">
                         <!-- Search form -->
-                        <form class="form-inline mr-auto" method="GET" action="/galaxy-training-material/search2">
+                        <form class="form-inline mr-auto" method="GET" action="/training-material/search2">
                           <i class="fas fa-search nav-link" aria-hidden="true"></i>
                           <div class="md-form mb-2">
                             <input name="query" class="form-control nicer" type="text" placeholder="Search Tutorials" aria-label="Search">
@@ -226,7 +226,7 @@ Sentry.init({
 	<tr>
 		<td><abbr title="These people wrote the bulk of the tutorial, they may have done the analysis, built the workflow, and wrote the text themselves.">Author(s)</abbr></td>
 		<td>
-			<a href="/galaxy-training-material/hall-of-fame/abretaud/" class="contributor-badge contributor-abretaud"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/abretaud?s=36" alt="Avatar" width="36" height="36">Anthony Bretaudeau</a><a href="/galaxy-training-material/hall-of-fame/alexcorm/" class="contributor-badge contributor-alexcorm"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/alexcorm?s=36" alt="Avatar" width="36" height="36">Alexandre Cormier</a><a href="/galaxy-training-material/hall-of-fame/lleroi/" class="contributor-badge contributor-lleroi"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/lleroi?s=36" alt="Avatar" width="36" height="36">Laura Leroi</a><a href="/galaxy-training-material/hall-of-fame/r1corre/" class="contributor-badge contributor-r1corre"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/r1corre?s=36" alt="Avatar" width="36" height="36">Erwan Corre</a><a href="/galaxy-training-material/hall-of-fame/stephanierobin/" class="contributor-badge contributor-stephanierobin"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/stephanierobin?s=36" alt="Avatar" width="36" height="36">Stéphanie Robin</a>
+			<a href="/training-material/hall-of-fame/abretaud/" class="contributor-badge contributor-abretaud"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/abretaud?s=36" alt="Avatar" width="36" height="36">Anthony Bretaudeau</a><a href="/training-material/hall-of-fame/alexcorm/" class="contributor-badge contributor-alexcorm"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/alexcorm?s=36" alt="Avatar" width="36" height="36">Alexandre Cormier</a><a href="/training-material/hall-of-fame/lleroi/" class="contributor-badge contributor-lleroi"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/lleroi?s=36" alt="Avatar" width="36" height="36">Laura Leroi</a><a href="/training-material/hall-of-fame/r1corre/" class="contributor-badge contributor-r1corre"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/r1corre?s=36" alt="Avatar" width="36" height="36">Erwan Corre</a><a href="/training-material/hall-of-fame/stephanierobin/" class="contributor-badge contributor-stephanierobin"><img src="/training-material/assets/images/orcid.png" alt="orcid logo" width="36" height="36"/><img src="https://avatars.githubusercontent.com/stephanierobin?s=36" alt="Avatar" width="36" height="36">Stéphanie Robin</a>
 		</td>
 	</tr>
 	
@@ -250,11 +250,11 @@ Sentry.init({
 
 
 
-<span class="label label-default tutorial_tag" id="new tutorial" style="--color-primary: #ffbc76; --color-darker: #f5a100; --color-dimmed: #ffad3b;">new tutorial</span>
+<span class="label label-default tutorial_tag" id="new tutorial" style="--color-primary: #ffb86b; --color-darker: #f29f00; --color-dimmed: #ffa91e;">new tutorial</span>
 
-<span class="label label-default tutorial_tag" id="assembly" style="--color-primary: #ffb3dd; --color-darker: #ff8ed0; --color-dimmed: #ffa1d6;">assembly</span>
+<span class="label label-default tutorial_tag" id="assembly" style="--color-primary: #ffaedb; --color-darker: #ff89ce; --color-dimmed: #ff9cd4;">assembly</span>
 
-<span class="label label-default tutorial_tag" id="genome-annotation" style="--color-primary: #a8da00; --color-darker: #95c200; --color-dimmed: #9ece00;">genome-annotation</span>
+<span class="label label-default tutorial_tag" id="genome-annotation" style="--color-primary: #a5d700; --color-darker: #93c000; --color-dimmed: #9ccb00;">genome-annotation</span>
 
 
 <hr/>
@@ -307,7 +307,7 @@ Sentry.init({
   </div>
 
   <div class="col-md-4">
-    <img alt="Screenshot of a Funannotate annotation displayed with JBrowse, within Galaxy." src="/galaxy-training-material/news/images/funannotate_jbrowse.png" width="300"/>
+    <img alt="Screenshot of a Funannotate annotation displayed with JBrowse, within Galaxy." src="/training-material/news/images/funannotate_jbrowse.png" width="300"/>
   </div>
 </div>
 </div>
@@ -316,7 +316,7 @@ Sentry.init({
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "url": "https://training.galaxyproject.org/galaxy-training-material/news/2021/12/01/assembly-annotation.html",
+  "url": "https://training.galaxyproject.org/training-material/news/2021/12/01/assembly-annotation.html",
   "name": "New Tutorials: PacBio data QC and Genome Assembly, and Genome Annotation with Funannotate",
   "headline": "<p>We have just finished a new collection of training material for genome assembly and annotation! Yo",
   "keywords": [
@@ -336,8 +336,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/",
+      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/",
       "name": "Anthony Bretaudeau",
       "image": "https://avatars.githubusercontent.com/abretaud",
       "description": "A contributor to the GTN project.",
@@ -359,8 +359,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/",
+      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/",
       "name": "Alexandre Cormier",
       "image": "https://avatars.githubusercontent.com/alexcorm",
       "description": "A contributor to the GTN project.",
@@ -382,8 +382,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/",
+      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/",
       "name": "Laura Leroi",
       "image": "https://avatars.githubusercontent.com/lleroi",
       "description": "A contributor to the GTN project.",
@@ -405,8 +405,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/",
+      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/",
       "name": "Erwan Corre",
       "image": "https://avatars.githubusercontent.com/r1corre",
       "description": "A contributor to the GTN project.",
@@ -428,8 +428,8 @@ Sentry.init({
         "@id": "https://bioschemas.org/profiles/Person/0.3-DRAFT",
         "@type": "CreativeWork"
       },
-      "url": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/",
-      "mainEntityOfPage": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/",
+      "url": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/",
+      "mainEntityOfPage": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/",
       "name": "Stéphanie Robin",
       "image": "https://avatars.githubusercontent.com/stephanierobin",
       "description": "A contributor to the GTN project.",
@@ -459,7 +459,7 @@ Sentry.init({
     "@type": "ImageObject",
     "width": 60,
     "height": 60,
-    "url": "/galaxy-training-material/assets/images/GTN-60px.png"
+    "url": "/training-material/assets/images/GTN-60px.png"
   },
   "accessMode": [
     "textual",
@@ -497,9 +497,9 @@ Sentry.init({
 	<p>
 	27 June 2023 &nbsp;
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #c6c4ff; --color-darker: #adaaff; --color-dimmed: #b9b7ff;">new topic</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #c3c1ff; --color-darker: #aba8ff; --color-dimmed: #b7b4ff;">new topic</span>
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #ffb0ef; --color-darker: #ff89ea; --color-dimmed: #ff9dec;">new community</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #ffabee; --color-darker: #ff84e9; --color-dimmed: #ff98ec;">new community</span>
 	
 	</p>
 	<p class="card-text">
@@ -512,14 +512,14 @@ Sentry.init({
 
 	<article>
 	<h3>
-		<a href="/galaxy-training-material/news/2023/06/21/fair.html">ELIXIR-UK Fellow Launches New FAIR Data Management Training</a>
+		<a href="/training-material/news/2023/06/21/fair.html">ELIXIR-UK Fellow Launches New FAIR Data Management Training</a>
 	</h3>
 	<p>
 	21 June 2023 &nbsp;
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #c6c4ff; --color-darker: #adaaff; --color-dimmed: #b9b7ff;">new topic</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #c3c1ff; --color-darker: #aba8ff; --color-dimmed: #b7b4ff;">new topic</span>
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #ffbc76; --color-darker: #f5a100; --color-dimmed: #ffad3b;">new tutorial</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #ffb86b; --color-darker: #f29f00; --color-dimmed: #ffa91e;">new tutorial</span>
 	
 	</p>
 	<p class="card-text">
@@ -533,14 +533,14 @@ Sentry.init({
 
 	<article>
 	<h3>
-		<a href="/galaxy-training-material/news/2023/06/07/pan-galactic-search.html">New Feature: Pan-Galactic Tool Search</a>
+		<a href="/training-material/news/2023/06/07/pan-galactic-search.html">New Feature: Pan-Galactic Tool Search</a>
 	</h3>
 	<p>
 	7 June 2023 &nbsp;
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #c3c4ff; --color-darker: #a9acff; --color-dimmed: #b6b8ff;">new feature</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #c0c1ff; --color-darker: #a6a9ff; --color-dimmed: #b3b5ff;">new feature</span>
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #fff3af; --color-darker: #edd800; --color-dimmed: #fce600;">gtn</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #fff2aa; --color-darker: #edd800; --color-dimmed: #fbe600;">gtn</span>
 	
 	</p>
 	<p class="card-text">
@@ -555,7 +555,7 @@ The GTN has you covered with the Pan-Galactic Tool Search that is now available.
 
 	<article>
 	<h3>
-		<a href="/galaxy-training-material/news/2023/06/01/hart.html">GTN Celebrates Pride Month: Alan Hart & M. Tuberculosis</a>
+		<a href="/training-material/news/2023/06/01/hart.html">GTN Celebrates Pride Month: Alan Hart & M. Tuberculosis</a>
 	</h3>
 	<p>
 	1 June 2023 &nbsp;
@@ -572,12 +572,12 @@ The GTN has you covered with the Pan-Galactic Tool Search that is now available.
 
 	<article>
 	<h3>
-		<a href="/galaxy-training-material/news/2023/05/15/isoform-usage-training.html">New Galaxy training: Genome-wide alternative splicing analysis</a>
+		<a href="/training-material/news/2023/05/15/isoform-usage-training.html">New Galaxy training: Genome-wide alternative splicing analysis</a>
 	</h3>
 	<p>
 	15 May 2023 &nbsp;
 	
-	<span class="label label-default tutorial_tag" style="--color-primary: #ffbc76; --color-darker: #f5a100; --color-dimmed: #ffad3b;">new tutorial</span>
+	<span class="label label-default tutorial_tag" style="--color-primary: #ffb86b; --color-darker: #f29f00; --color-dimmed: #ffa91e;">new tutorial</span>
 	
 	</p>
 	<p class="card-text">
@@ -608,7 +608,7 @@ The GTN has you covered with the Pan-Galactic Tool Search that is now available.
 				The GTN infrastructure is licensed under <a rel="license" href="https://github.com/galaxyproject/training-material/blob/main/LICENSE.md">MIT</a>
 				</p>
 				<p>
-				Revision <a href="https://github.com/galaxyproject/training-material/commit/30dbaa150bc2ffba75056b198b92f5b9ca46aafc">30dbaa1</a>, built with Jekyll (4.3.2 | production)
+				Revision <a href="https://github.com/galaxyproject/training-material/commit/09f30d5c59d980e96a0d72637a774c2cea5a5306">09f30d5</a>, built with Jekyll (4.3.2 | production)
 				</p>
 			</div>
 			<div class="col-sm-6" style="text-align: right">
@@ -640,7 +640,7 @@ The GTN has you covered with the Pan-Galactic Tool Search that is now available.
 </footer>
 
 
-        <script src='/galaxy-training-material/assets/js/bundle.main.js?v=1693444725'></script>
+        <script src='/training-material/assets/js/bundle.main.js?v=1693485069'></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     </body>
 </html>

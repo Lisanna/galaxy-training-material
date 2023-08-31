@@ -35,8 +35,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00065",
@@ -54,7 +54,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/contributing/tutorials/github-interface-contribution/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/contributing/tutorials/github-interface-contribution/tutorial.json",
   "tools": [
 
   ],

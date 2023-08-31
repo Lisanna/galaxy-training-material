@@ -21,24 +21,24 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Kenji Fujihara",
       "github": false,
       "joined": "2021-10",
       "id": "kenjifujihara",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kenjifujihara.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kenjifujihara/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/kenjifujihara.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kenjifujihara/"
     },
     {
       "name": "Twishi Gulati",
       "github": false,
       "joined": "2021-11",
       "id": "twishigulati",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/twishigulati.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/twishigulati/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/twishigulati.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/twishigulati/"
     }
   ],
   "tags": [
@@ -155,11 +155,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/crispr-screen/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/crispr-screen/workflows/main_workflow.ga",
       "path": "topics/genome-annotation/tutorials/crispr-screen/workflows/main_workflow.ga",
       "wfid": "genome-annotation-crispr-screen",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-crispr-screen/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-crispr-screen/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -167,7 +167,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/crispr-screen/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/crispr-screen/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/1.1.2",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72+galaxy1",
