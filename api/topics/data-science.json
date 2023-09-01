@@ -161,7 +161,8 @@
       "contributions": {
         "authorship": [
           "lisanna",
-          "bebatut"
+          "bebatut",
+          "teresa-m"
         ],
         "funding": [
           "biont"
@@ -239,6 +240,10 @@
             "usegalaxy": "false"
           },
           {
+            "url": "https://galaxy.bio.di.uminho.pt/",
+            "name": "PhagePromotor"
+          },
+          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
             "usegalaxy": "true"
@@ -311,6 +316,13 @@
           "id": "bebatut",
           "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
           "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+        },
+        {
+          "name": "Teresa Müller",
+          "joined": "2022-09",
+          "id": "teresa-m",
+          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/teresa-m.json",
+          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/teresa-m/"
         },
         {
           "name": "BioNT",
