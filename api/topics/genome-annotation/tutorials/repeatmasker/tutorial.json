@@ -106,11 +106,11 @@
     {
       "workflow": "RepeatMasker.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/repeatmasker/workflows/RepeatMasker.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/repeatmasker/workflows/RepeatMasker.ga",
       "path": "topics/genome-annotation/tutorials/repeatmasker/workflows/RepeatMasker.ga",
       "wfid": "genome-annotation-repeatmasker",
       "wfname": "repeatmasker",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-repeatmasker/versions/repeatmasker",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-repeatmasker/versions/repeatmasker",
       "license": "GPL-3.0-or-later",
       "creators": [
         {
@@ -122,7 +122,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/repeatmasker/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/repeatmasker/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/repeat_masker/repeatmasker_wrapper/4.1.5+galaxy0",
     "toolshed.g2.bx.psu.edu/repos/csbl/repeatmodeler/repeatmodeler/2.0.4+galaxy1",
@@ -223,8 +223,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Alexandre Cormier",
@@ -233,8 +233,8 @@
       "orcid": "0000-0002-7775-8413",
       "joined": "2021-11",
       "id": "alexcorm",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alexcorm.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/alexcorm.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/"
     },
     {
       "name": "Laura Leroi",
@@ -242,8 +242,8 @@
       "orcid": "0000-0003-3748-4179",
       "joined": "2021-11",
       "id": "lleroi",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lleroi.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lleroi.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/"
     },
     {
       "name": "Erwan Corre",
@@ -252,8 +252,8 @@
       "orcid": "0000-0001-6354-2278",
       "joined": "2019-04",
       "id": "r1corre",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
     },
     {
       "name": "Stéphanie Robin",
@@ -262,8 +262,8 @@
       "orcid": "0000-0001-7379-9173",
       "joined": "2021-11",
       "id": "stephanierobin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
     },
     {
       "name": "Jonathan Kreplak",
@@ -271,8 +271,8 @@
       "joined": "2020-09",
       "orcid": "0000-0001-5563-1932",
       "id": "jkreplak",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jkreplak.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jkreplak/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/jkreplak.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jkreplak/"
     },
     {
       "name": "Erasmus+ Programme",
@@ -280,12 +280,12 @@
       "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
       "github": false,
       "funder": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
       "funding_id": "2020-1-NL01-KA203-064717",
       "funding_system": "erasmusplus",
       "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
       "id": "erasmusplus",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
     }
   ]
 }

@@ -21,8 +21,8 @@
       "name": "Klemens Fröhlich",
       "joined": "2021-08",
       "id": "KlemensFroehlich",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/KlemensFroehlich.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/KlemensFroehlich/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/KlemensFroehlich.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/KlemensFroehlich/"
     },
     {
       "name": "Melanie Föll",
@@ -33,8 +33,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
     },
     {
       "name": "Matthias Fahrner",
@@ -43,8 +43,8 @@
       "orcid": "0000-0001-7955-2518",
       "joined": "2019-03",
       "id": "matthias313",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/matthias313.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/matthias313/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/matthias313.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/matthias313/"
     }
   ],
   "subtopic": "id-quant",
@@ -72,11 +72,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/maxquant-msstats-tmt/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/maxquant-msstats-tmt/workflows/main_workflow.ga",
       "path": "topics/proteomics/tutorials/maxquant-msstats-tmt/workflows/main_workflow.ga",
       "wfid": "proteomics-maxquant-msstats-tmt",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-maxquant-msstats-tmt/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-maxquant-msstats-tmt/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -84,7 +84,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/maxquant-msstats-tmt/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-tmt/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/galaxyp/maxquant/maxquant/1.6.17.0+galaxy2",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/msstatstmt/msstatstmt/2.0.0+galaxy0"

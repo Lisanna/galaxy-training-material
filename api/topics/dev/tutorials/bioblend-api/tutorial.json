@@ -51,7 +51,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/dev/tutorials/bioblend-api/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/dev/tutorials/bioblend-api/tutorial.json",
   "tools": [
 
   ],
@@ -108,23 +108,23 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Clare Sloggett",
       "joined": "2018-07",
       "elixir_node": "au",
       "id": "claresloggett",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/claresloggett.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/claresloggett/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/claresloggett.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/claresloggett/"
     },
     {
       "name": "Nitesh Turaga",
       "joined": "2017-09",
       "id": "nturaga",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nturaga.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nturaga/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nturaga.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nturaga/"
     },
     {
       "name": "Helena Rasche",
@@ -143,8 +143,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ]
 }

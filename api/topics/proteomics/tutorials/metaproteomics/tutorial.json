@@ -27,8 +27,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6801-2559",
       "id": "timothygriffin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/timothygriffin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/timothygriffin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/timothygriffin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/timothygriffin/"
     },
     {
       "name": "Pratik Jagtap",
@@ -36,16 +36,16 @@
       "joined": "2017-09",
       "orcid": "0000-0003-0984-0973",
       "id": "pratikdjagtap",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
     },
     {
       "name": "James Johnson",
       "email": "jj@umn.edu",
       "joined": "2017-09",
       "id": "jj-umn",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jj-umn.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jj-umn/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/jj-umn.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jj-umn/"
     },
     {
       "name": "Clemens Blank",
@@ -54,8 +54,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "blankclemens",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankclemens.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankclemens/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankclemens.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankclemens/"
     },
     {
       "name": "Subina Mehta",
@@ -66,8 +66,8 @@
       "orcid": "0000-0001-9818-0537",
       "joined": "2018-06",
       "id": "subinamehta",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
     }
   ],
   "subtopic": "multi-omics",
@@ -122,11 +122,11 @@
     {
       "workflow": "workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/metaproteomics/workflows/workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/metaproteomics/workflows/workflow.ga",
       "path": "topics/proteomics/tutorials/metaproteomics/workflows/workflow.ga",
       "wfid": "proteomics-metaproteomics",
       "wfname": "workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-metaproteomics/versions/workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-metaproteomics/versions/workflow",
       "license": null,
       "creators": [
 
@@ -134,7 +134,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/metaproteomics/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaproteomics/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/galaxyp/peptideshaker/peptide_shaker/1.16.36.3",
     "toolshed.g2.bx.psu.edu/repos/galaxyp/peptideshaker/search_gui/3.3.10.1",

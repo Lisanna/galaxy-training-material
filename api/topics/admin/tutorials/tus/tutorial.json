@@ -16,8 +16,8 @@
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Helena Rasche",
@@ -36,8 +36,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Lucille Delisle",
@@ -52,8 +52,8 @@
         "lon": 6.56
       },
       "id": "lldelisle",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lldelisle.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lldelisle/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lldelisle.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lldelisle/"
     }
   ],
   "subtopic": "features",
@@ -111,7 +111,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/tus/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/tus/tutorial.json",
   "tools": [
 
   ],

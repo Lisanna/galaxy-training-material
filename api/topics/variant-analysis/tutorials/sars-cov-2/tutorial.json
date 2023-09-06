@@ -84,11 +84,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/sars-cov-2/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/sars-cov-2/workflows/main_workflow.ga",
       "path": "topics/variant-analysis/tutorials/sars-cov-2/workflows/main_workflow.ga",
       "wfid": "variant-analysis-sars-cov-2",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-sars-cov-2/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-sars-cov-2/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -96,7 +96,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
   "tools": [
     "Filter1",
     "Grep1",
@@ -272,16 +272,16 @@
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Dave Clements",
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
     },
     {
       "name": "Daniel Blankenberg",
@@ -289,16 +289,16 @@
       "orcid": "0000-0002-6833-9049",
       "joined": "2018-07",
       "id": "blankenberg",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankenberg.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankenberg/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankenberg.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankenberg/"
     },
     {
       "name": "Anton Nekrutenko",
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Wolfgang Maier",
@@ -309,8 +309,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     }
   ]
 }

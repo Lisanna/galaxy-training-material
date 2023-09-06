@@ -57,7 +57,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/beacon/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/beacon/tutorial.json",
   "tools": [
 
   ],
@@ -123,8 +123,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -144,8 +144,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Common Infrastructure for National Cohorts in Europe, Canada, and Africa",
@@ -153,9 +153,9 @@
       "funder": true,
       "funding_id": "825775",
       "funding_system": "cordis",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/CINECA-Project.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/CINECA-Project.json",
       "id": "CINECA-Project",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/CINECA-Project/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/CINECA-Project/"
     }
   ]
 }

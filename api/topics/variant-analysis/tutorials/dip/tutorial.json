@@ -23,8 +23,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Nicola Soranzo",
@@ -34,8 +34,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
     }
   ],
   "short_id": "T00309",
@@ -57,11 +57,11 @@
     {
       "workflow": "diploid.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/dip/workflows/diploid.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/dip/workflows/diploid.ga",
       "path": "topics/variant-analysis/tutorials/dip/workflows/diploid.ga",
       "wfid": "variant-analysis-dip",
       "wfname": "diploid",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-dip/versions/diploid",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-dip/versions/diploid",
       "license": null,
       "creators": [
 
@@ -69,7 +69,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/dip/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/dip/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.1.0.46-0",
     "toolshed.g2.bx.psu.edu/repos/devteam/vcfallelicprimitives/vcfallelicprimitives/0.0.3",

@@ -47,7 +47,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/customization/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/customization/tutorial.json",
   "tools": [
 
   ],
@@ -102,8 +102,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-2362-9720",
       "id": "ElectronicBlueberry",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/ElectronicBlueberry.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/ElectronicBlueberry/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/ElectronicBlueberry.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/ElectronicBlueberry/"
     },
     {
       "name": "Helena Rasche",
@@ -122,8 +122,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ]
 }

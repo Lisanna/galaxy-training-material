@@ -28,8 +28,8 @@
       "name": "Elisa Michon",
       "joined": "2019-03",
       "id": "emichn",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emichn.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emichn/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/emichn.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emichn/"
     },
     {
       "name": "Yvan Le Bras",
@@ -40,8 +40,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
     },
     {
       "name": "Bérénice Batut",
@@ -61,8 +61,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     }
   ],
   "short_id": "T00135",
@@ -84,11 +84,11 @@
     {
       "workflow": "Galaxy-Workflow-Species_Distribution_Modeling_with_Wallace_from_GBIF_-_Training_material.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/species-distribution-modeling/workflows/Galaxy-Workflow-Species_Distribution_Modeling_with_Wallace_from_GBIF_-_Training_material.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/species-distribution-modeling/workflows/Galaxy-Workflow-Species_Distribution_Modeling_with_Wallace_from_GBIF_-_Training_material.ga",
       "path": "topics/ecology/tutorials/species-distribution-modeling/workflows/Galaxy-Workflow-Species_Distribution_Modeling_with_Wallace_from_GBIF_-_Training_material.ga",
       "wfid": "ecology-species-distribution-modeling",
       "wfname": "galaxy-workflow-species_distribution_modeling_with_wallace_from_gbif_-_training_material",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-species-distribution-modeling/versions/galaxy-workflow-species_distribution_modeling_with_wallace_from_gbif_-_training_material",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-species-distribution-modeling/versions/galaxy-workflow-species_distribution_modeling_with_wallace_from_gbif_-_training_material",
       "license": null,
       "creators": [
 
@@ -96,7 +96,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/species-distribution-modeling/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/species-distribution-modeling/tutorial.json",
   "tools": [
     "Filter1",
     "interactive_tool_wallace",

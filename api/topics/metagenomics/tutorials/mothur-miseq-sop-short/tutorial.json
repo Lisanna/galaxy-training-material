@@ -36,8 +36,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Bérénice Batut",
@@ -57,16 +57,16 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Dave Clements",
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
     }
   ],
   "short_id": "T00206",
@@ -136,11 +136,11 @@
     {
       "workflow": "workflow1_quality_control.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow1_quality_control",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow1_quality_control",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow1_quality_control",
       "license": "MIT",
       "creators": [
         {
@@ -154,11 +154,11 @@
     {
       "workflow": "workflow2_data_cleaning.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow2_data_cleaning",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow2_data_cleaning",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow2_data_cleaning",
       "license": "MIT",
       "creators": [
         {
@@ -172,11 +172,11 @@
     {
       "workflow": "workflow3_classification.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow3_classification",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow3_classification",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow3_classification",
       "license": "MIT",
       "creators": [
         {
@@ -190,11 +190,11 @@
     {
       "workflow": "workflow4_mock_otu_clustering.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow4_mock_otu_clustering",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow4_mock_otu_clustering",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow4_mock_otu_clustering",
       "license": "MIT",
       "creators": [
         {
@@ -208,11 +208,11 @@
     {
       "workflow": "workflow5_otu_clustering.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow5_otu_clustering",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow5_otu_clustering",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow5_otu_clustering",
       "license": "MIT",
       "creators": [
         {
@@ -226,11 +226,11 @@
     {
       "workflow": "workflow6_alpha_diversity.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow6_alpha_diversity",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow6_alpha_diversity",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow6_alpha_diversity",
       "license": "MIT",
       "creators": [
         {
@@ -244,11 +244,11 @@
     {
       "workflow": "workflow7_beta_diversity.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
       "wfid": "metagenomics-mothur-miseq-sop-short",
       "wfname": "workflow7_beta_diversity",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow7_beta_diversity",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow7_beta_diversity",
       "license": "MIT",
       "creators": [
         {
@@ -260,7 +260,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.2",
     "toolshed.g2.bx.psu.edu/repos/iuc/mothur_chimera_vsearch/mothur_chimera_vsearch/1.39.5.1",

@@ -18,8 +18,8 @@
       "elixir_node": "no",
       "orcid": "0000-0002-1784-2920",
       "id": "annefou",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
     }
   ],
   "materials": [
@@ -76,16 +76,16 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         },
         {
           "name": "Hui Tang",
           "orcid": "0000-0002-8745-3859",
           "joined": "2021-01",
           "id": "huitang-earth",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/huitang-earth.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/huitang-earth/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/huitang-earth.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/huitang-earth/"
         }
       ],
       "short_id": "T00042",
@@ -174,11 +174,11 @@
         {
           "workflow": "CLM-FATES_ALP1_simulation_5years.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/fates/workflows/CLM-FATES_ALP1_simulation_5years.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/fates/workflows/CLM-FATES_ALP1_simulation_5years.ga",
           "path": "topics/climate/tutorials/fates/workflows/CLM-FATES_ALP1_simulation_5years.ga",
           "wfid": "climate-fates",
           "wfname": "clm-fates_alp1_simulation_5years",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-fates/versions/clm-fates_alp1_simulation_5years",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-fates/versions/clm-fates_alp1_simulation_5years",
           "license": "Apache-2.0",
           "creators": [
             {
@@ -190,7 +190,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates/tutorial.json",
       "tools": [
         "__EXTRACT_DATASET__",
         "interactive_tool_panoply",
@@ -274,8 +274,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates/tutorial.json"
       }
     },
     {
@@ -357,8 +357,8 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         }
       ],
       "notebook": {
@@ -414,11 +414,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
           "path": "topics/climate/tutorials/pangeo-notebook/workflows/main_workflow.ga",
           "wfid": "climate-pangeo-notebook",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-pangeo-notebook/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-pangeo-notebook/versions/main_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -431,7 +431,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
       "tools": [
         "interactive_tool_pangeo_notebook"
       ],
@@ -470,8 +470,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json"
       }
     },
     {
@@ -501,8 +501,8 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         }
       ],
       "short_id": "T00041",
@@ -524,11 +524,11 @@
         {
           "workflow": "climate_101_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
           "path": "topics/climate/tutorials/climate-101/workflows/climate_101_workflow.ga",
           "wfid": "climate-climate-101",
           "wfname": "climate_101_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-climate-101/versions/climate_101_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-climate-101/versions/climate_101_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -540,7 +540,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
       "tools": [
         "Grep1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/1.1.1",
@@ -635,8 +635,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/climate-101/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/climate-101/tutorial.json"
       }
     },
     {
@@ -677,8 +677,8 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         }
       ],
       "short_id": "T00044",
@@ -730,11 +730,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
           "path": "topics/climate/tutorials/pangeo/workflows/main_workflow.ga",
           "wfid": "climate-pangeo",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/climate-pangeo/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/climate-pangeo/versions/main_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -747,7 +747,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
       "tools": [
         "__EXTRACT_DATASET__",
         "__MERGE_COLLECTION__",
@@ -868,8 +868,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/pangeo/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo/tutorial.json"
       }
     },
     {
@@ -891,15 +891,15 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         },
         {
           "name": "Jean Iaquinta",
           "joined": "2020-10",
           "id": "j34ni",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/j34ni.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/j34ni/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/j34ni.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/j34ni/"
         }
       ],
       "short_id": "S00037",
@@ -917,7 +917,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/introduction/tutorial.json",
       "tools": [
 
       ],
@@ -965,8 +965,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/introduction/slides.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/introduction/slides.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/introduction/slides.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/introduction/slides.json"
       }
     },
     {
@@ -1001,8 +1001,8 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         }
       ],
       "short_id": "T00046",
@@ -1020,7 +1020,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/panoply/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/panoply/tutorial.json",
       "tools": [
         "interactive_tool_panoply"
       ],
@@ -1064,8 +1064,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/panoply/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/panoply/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/panoply/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/panoply/tutorial.json"
       }
     },
     {
@@ -1133,8 +1133,8 @@
           "elixir_node": "no",
           "orcid": "0000-0002-1784-2920",
           "id": "annefou",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annefou.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annefou/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/annefou.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annefou/"
         }
       ],
       "short_id": "T00043",
@@ -1152,7 +1152,7 @@
       },
       "hands_on": true,
       "slides": false,
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json",
       "tools": [
         "interactive_tool_jupyter_notebook"
       ],
@@ -1211,8 +1211,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates-jupyterlab/tutorial.json"
       }
     }
   ]

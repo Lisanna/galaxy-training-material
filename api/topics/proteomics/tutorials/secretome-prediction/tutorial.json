@@ -23,8 +23,8 @@
       "email": "sigloch+github@mailbox.org",
       "joined": "2017-09",
       "id": "stortebecker",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stortebecker.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stortebecker/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/stortebecker.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stortebecker/"
     },
     {
       "name": "Björn Grüning",
@@ -38,8 +38,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     }
   ],
   "subtopic": "post-process",
@@ -65,11 +65,11 @@
     {
       "workflow": "WF_secretomePrediction_goWolfpsort.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/secretome-prediction/workflows/WF_secretomePrediction_goWolfpsort.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/secretome-prediction/workflows/WF_secretomePrediction_goWolfpsort.ga",
       "path": "topics/proteomics/tutorials/secretome-prediction/workflows/WF_secretomePrediction_goWolfpsort.ga",
       "wfid": "proteomics-secretome-prediction",
       "wfname": "wf_secretomeprediction_gowolfpsort",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-secretome-prediction/versions/wf_secretomeprediction_gowolfpsort",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-secretome-prediction/versions/wf_secretomeprediction_gowolfpsort",
       "license": null,
       "creators": [
 
@@ -77,7 +77,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/secretome-prediction/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/secretome-prediction/tutorial.json",
   "tools": [
     "Convert characters1",
     "Filter1",

@@ -40,16 +40,16 @@
       "name": "Christopher Barnett",
       "joined": "2019-05",
       "id": "chrisbarnettster",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/chrisbarnettster.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/chrisbarnettster/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/chrisbarnettster.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/chrisbarnettster/"
     },
     {
       "name": "Simon Bray",
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
     },
     {
       "name": "Nadia Goué",
@@ -57,8 +57,8 @@
       "orcid": "0000-0003-2750-1473",
       "joined": "2019-07",
       "id": "nagoue",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nagoue.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nagoue/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nagoue.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nagoue/"
     }
   ],
   "short_id": "T00053",
@@ -76,7 +76,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/computational-chemistry/tutorials/setting-up-molecular-systems/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/setting-up-molecular-systems/tutorial.json",
   "tools": [
 
   ],

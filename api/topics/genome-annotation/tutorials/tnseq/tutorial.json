@@ -31,8 +31,8 @@
       "joined": "2017-09",
       "orcid": "0000-0001-6421-3484",
       "id": "delphine-l",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/delphine-l.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/delphine-l/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/delphine-l.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/delphine-l/"
     },
     {
       "name": "Bérénice Batut",
@@ -52,8 +52,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     }
   ],
   "subtopic": "prokaryote",
@@ -77,11 +77,11 @@
     {
       "workflow": "essential-genes-detection-transposon-insertion-sequencing-workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/tnseq/workflows/essential-genes-detection-transposon-insertion-sequencing-workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/tnseq/workflows/essential-genes-detection-transposon-insertion-sequencing-workflow.ga",
       "path": "topics/genome-annotation/tutorials/tnseq/workflows/essential-genes-detection-transposon-insertion-sequencing-workflow.ga",
       "wfid": "genome-annotation-tnseq",
       "wfname": "essential-genes-detection-transposon-insertion-sequencing-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-tnseq/versions/essential-genes-detection-transposon-insertion-sequencing-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-tnseq/versions/essential-genes-detection-transposon-insertion-sequencing-workflow",
       "license": null,
       "creators": [
 
@@ -89,7 +89,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/tnseq/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/tnseq/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

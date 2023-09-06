@@ -36,8 +36,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Bérénice Batut",
@@ -57,16 +57,16 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Dave Clements",
       "joined": "2017-09",
       "orcid": "0000-0002-9970-6657",
       "id": "tnabtaf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
     }
   ],
   "short_id": "T00205",
@@ -88,11 +88,11 @@
     {
       "workflow": "mothur-miseq-sop.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
       "path": "topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
       "wfid": "metagenomics-mothur-miseq-sop",
       "wfname": "mothur-miseq-sop",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop/versions/mothur-miseq-sop",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop/versions/mothur-miseq-sop",
       "license": null,
       "creators": [
 
@@ -100,7 +100,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/crs4/taxonomy_krona_chart/taxonomy_krona_chart/2.6.1.1",
     "toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.2",

@@ -22,23 +22,23 @@
       "joined": "2021-01",
       "elixir_node": "no",
       "id": "torfinnnome",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/torfinnnome.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/torfinnnome/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/torfinnnome.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/torfinnnome/"
     },
     {
       "name": "Marius van den Beek",
       "joined": "2018-06",
       "id": "mvdbeek",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mvdbeek.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mvdbeek/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mvdbeek.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mvdbeek/"
     },
     {
       "name": "Matthias Bernt",
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bernt-matthias",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bernt-matthias.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bernt-matthias/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bernt-matthias.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bernt-matthias/"
     },
     {
       "name": "Helena Rasche",
@@ -57,8 +57,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Mira Kuntz",
@@ -68,8 +68,8 @@
       "joined": "2022-07",
       "elixir_node": "de",
       "id": "mira-miracoli",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mira-miracoli.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mira-miracoli/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mira-miracoli.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mira-miracoli/"
     }
   ],
   "subtopic": "jobs",
@@ -146,7 +146,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/apptainer/tutorial.json",
   "tools": [
 
   ],

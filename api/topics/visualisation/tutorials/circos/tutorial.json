@@ -34,8 +34,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Helena Rasche",
@@ -54,8 +54,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -63,8 +63,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
     }
   ],
   "short_id": "T00321",
@@ -160,11 +160,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/visualisation/tutorials/circos/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/visualisation/tutorials/circos/workflows/main_workflow.ga",
       "path": "topics/visualisation/tutorials/circos/workflows/main_workflow.ga",
       "wfid": "visualisation-circos",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/visualisation-circos/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/visualisation-circos/versions/main_workflow",
       "license": "AGPL-3.0-or-later",
       "creators": [
         {
@@ -183,11 +183,11 @@
     {
       "workflow": "nature_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/visualisation/tutorials/circos/workflows/nature_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/visualisation/tutorials/circos/workflows/nature_workflow.ga",
       "path": "topics/visualisation/tutorials/circos/workflows/nature_workflow.ga",
       "wfid": "visualisation-circos",
       "wfname": "nature_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/visualisation-circos/versions/nature_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/visualisation-circos/versions/nature_workflow",
       "license": "AGPL-3.0-or-later",
       "creators": [
         {
@@ -204,7 +204,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
   "tools": [
     "Cut1",
     "Grep1",

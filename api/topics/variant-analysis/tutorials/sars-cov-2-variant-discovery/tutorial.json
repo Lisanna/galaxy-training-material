@@ -108,7 +108,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/sars-cov-2-variant-discovery/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2-variant-discovery/tutorial.json",
   "tools": [
     "Filter1",
     "toolshed.g2.bx.psu.edu/repos/iuc/datamash_ops/datamash_ops/1.8+galaxy0",
@@ -193,8 +193,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     },
     {
       "name": "Bérénice Batut",
@@ -214,8 +214,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "BeYond-COVID",
@@ -224,22 +224,22 @@
       "funding_id": "101046203",
       "funding_system": "cordis",
       "funding_statement": "BY-COVID is an EC funded project that tackles the data challenges that can hinder effective pandemic response.\n\nThis project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement № 101046203 (BY-COVID)",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/by-covid.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/by-covid.json",
       "id": "by-covid",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/by-covid/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/by-covid/"
     },
     {
       "name": "ELIXIR-CONVERGE",
       "github": false,
       "joined": "2023-01",
       "avatar": "https://elixir-europe.org/sites/default/files/styles/right-medium/public/images/converge_logo.png",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/elixir-converge.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/elixir-converge.json",
       "funder": true,
       "funding_id": "871075",
       "funding_system": "cordis",
       "funding_statement": "ELIXIR CONVERGE is connecting and align ELIXIR Nodes to deliver sustainable FAIR life-science data management services. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement № 871075",
       "id": "elixir-converge",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/elixir-converge/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/elixir-converge/"
     }
   ]
 }

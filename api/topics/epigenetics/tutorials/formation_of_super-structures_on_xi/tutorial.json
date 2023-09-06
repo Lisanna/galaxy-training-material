@@ -34,8 +34,8 @@
       "name": "Friederike Dündar",
       "joined": "2017-09",
       "id": "friedue",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/friedue.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/friedue/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/friedue.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/friedue/"
     },
     {
       "name": "Anika Erxleben",
@@ -44,8 +44,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
     },
     {
       "name": "Bérénice Batut",
@@ -65,37 +65,37 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Vivek Bhardwaj",
       "joined": "2017-09",
       "id": "vivekbhr",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/vivekbhr.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/vivekbhr/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/vivekbhr.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/vivekbhr/"
     },
     {
       "name": "Fidel Ramirez",
       "joined": "2017-09",
       "id": "fidelram",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/fidelram.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/fidelram/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/fidelram.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/fidelram/"
     },
     {
       "name": "Leily Rabbani",
       "joined": "2018-09",
       "id": "LeilyR",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/LeilyR.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/LeilyR/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/LeilyR.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/LeilyR/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
     }
   ],
   "short_id": "T00140",
@@ -117,11 +117,11 @@
     {
       "workflow": "formation_of_super_structures_on_xi.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
       "path": "topics/epigenetics/tutorials/formation_of_super-structures_on_xi/workflows/formation_of_super_structures_on_xi.ga",
       "wfid": "epigenetics-formation_of_super-structures_on_xi",
       "wfname": "formation_of_super_structures_on_xi",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-formation_of_super-structures_on_xi/versions/formation_of_super_structures_on_xi",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-formation_of_super-structures_on_xi/versions/formation_of_super_structures_on_xi",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -163,7 +163,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
   "tools": [
     "Filter1",
     "cat1",

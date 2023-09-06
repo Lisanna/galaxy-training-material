@@ -31,58 +31,58 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Belinda Phipson",
       "joined": "2018-09",
       "id": "bphipson",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bphipson.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bphipson/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bphipson.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bphipson/"
     },
     {
       "name": "Jovana Maksimovic",
       "joined": "2019-04",
       "id": "JovMaksimovic",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/JovMaksimovic.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/JovMaksimovic/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/JovMaksimovic.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/JovMaksimovic/"
     },
     {
       "name": "Anna Trigos",
       "github": false,
       "joined": "2018-09",
       "id": "annatrigos",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annatrigos.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annatrigos/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/annatrigos.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annatrigos/"
     },
     {
       "name": "Matt Ritchie",
       "joined": "2018-09",
       "id": "mritchie",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mritchie.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mritchie/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mritchie.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mritchie/"
     },
     {
       "name": "Harriet Dashnow",
       "joined": "2018-09",
       "id": "hdashnow",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hdashnow.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hdashnow/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hdashnow.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hdashnow/"
     },
     {
       "name": "Shian Su",
       "joined": "2019-02",
       "id": "Shians",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/Shians.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/Shians/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/Shians.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/Shians/"
     },
     {
       "name": "Charity Law",
       "joined": "2018-09",
       "id": "charitylaw",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/charitylaw.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/charitylaw/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/charitylaw.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/charitylaw/"
     }
   ],
   "requirements": [
@@ -125,11 +125,11 @@
     {
       "workflow": "rna-seq-counts-to-genes.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/workflows/rna-seq-counts-to-genes.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/workflows/rna-seq-counts-to-genes.ga",
       "path": "topics/transcriptomics/tutorials/rna-seq-counts-to-genes/workflows/rna-seq-counts-to-genes.ga",
       "wfid": "transcriptomics-rna-seq-counts-to-genes",
       "wfname": "rna-seq-counts-to-genes",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-counts-to-genes/versions/rna-seq-counts-to-genes",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-counts-to-genes/versions/rna-seq-counts-to-genes",
       "license": null,
       "creators": [
 
@@ -137,7 +137,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cut_tool/1.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_replace_in_line/1.1.1",

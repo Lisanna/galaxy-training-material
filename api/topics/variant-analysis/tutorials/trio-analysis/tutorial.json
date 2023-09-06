@@ -27,8 +27,8 @@
       "joined": "2022-04",
       "elixir_node": "nl",
       "id": "JasperO98",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/JasperO98.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/JasperO98/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/JasperO98.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/JasperO98/"
     },
     {
       "name": "Wolfgang Maier",
@@ -39,8 +39,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     },
     {
       "name": "Helena Rasche",
@@ -59,8 +59,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -80,8 +80,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     }
   ],
   "tags": [
@@ -134,11 +134,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/trio-analysis/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/trio-analysis/workflows/main_workflow.ga",
       "path": "topics/variant-analysis/tutorials/trio-analysis/workflows/main_workflow.ga",
       "wfid": "variant-analysis-trio-analysis",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-trio-analysis/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-trio-analysis/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -150,7 +150,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/trio-analysis/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/trio-analysis/tutorial.json",
   "tools": [
     "CONVERTER_gz_to_uncompressed",
     "CONVERTER_uncompressed_to_gz",

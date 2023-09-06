@@ -110,11 +110,11 @@
     {
       "workflow": "Galaxy-Workflow-Workflow_constructed_from_history__prokka-workflow_.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/genome-annotation/tutorials/annotation-with-prokka/workflows/Galaxy-Workflow-Workflow_constructed_from_history__prokka-workflow_.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/annotation-with-prokka/workflows/Galaxy-Workflow-Workflow_constructed_from_history__prokka-workflow_.ga",
       "path": "topics/genome-annotation/tutorials/annotation-with-prokka/workflows/Galaxy-Workflow-Workflow_constructed_from_history__prokka-workflow_.ga",
       "wfid": "genome-annotation-annotation-with-prokka",
       "wfname": "galaxy-workflow-workflow_constructed_from_history__prokka-workflow_",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/genome-annotation-annotation-with-prokka/versions/galaxy-workflow-workflow_constructed_from_history__prokka-workflow_",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/genome-annotation-annotation-with-prokka/versions/galaxy-workflow-workflow_constructed_from_history__prokka-workflow_",
       "license": null,
       "creators": [
 
@@ -122,7 +122,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/crs4/prokka/prokka/1.14.5",
     "toolshed.g2.bx.psu.edu/repos/crs4/prokka/prokka/1.14.5+galaxy0",

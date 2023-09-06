@@ -35,22 +35,22 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Belinda Phipson",
       "joined": "2018-09",
       "id": "bphipson",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bphipson.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bphipson/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bphipson.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bphipson/"
     },
     {
       "name": "Harriet Dashnow",
       "joined": "2018-09",
       "id": "hdashnow",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hdashnow.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hdashnow/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hdashnow.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hdashnow/"
     }
   ],
   "requirements": [
@@ -98,11 +98,11 @@
     {
       "workflow": "qc_report.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/qc_report.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/qc_report.ga",
       "path": "topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/qc_report.ga",
       "wfid": "transcriptomics-rna-seq-reads-to-counts",
       "wfname": "qc_report",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-reads-to-counts/versions/qc_report",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-reads-to-counts/versions/qc_report",
       "license": null,
       "creators": [
 
@@ -112,11 +112,11 @@
     {
       "workflow": "rna-seq-reads-to-counts.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/rna-seq-reads-to-counts.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/rna-seq-reads-to-counts.ga",
       "path": "topics/transcriptomics/tutorials/rna-seq-reads-to-counts/workflows/rna-seq-reads-to-counts.ga",
       "wfid": "transcriptomics-rna-seq-reads-to-counts",
       "wfname": "rna-seq-reads-to-counts",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-reads-to-counts/versions/rna-seq-reads-to-counts",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-reads-to-counts/versions/rna-seq-reads-to-counts",
       "license": null,
       "creators": [
 
@@ -124,7 +124,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.72",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.73+galaxy0",

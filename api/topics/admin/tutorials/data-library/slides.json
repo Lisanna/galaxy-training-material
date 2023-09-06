@@ -81,7 +81,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/admin/tutorials/data-library/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/admin/tutorials/data-library/tutorial.json",
   "tools": [
 
   ],

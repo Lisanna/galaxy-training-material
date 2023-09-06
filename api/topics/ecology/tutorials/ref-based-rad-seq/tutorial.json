@@ -34,8 +34,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
     }
   ],
   "short_id": "T00133",
@@ -57,11 +57,11 @@
     {
       "workflow": "Galaxy-Workflow-Workflow_constructed_from_history__STACKS_RAD__population_genomics_with_reference_genome_.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/ref-based-rad-seq/workflows/Galaxy-Workflow-Workflow_constructed_from_history__STACKS_RAD__population_genomics_with_reference_genome_.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/ref-based-rad-seq/workflows/Galaxy-Workflow-Workflow_constructed_from_history__STACKS_RAD__population_genomics_with_reference_genome_.ga",
       "path": "topics/ecology/tutorials/ref-based-rad-seq/workflows/Galaxy-Workflow-Workflow_constructed_from_history__STACKS_RAD__population_genomics_with_reference_genome_.ga",
       "wfid": "ecology-ref-based-rad-seq",
       "wfname": "galaxy-workflow-workflow_constructed_from_history__stacks_rad__population_genomics_with_reference_genome_",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-ref-based-rad-seq/versions/galaxy-workflow-workflow_constructed_from_history__stacks_rad__population_genomics_with_reference_genome_",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-ref-based-rad-seq/versions/galaxy-workflow-workflow_constructed_from_history__stacks_rad__population_genomics_with_reference_genome_",
       "license": null,
       "creators": [
 
@@ -71,11 +71,11 @@
     {
       "workflow": "workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/ref-based-rad-seq/workflows/workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/ref-based-rad-seq/workflows/workflow.ga",
       "path": "topics/ecology/tutorials/ref-based-rad-seq/workflows/workflow.ga",
       "wfid": "ecology-ref-based-rad-seq",
       "wfname": "workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-ref-based-rad-seq/versions/workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-ref-based-rad-seq/versions/workflow",
       "license": null,
       "creators": [
 
@@ -83,7 +83,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/ref-based-rad-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/ref-based-rad-seq/tutorial.json",
   "tools": [
     "Convert characters1",
     "Count1",

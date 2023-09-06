@@ -21,8 +21,8 @@
       "name": "Ekaterina Polkh",
       "joined": "2017-09",
       "id": "polkhe",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/polkhe.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/polkhe/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/polkhe.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/polkhe/"
     },
     {
       "name": "Anup Kumar",
@@ -31,8 +31,8 @@
       "joined": "2018-08",
       "elixir_node": "de",
       "id": "anuprulez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/anuprulez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/anuprulez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/anuprulez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/anuprulez/"
     }
   ],
   "short_id": "T00261",
@@ -54,11 +54,11 @@
     {
       "workflow": "age-prediction-dnam.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-dnam.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-dnam.ga",
       "path": "topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-dnam.ga",
       "wfid": "statistics-age-prediction-with-ml",
       "wfname": "age-prediction-dnam",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-age-prediction-with-ml/versions/age-prediction-dnam",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-age-prediction-with-ml/versions/age-prediction-dnam",
       "license": null,
       "creators": [
 
@@ -68,11 +68,11 @@
     {
       "workflow": "age-prediction-rna.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-rna.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-rna.ga",
       "path": "topics/statistics/tutorials/age-prediction-with-ml/workflows/age-prediction-rna.ga",
       "wfid": "statistics-age-prediction-with-ml",
       "wfname": "age-prediction-rna",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-age-prediction-with-ml/versions/age-prediction-rna",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-age-prediction-with-ml/versions/age-prediction-rna",
       "license": null,
       "creators": [
 
@@ -80,7 +80,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/age-prediction-with-ml/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/age-prediction-with-ml/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_parallel_coordinates_plot/plotly_parallel_coordinates_plot/0.1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/plotly_regression_performance_plots/plotly_regression_performance_plots/0.1",

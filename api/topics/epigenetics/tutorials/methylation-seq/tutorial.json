@@ -27,15 +27,15 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "joachimwolff",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/joachimwolff.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/joachimwolff/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/joachimwolff.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/joachimwolff/"
     },
     {
       "name": "Devon Ryan",
       "joined": "2017-09",
       "id": "dpryan79",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/dpryan79.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/dpryan79/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/dpryan79.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/dpryan79/"
     }
   ],
   "short_id": "T00142",
@@ -57,11 +57,11 @@
     {
       "workflow": "methylation-seq.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
       "path": "topics/epigenetics/tutorials/methylation-seq/workflows/methylation-seq.ga",
       "wfid": "epigenetics-methylation-seq",
       "wfname": "methylation-seq",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/epigenetics-methylation-seq/versions/methylation-seq",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/epigenetics-methylation-seq/versions/methylation-seq",
       "license": null,
       "creators": [
 
@@ -69,7 +69,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_matrix/deeptools_compute_matrix/2.5.1.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_plot_profile/deeptools_plot_profile/2.5.1.1.0",

@@ -29,8 +29,8 @@
       "email": "mac78@psu.edu",
       "joined": "2018-02",
       "id": "marziacremona",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/marziacremona.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/marziacremona/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/marziacremona.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/marziacremona/"
     },
     {
       "name": "Fabio Cumbo",
@@ -40,8 +40,8 @@
       "orcid": "0000-0003-2920-5838",
       "joined": "2018-02",
       "id": "cumbof",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/cumbof.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/cumbof/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/cumbof.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/cumbof/"
     }
   ],
   "short_id": "T00269",
@@ -63,11 +63,11 @@
     {
       "workflow": "IWTomics_Workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/iwtomics/workflows/IWTomics_Workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/iwtomics/workflows/IWTomics_Workflow.ga",
       "path": "topics/statistics/tutorials/iwtomics/workflows/IWTomics_Workflow.ga",
       "wfid": "statistics-iwtomics",
       "wfname": "iwtomics_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-iwtomics/versions/iwtomics_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-iwtomics/versions/iwtomics_workflow",
       "license": null,
       "creators": [
 
@@ -75,7 +75,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/iwtomics/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/iwtomics/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/iwtomics_loadandplot/iwtomics_loadandplot/1.0.0.0",
     "toolshed.g2.bx.psu.edu/repos/iuc/iwtomics_plotwithscale/iwtomics_plotwithscale/1.0.0.0",

@@ -23,15 +23,15 @@
       "name": "Mélanie Petera",
       "joined": "2019-06",
       "id": "melpetera",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/melpetera.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/melpetera/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/melpetera.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/melpetera/"
     },
     {
       "name": "Workflow4Metabolomics core team",
       "joined": "2019-06",
       "id": "workflow4metabolomics",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/workflow4metabolomics.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/workflow4metabolomics/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/workflow4metabolomics.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/workflow4metabolomics/"
     }
   ],
   "short_id": "T00196",
@@ -49,7 +49,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-dataprocessing/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/ethevenot/multivariate/Multivariate/2.3.10",
     "toolshed.g2.bx.psu.edu/repos/ethevenot/qualitymetrics/quality_metrics/2.2.8",

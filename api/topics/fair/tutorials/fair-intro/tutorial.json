@@ -50,7 +50,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/fair/tutorials/fair-intro/tutorial.json",
   "tools": [
 
   ],
@@ -106,8 +106,8 @@
       "joined": "2018-08",
       "elixir_node": "uk",
       "id": "kkamieniecka",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kkamieniecka.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kkamieniecka/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/kkamieniecka.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kkamieniecka/"
     },
     {
       "name": "Krzysztof Poterlowicz",
@@ -116,8 +116,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "poterlowicz-lab",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/poterlowicz-lab.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/poterlowicz-lab/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/poterlowicz-lab.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/poterlowicz-lab/"
     },
     {
       "name": "Helena Rasche",
@@ -136,8 +136,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ]
 }

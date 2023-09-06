@@ -82,7 +82,7 @@
   "detach": false,
   "port": "4000",
   "host": "127.0.0.1",
-  "baseurl": "/galaxy-training-material",
+  "baseurl": "/training-material",
   "show_dir_listing": false,
   "permalink": "date",
   "paginate_path": "/page:num",
@@ -133,7 +133,7 @@
       "resources": [
         "assets/js/theme.js"
       ],
-      "timestamp": 1693963211
+      "timestamp": 1693997701
     },
     "main": {
       "preload": true,
@@ -146,7 +146,7 @@
         "assets/js/list.min.js",
         "assets/js/main.js"
       ],
-      "timestamp": 1693963211
+      "timestamp": 1693997701
     }
   },
   "figurify": {
@@ -288,8 +288,8 @@
   "serving": false,
   "boxify": {
   },
-  "git_revision": "ebe9f56b34b47fe0e339383b2991c83ba0091cf8",
-  "git_revision_short": "ebe9f56",
+  "git_revision": "9d6cc94706b2de7ff5d9cce66a88fd7255b0bf6b",
+  "git_revision_short": "9d6cc94",
   "gtn_fork": "Lisanna",
   "git_tags": [
 

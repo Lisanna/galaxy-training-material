@@ -31,8 +31,8 @@
       "joined": "2017-09",
       "orcid": "0000-0003-0984-0973",
       "id": "pratikdjagtap",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
     },
     {
       "name": "Subina Mehta",
@@ -43,16 +43,16 @@
       "orcid": "0000-0001-9818-0537",
       "joined": "2018-06",
       "id": "subinamehta",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
     },
     {
       "name": "Ray Sajulga",
       "email": "rsajulga@umn.edu",
       "joined": "2018-11",
       "id": "jraysajulga",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jraysajulga.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jraysajulga/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/jraysajulga.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jraysajulga/"
     },
     {
       "name": "Bérénice Batut",
@@ -72,24 +72,24 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Emma Leith",
       "email": "leith023@umn.edu",
       "joined": "2019-07",
       "id": "emmaleith",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emmaleith.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emmaleith/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/emmaleith.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emmaleith/"
     },
     {
       "name": "Praveen Kumar",
       "email": "kumar207@umn.edu",
       "joined": "2019-04",
       "id": "pravs3683",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pravs3683.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pravs3683/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pravs3683.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pravs3683/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -109,8 +109,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Paul Zierep",
@@ -118,8 +118,8 @@
       "orcid": "0000-0003-2982-388X",
       "joined": "2023-02",
       "id": "paulzierep",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/paulzierep.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/paulzierep/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/paulzierep.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/paulzierep/"
     }
   ],
   "short_id": "T00203",
@@ -196,11 +196,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
       "path": "topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
       "wfid": "metagenomics-metatranscriptomics",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -244,7 +244,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
   "tools": [
     "Cut1",
     "Grep1",

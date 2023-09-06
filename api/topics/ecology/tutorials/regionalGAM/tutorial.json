@@ -30,15 +30,15 @@
       "name": "Clara Urfer",
       "joined": "2019-03",
       "id": "claraurf",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/claraurf.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/claraurf/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/claraurf.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/claraurf/"
     },
     {
       "name": "Elisa Michon",
       "joined": "2019-03",
       "id": "emichn",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emichn.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emichn/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/emichn.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emichn/"
     },
     {
       "name": "Yvan Le Bras",
@@ -49,8 +49,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
     },
     {
       "name": "Bérénice Batut",
@@ -70,8 +70,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Simon Benateau",
@@ -80,8 +80,8 @@
       "joined": "2019-03",
       "elixir_node": "fr",
       "id": "sbenateau",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/sbenateau.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/sbenateau/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/sbenateau.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/sbenateau/"
     }
   ],
   "short_id": "T00134",
@@ -103,11 +103,11 @@
     {
       "workflow": "Galaxy-Workflow-Abundance_index__stacked__visualization_creation.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Abundance_index__stacked__visualization_creation.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Abundance_index__stacked__visualization_creation.ga",
       "path": "topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Abundance_index__stacked__visualization_creation.ga",
       "wfid": "ecology-regionalGAM",
       "wfname": "galaxy-workflow-abundance_index__stacked__visualization_creation",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-abundance_index__stacked__visualization_creation",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-abundance_index__stacked__visualization_creation",
       "license": null,
       "creators": [
 
@@ -117,11 +117,11 @@
     {
       "workflow": "Galaxy-Workflow-Phenology__stacked__visualization_creation.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Phenology__stacked__visualization_creation.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Phenology__stacked__visualization_creation.ga",
       "path": "topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Phenology__stacked__visualization_creation.ga",
       "wfid": "ecology-regionalGAM",
       "wfname": "galaxy-workflow-phenology__stacked__visualization_creation",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-phenology__stacked__visualization_creation",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-phenology__stacked__visualization_creation",
       "license": null,
       "creators": [
 
@@ -131,11 +131,11 @@
     {
       "workflow": "Galaxy-Workflow-Tutorial_regionalGAM_complete_Multispecies.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_regionalGAM_complete_Multispecies.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_regionalGAM_complete_Multispecies.ga",
       "path": "topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_regionalGAM_complete_Multispecies.ga",
       "wfid": "ecology-regionalGAM",
       "wfname": "galaxy-workflow-tutorial_regionalgam_complete_multispecies",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-tutorial_regionalgam_complete_multispecies",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-tutorial_regionalgam_complete_multispecies",
       "license": null,
       "creators": [
 
@@ -145,11 +145,11 @@
     {
       "workflow": "Galaxy-Workflow-Tutorial_training_regionalGAM_complete_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_training_regionalGAM_complete_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_training_regionalGAM_complete_workflow.ga",
       "path": "topics/ecology/tutorials/regionalGAM/workflows/Galaxy-Workflow-Tutorial_training_regionalGAM_complete_workflow.ga",
       "wfid": "ecology-regionalGAM",
       "wfname": "galaxy-workflow-tutorial_training_regionalgam_complete_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-tutorial_training_regionalgam_complete_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-regionalGAM/versions/galaxy-workflow-tutorial_training_regionalgam_complete_workflow",
       "license": null,
       "creators": [
 
@@ -157,7 +157,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/regionalGAM/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/regionalGAM/tutorial.json",
   "tools": [
     "Count1",
     "Filter1",

@@ -25,7 +25,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/visualisation/tutorials/jbrowse/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/jbrowse/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.9+galaxy0"
   ],

@@ -27,8 +27,8 @@
       "fediverse": "https://scholar.social/@zerodivision",
       "fediverse_flavor": "mastodon",
       "id": "wm75",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
     },
     {
       "name": "Bérénice Batut",
@@ -48,16 +48,16 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Torsten Houwaart",
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "torhou",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/torhou.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/torhou/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/torhou.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/torhou/"
     },
     {
       "name": "Anika Erxleben",
@@ -66,8 +66,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "erxleben",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erxleben.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erxleben/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
     },
     {
       "name": "Björn Grüning",
@@ -81,8 +81,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     }
   ],
   "short_id": "T00311",
@@ -104,11 +104,11 @@
     {
       "workflow": "workflow_exome_seq_from_premapped.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_from_premapped.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_from_premapped.ga",
       "path": "topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_from_premapped.ga",
       "wfid": "variant-analysis-exome-seq",
       "wfname": "workflow_exome_seq_from_premapped",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-exome-seq/versions/workflow_exome_seq_from_premapped",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-exome-seq/versions/workflow_exome_seq_from_premapped",
       "license": "MIT",
       "creators": [
         {
@@ -122,11 +122,11 @@
     {
       "workflow": "workflow_exome_seq_full.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_full.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_full.ga",
       "path": "topics/variant-analysis/tutorials/exome-seq/workflows/workflow_exome_seq_full.ga",
       "wfid": "variant-analysis-exome-seq",
       "wfname": "workflow_exome_seq_full",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/variant-analysis-exome-seq/versions/workflow_exome_seq_full",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/variant-analysis-exome-seq/versions/workflow_exome_seq_full",
       "license": "MIT",
       "creators": [
         {
@@ -138,7 +138,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/variant-analysis/tutorials/exome-seq/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/exome-seq/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.2",
     "toolshed.g2.bx.psu.edu/repos/devteam/fastqc/fastqc/0.74+galaxy0",

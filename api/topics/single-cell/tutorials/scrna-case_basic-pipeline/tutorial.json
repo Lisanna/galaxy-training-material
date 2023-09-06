@@ -124,11 +124,11 @@
     {
       "workflow": "CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
       "path": "topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/CS3_Filter,_Plot_and_Explore_Single-cell_RNA-seq_Data.ga",
       "wfid": "single-cell-scrna-case_basic-pipeline",
       "wfname": "cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/cs3_filter,_plot_and_explore_single-cell_rna-seq_data",
       "license": null,
       "creators": [
 
@@ -138,11 +138,11 @@
     {
       "workflow": "Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
       "path": "topics/single-cell/tutorials/scrna-case_basic-pipeline/workflows/Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
       "wfid": "single-cell-scrna-case_basic-pipeline",
       "wfname": "filter,-plot-and-explore-single-cell-rna-seq-data-updated",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/filter,-plot-and-explore-single-cell-rna-seq-data-updated",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/single-cell-scrna-case_basic-pipeline/versions/filter,-plot-and-explore-single-cell-rna-seq-data-updated",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -159,7 +159,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",
   "tools": [
     "Cut1",
     "interactive_tool_cellxgene",
@@ -436,8 +436,8 @@
       "orcid": "0000-0002-8170-8806",
       "bio": "Lecturer at The Open University",
       "id": "nomadscientist",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nomadscientist.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nomadscientist/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nomadscientist.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nomadscientist/"
     },
     {
       "name": "Helena Rasche",
@@ -456,24 +456,24 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     },
     {
       "name": "Julia Jakiela",
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
     },
     {
       "name": "Julia Jakiela",
       "email": "juliajot36@gmail.com",
       "joined": "2022-06",
       "id": "wee-snufkin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wee-snufkin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wee-snufkin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/wee-snufkin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wee-snufkin/"
     }
   ]
 }

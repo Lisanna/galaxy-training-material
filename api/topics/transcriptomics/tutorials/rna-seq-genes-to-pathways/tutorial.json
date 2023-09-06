@@ -25,15 +25,15 @@
       "joined": "2018-09",
       "orcid": "0000-0003-4847-8436",
       "id": "mblue9",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/mblue9.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/mblue9/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/mblue9.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/mblue9/"
     },
     {
       "name": "Belinda Phipson",
       "joined": "2018-09",
       "id": "bphipson",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bphipson.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bphipson/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bphipson.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bphipson/"
     }
   ],
   "short_id": "T00300",
@@ -55,11 +55,11 @@
     {
       "workflow": "rna-seq-genes-to-pathways.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/workflows/rna-seq-genes-to-pathways.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/workflows/rna-seq-genes-to-pathways.ga",
       "path": "topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/workflows/rna-seq-genes-to-pathways.ga",
       "wfid": "transcriptomics-rna-seq-genes-to-pathways",
       "wfname": "rna-seq-genes-to-pathways",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-genes-to-pathways/versions/rna-seq-genes-to-pathways",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-rna-seq-genes-to-pathways/versions/rna-seq-genes-to-pathways",
       "license": null,
       "creators": [
 
@@ -67,7 +67,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.json",
   "tools": [
     "Cut1",
     "join1",

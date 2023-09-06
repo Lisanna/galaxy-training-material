@@ -17,8 +17,8 @@
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
     }
   ],
   "short_id": "T00294",
@@ -36,7 +36,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/rb-rnaseq/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rb-rnaseq/tutorial.json",
   "tools": [
 
   ],

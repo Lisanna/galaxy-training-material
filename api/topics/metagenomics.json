@@ -32,8 +32,8 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "Saskia Hiltemann",
@@ -53,8 +53,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     }
   ],
   "references": [
@@ -113,8 +113,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Bérénice Batut",
@@ -134,8 +134,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         }
       ],
       "short_id": "T00201",
@@ -157,11 +157,11 @@
         {
           "workflow": "amplicon.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
           "path": "topics/metagenomics/tutorials/general-tutorial/workflows/amplicon.ga",
           "wfid": "metagenomics-general-tutorial",
           "wfname": "amplicon",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/amplicon",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/amplicon",
           "license": null,
           "creators": [
 
@@ -171,11 +171,11 @@
         {
           "workflow": "wgs-worklow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
           "path": "topics/metagenomics/tutorials/general-tutorial/workflows/wgs-worklow.ga",
           "wfid": "metagenomics-general-tutorial",
           "wfname": "wgs-worklow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/wgs-worklow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-general-tutorial/versions/wgs-worklow",
           "license": null,
           "creators": [
 
@@ -183,7 +183,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/crs4/taxonomy_krona_chart/taxonomy_krona_chart/2.6.1",
         "toolshed.g2.bx.psu.edu/repos/iuc/humann2/humann2/0.9.9.0",
@@ -402,8 +402,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/general-tutorial/tutorial.json"
       }
     },
     {
@@ -498,11 +498,11 @@
         {
           "workflow": "metagenomics_assembly_tutorial_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
           "path": "topics/metagenomics/tutorials/metagenomics-assembly/workflows/metagenomics_assembly_tutorial_workflow.ga",
           "wfid": "metagenomics-metagenomics-assembly",
           "wfname": "metagenomics_assembly_tutorial_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metagenomics-assembly/versions/metagenomics_assembly_tutorial_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metagenomics-assembly/versions/metagenomics_assembly_tutorial_workflow",
           "license": null,
           "creators": [
 
@@ -512,11 +512,11 @@
         {
           "workflow": "workflow-generate-dataset-for-assembly-tutorial.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
           "path": "topics/metagenomics/tutorials/metagenomics-assembly/workflows/workflow-generate-dataset-for-assembly-tutorial.ga",
           "wfid": "metagenomics-metagenomics-assembly",
           "wfname": "workflow-generate-dataset-for-assembly-tutorial",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metagenomics-assembly/versions/workflow-generate-dataset-for-assembly-tutorial",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metagenomics-assembly/versions/workflow-generate-dataset-for-assembly-tutorial",
           "license": null,
           "creators": [
 
@@ -524,7 +524,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json",
       "tools": [
         "random_lines1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
@@ -720,8 +720,8 @@
           "orcid": "0000-0002-0507-4602",
           "joined": "2022-03",
           "id": "plushz",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/plushz.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/plushz/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/plushz.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/plushz/"
         },
         {
           "name": "Bérénice Batut",
@@ -741,8 +741,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -750,17 +750,17 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metagenomics-assembly/tutorial.json"
       }
     },
     {
@@ -801,8 +801,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Bérénice Batut",
@@ -822,16 +822,16 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Dave Clements",
           "joined": "2017-09",
           "orcid": "0000-0002-9970-6657",
           "id": "tnabtaf",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
         }
       ],
       "short_id": "T00205",
@@ -853,11 +853,11 @@
         {
           "workflow": "mothur-miseq-sop.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop/workflows/mothur-miseq-sop.ga",
           "wfid": "metagenomics-mothur-miseq-sop",
           "wfname": "mothur-miseq-sop",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop/versions/mothur-miseq-sop",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop/versions/mothur-miseq-sop",
           "license": null,
           "creators": [
 
@@ -865,7 +865,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/crs4/taxonomy_krona_chart/taxonomy_krona_chart/2.6.1.1",
         "toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.2",
@@ -1195,8 +1195,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json"
       }
     },
     {
@@ -1286,11 +1286,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/beer-data-analysis/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/beer-data-analysis/workflows/main_workflow.ga",
           "path": "topics/metagenomics/tutorials/beer-data-analysis/workflows/main_workflow.ga",
           "wfid": "metagenomics-beer-data-analysis",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-beer-data-analysis/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-beer-data-analysis/versions/main_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -1312,7 +1312,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json",
       "tools": [
         "Filter1",
         "toolshed.g2.bx.psu.edu/repos/crs4/taxonomy_krona_chart/taxonomy_krona_chart/2.7.1+galaxy0",
@@ -1418,15 +1418,15 @@
           "orcid": "0000-0002-0507-4602",
           "joined": "2022-03",
           "id": "plushz",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/plushz.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/plushz/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/plushz.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/plushz/"
         },
         {
           "name": "Siyu Chen",
           "joined": "2022-05",
           "id": "chensy96",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/chensy96.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/chensy96/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/chensy96.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/chensy96/"
         },
         {
           "name": "Bérénice Batut",
@@ -1446,15 +1446,15 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Teresa Müller",
           "joined": "2022-09",
           "id": "teresa-m",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/teresa-m.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/teresa-m/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/teresa-m.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/teresa-m/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -1462,17 +1462,17 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/beer-data-analysis/tutorial.json"
       }
     },
     {
@@ -1560,11 +1560,11 @@
         {
           "workflow": "main-workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/taxonomic-profiling/workflows/main-workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/taxonomic-profiling/workflows/main-workflow.ga",
           "path": "topics/metagenomics/tutorials/taxonomic-profiling/workflows/main-workflow.ga",
           "wfid": "metagenomics-taxonomic-profiling",
           "wfname": "main-workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-taxonomic-profiling/versions/main-workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-taxonomic-profiling/versions/main-workflow",
           "license": "MIT",
           "creators": [
             {
@@ -1576,7 +1576,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json",
       "tools": [
         "__UNZIP_COLLECTION__",
         "interactive_tool_pavian",
@@ -1676,8 +1676,8 @@
           "name": "Sophia Hampe",
           "joined": "2023-04",
           "id": "sophia120199",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/sophia120199.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/sophia120199/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/sophia120199.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/sophia120199/"
         },
         {
           "name": "Bérénice Batut",
@@ -1697,8 +1697,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Paul Zierep",
@@ -1706,8 +1706,8 @@
           "orcid": "0000-0003-2982-388X",
           "joined": "2023-02",
           "id": "paulzierep",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/paulzierep.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/paulzierep/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/paulzierep.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/paulzierep/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -1715,17 +1715,17 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json"
       }
     },
     {
@@ -1753,8 +1753,8 @@
           "elixir_node": "de",
           "orcid": "0000-0002-5752-2155",
           "id": "gallardoalba",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
         }
       ],
       "tags": [
@@ -1779,11 +1779,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
           "path": "topics/metagenomics/tutorials/nanopore-16S-metagenomics/workflows/main_workflow.ga",
           "wfid": "metagenomics-nanopore-16S-metagenomics",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-nanopore-16S-metagenomics/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-nanopore-16S-metagenomics/versions/main_workflow",
           "license": null,
           "creators": [
 
@@ -1791,7 +1791,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
       "tools": [
         "Remove beginning1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_replace_in_line/1.1.2",
@@ -1922,8 +1922,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json"
       }
     },
     {
@@ -1959,8 +1959,8 @@
           "joined": "2017-09",
           "orcid": "0000-0003-0984-0973",
           "id": "pratikdjagtap",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
         },
         {
           "name": "Subina Mehta",
@@ -1971,16 +1971,16 @@
           "orcid": "0000-0001-9818-0537",
           "joined": "2018-06",
           "id": "subinamehta",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
         },
         {
           "name": "Ray Sajulga",
           "email": "rsajulga@umn.edu",
           "joined": "2018-11",
           "id": "jraysajulga",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jraysajulga.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jraysajulga/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/jraysajulga.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jraysajulga/"
         },
         {
           "name": "Bérénice Batut",
@@ -2000,24 +2000,24 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Emma Leith",
           "email": "leith023@umn.edu",
           "joined": "2019-07",
           "id": "emmaleith",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emmaleith.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emmaleith/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/emmaleith.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emmaleith/"
         },
         {
           "name": "Praveen Kumar",
           "email": "kumar207@umn.edu",
           "joined": "2019-04",
           "id": "pravs3683",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pravs3683.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pravs3683/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/pravs3683.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pravs3683/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -2037,8 +2037,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Paul Zierep",
@@ -2046,8 +2046,8 @@
           "orcid": "0000-0003-2982-388X",
           "joined": "2023-02",
           "id": "paulzierep",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/paulzierep.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/paulzierep/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/paulzierep.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/paulzierep/"
         }
       ],
       "short_id": "T00204",
@@ -2069,11 +2069,11 @@
         {
           "workflow": "workflow1_preprocessing.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow1_preprocessing.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow1_preprocessing.ga",
           "path": "topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow1_preprocessing.ga",
           "wfid": "metagenomics-metatranscriptomics-short",
           "wfname": "workflow1_preprocessing",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow1_preprocessing",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow1_preprocessing",
           "license": "MIT",
           "creators": [
             {
@@ -2119,11 +2119,11 @@
         {
           "workflow": "workflow2_community_profile.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow2_community_profile.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow2_community_profile.ga",
           "path": "topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow2_community_profile.ga",
           "wfid": "metagenomics-metatranscriptomics-short",
           "wfname": "workflow2_community_profile",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow2_community_profile",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow2_community_profile",
           "license": "MIT",
           "creators": [
             {
@@ -2169,11 +2169,11 @@
         {
           "workflow": "workflow3_functional_information.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information.ga",
           "path": "topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information.ga",
           "wfid": "metagenomics-metatranscriptomics-short",
           "wfname": "workflow3_functional_information",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow3_functional_information",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow3_functional_information",
           "license": "MIT",
           "creators": [
             {
@@ -2219,11 +2219,11 @@
         {
           "workflow": "workflow3_functional_information_quick.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information_quick.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information_quick.ga",
           "path": "topics/metagenomics/tutorials/metatranscriptomics-short/workflows/workflow3_functional_information_quick.ga",
           "wfid": "metagenomics-metatranscriptomics-short",
           "wfname": "workflow3_functional_information_quick",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow3_functional_information_quick",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics-short/versions/workflow3_functional_information_quick",
           "license": "MIT",
           "creators": [
             {
@@ -2267,7 +2267,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json",
       "tools": [
         "Cut1",
         "Grep1",
@@ -2499,8 +2499,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics-short/tutorial.json"
       }
     },
     {
@@ -2591,11 +2591,11 @@
         {
           "workflow": "Nanopore_Datasets_Gene_based_pathogenic_Identification.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Gene_based_pathogenic_Identification.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Gene_based_pathogenic_Identification.ga",
           "path": "topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Gene_based_pathogenic_Identification.ga",
           "wfid": "metagenomics-pathogen-detection-from-nanopore-foodborne-data",
           "wfname": "nanopore_datasets_gene_based_pathogenic_identification",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_datasets_gene_based_pathogenic_identification",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_datasets_gene_based_pathogenic_identification",
           "license": "MIT",
           "creators": [
             {
@@ -2616,11 +2616,11 @@
         {
           "workflow": "Nanopore_Datasets_Pathogen_Tracking_among_all_samples.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Pathogen_Tracking_among_all_samples.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Pathogen_Tracking_among_all_samples.ga",
           "path": "topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/Nanopore_Datasets_Pathogen_Tracking_among_all_samples.ga",
           "wfid": "metagenomics-pathogen-detection-from-nanopore-foodborne-data",
           "wfname": "nanopore_datasets_pathogen_tracking_among_all_samples",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_datasets_pathogen_tracking_among_all_samples",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_datasets_pathogen_tracking_among_all_samples",
           "license": "MIT",
           "creators": [
             {
@@ -2641,11 +2641,11 @@
         {
           "workflow": "nanopore_preprocessing.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_preprocessing.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_preprocessing.ga",
           "path": "topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_preprocessing.ga",
           "wfid": "metagenomics-pathogen-detection-from-nanopore-foodborne-data",
           "wfname": "nanopore_preprocessing",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_preprocessing",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_preprocessing",
           "license": "MIT",
           "creators": [
             {
@@ -2666,11 +2666,11 @@
         {
           "workflow": "nanopore_snp_based_pathogenetic_identification.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_snp_based_pathogenetic_identification.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_snp_based_pathogenetic_identification.ga",
           "path": "topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_snp_based_pathogenetic_identification.ga",
           "wfid": "metagenomics-pathogen-detection-from-nanopore-foodborne-data",
           "wfname": "nanopore_snp_based_pathogenetic_identification",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_snp_based_pathogenetic_identification",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_snp_based_pathogenetic_identification",
           "license": "MIT",
           "creators": [
             {
@@ -2691,11 +2691,11 @@
         {
           "workflow": "nanopore_taxonomy_profiling_and_visualization.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_taxonomy_profiling_and_visualization.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_taxonomy_profiling_and_visualization.ga",
           "path": "topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/workflows/nanopore_taxonomy_profiling_and_visualization.ga",
           "wfid": "metagenomics-pathogen-detection-from-nanopore-foodborne-data",
           "wfname": "nanopore_taxonomy_profiling_and_visualization",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_taxonomy_profiling_and_visualization",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-pathogen-detection-from-nanopore-foodborne-data/versions/nanopore_taxonomy_profiling_and_visualization",
           "license": "MIT",
           "creators": [
             {
@@ -2714,7 +2714,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json",
       "tools": [
         "CONVERTER_gz_to_uncompressed",
         "Cut1",
@@ -3115,8 +3115,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Engy Nasr",
@@ -3126,8 +3126,8 @@
           "joined": "2021-05",
           "elixir_node": "de",
           "id": "EngyNasr",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/EngyNasr.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/EngyNasr/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/EngyNasr.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/EngyNasr/"
         },
         {
           "name": "Paul Zierep",
@@ -3135,8 +3135,8 @@
           "orcid": "0000-0003-2982-388X",
           "joined": "2023-02",
           "id": "paulzierep",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/paulzierep.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/paulzierep/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/paulzierep.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/paulzierep/"
         },
         {
           "name": "Hans-Rudolf Hotz",
@@ -3156,8 +3156,8 @@
             "lon": 7.6
           },
           "id": "hrhotz",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hrhotz.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hrhotz/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/hrhotz.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hrhotz/"
         },
         {
           "name": "Wolfgang Maier",
@@ -3168,8 +3168,8 @@
           "fediverse": "https://scholar.social/@zerodivision",
           "fediverse_flavor": "mastodon",
           "id": "wm75",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/wm75.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/wm75/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/wm75.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/wm75/"
         },
         {
           "name": "Erasmus+ Programme",
@@ -3177,12 +3177,12 @@
           "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
           "github": false,
           "funder": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
           "funding_id": "2020-1-NL01-KA203-064717",
           "funding_system": "erasmusplus",
           "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
           "id": "erasmusplus",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
         },
         {
           "name": "EOSC-Life",
@@ -3193,14 +3193,14 @@
           "funding_id": "824087",
           "funding_system": "cordis",
           "funding_statement": "EOSC-Life has received funding from the European Union’s Horizon 2020 programme under grant agreement number 824087",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/eosc-life.json",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/eosc-life.json",
           "id": "eosc-life",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/eosc-life/"
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/eosc-life/"
         }
       ],
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.json"
       }
     },
     {
@@ -3232,8 +3232,8 @@
           "joined": "2018-09",
           "elixir_node": "nl",
           "id": "willemdek11",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/willemdek11.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/willemdek11/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/willemdek11.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/willemdek11/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -3253,8 +3253,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         }
       ],
       "tags": [
@@ -3317,11 +3317,11 @@
         {
           "workflow": "Workflow-plasmid-metagenomics-nanopore.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
           "path": "topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/workflows/Workflow-plasmid-metagenomics-nanopore.ga",
           "wfid": "metagenomics-plasmid-metagenomics-nanopore",
           "wfname": "workflow-plasmid-metagenomics-nanopore",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-plasmid-metagenomics-nanopore/versions/workflow-plasmid-metagenomics-nanopore",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-plasmid-metagenomics-nanopore/versions/workflow-plasmid-metagenomics-nanopore",
           "license": null,
           "creators": [
 
@@ -3329,7 +3329,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/bgruening/racon/racon/1.3.1.1",
         "toolshed.g2.bx.psu.edu/repos/bgruening/racon/racon/1.4.13",
@@ -3526,8 +3526,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/plasmid-metagenomics-nanopore/tutorial.json"
       }
     },
     {
@@ -3568,8 +3568,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Bérénice Batut",
@@ -3589,16 +3589,16 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Dave Clements",
           "joined": "2017-09",
           "orcid": "0000-0002-9970-6657",
           "id": "tnabtaf",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tnabtaf.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tnabtaf/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/tnabtaf.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tnabtaf/"
         }
       ],
       "short_id": "T00206",
@@ -3668,11 +3668,11 @@
         {
           "workflow": "workflow1_quality_control.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow1_quality_control.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow1_quality_control",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow1_quality_control",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow1_quality_control",
           "license": "MIT",
           "creators": [
             {
@@ -3686,11 +3686,11 @@
         {
           "workflow": "workflow2_data_cleaning.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow2_data_cleaning.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow2_data_cleaning",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow2_data_cleaning",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow2_data_cleaning",
           "license": "MIT",
           "creators": [
             {
@@ -3704,11 +3704,11 @@
         {
           "workflow": "workflow3_classification.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow3_classification.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow3_classification",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow3_classification",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow3_classification",
           "license": "MIT",
           "creators": [
             {
@@ -3722,11 +3722,11 @@
         {
           "workflow": "workflow4_mock_otu_clustering.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow4_mock_otu_clustering.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow4_mock_otu_clustering",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow4_mock_otu_clustering",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow4_mock_otu_clustering",
           "license": "MIT",
           "creators": [
             {
@@ -3740,11 +3740,11 @@
         {
           "workflow": "workflow5_otu_clustering.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow5_otu_clustering.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow5_otu_clustering",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow5_otu_clustering",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow5_otu_clustering",
           "license": "MIT",
           "creators": [
             {
@@ -3758,11 +3758,11 @@
         {
           "workflow": "workflow6_alpha_diversity.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow6_alpha_diversity.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow6_alpha_diversity",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow6_alpha_diversity",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow6_alpha_diversity",
           "license": "MIT",
           "creators": [
             {
@@ -3776,11 +3776,11 @@
         {
           "workflow": "workflow7_beta_diversity.ga",
           "tests": false,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
           "path": "topics/metagenomics/tutorials/mothur-miseq-sop-short/workflows/workflow7_beta_diversity.ga",
           "wfid": "metagenomics-mothur-miseq-sop-short",
           "wfname": "workflow7_beta_diversity",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow7_beta_diversity",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-mothur-miseq-sop-short/versions/workflow7_beta_diversity",
           "license": "MIT",
           "creators": [
             {
@@ -3792,7 +3792,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
       "tools": [
         "toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.2",
         "toolshed.g2.bx.psu.edu/repos/iuc/mothur_chimera_vsearch/mothur_chimera_vsearch/1.39.5.1",
@@ -4074,8 +4074,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop-short/tutorial.json"
       }
     },
     {
@@ -4111,8 +4111,8 @@
           "joined": "2017-09",
           "orcid": "0000-0003-0984-0973",
           "id": "pratikdjagtap",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pratikdjagtap.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pratikdjagtap/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/pratikdjagtap.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pratikdjagtap/"
         },
         {
           "name": "Subina Mehta",
@@ -4123,16 +4123,16 @@
           "orcid": "0000-0001-9818-0537",
           "joined": "2018-06",
           "id": "subinamehta",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/subinamehta.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/subinamehta/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/subinamehta.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/subinamehta/"
         },
         {
           "name": "Ray Sajulga",
           "email": "rsajulga@umn.edu",
           "joined": "2018-11",
           "id": "jraysajulga",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/jraysajulga.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/jraysajulga/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/jraysajulga.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/jraysajulga/"
         },
         {
           "name": "Bérénice Batut",
@@ -4152,24 +4152,24 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Emma Leith",
           "email": "leith023@umn.edu",
           "joined": "2019-07",
           "id": "emmaleith",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/emmaleith.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/emmaleith/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/emmaleith.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/emmaleith/"
         },
         {
           "name": "Praveen Kumar",
           "email": "kumar207@umn.edu",
           "joined": "2019-04",
           "id": "pravs3683",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pravs3683.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pravs3683/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/pravs3683.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pravs3683/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -4189,8 +4189,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         },
         {
           "name": "Paul Zierep",
@@ -4198,8 +4198,8 @@
           "orcid": "0000-0003-2982-388X",
           "joined": "2023-02",
           "id": "paulzierep",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/paulzierep.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/paulzierep/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/paulzierep.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/paulzierep/"
         }
       ],
       "short_id": "T00203",
@@ -4276,11 +4276,11 @@
         {
           "workflow": "main_workflow.ga",
           "tests": true,
-          "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
+          "url": "https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
           "path": "topics/metagenomics/tutorials/metatranscriptomics/workflows/main_workflow.ga",
           "wfid": "metagenomics-metatranscriptomics",
           "wfname": "main_workflow",
-          "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics/versions/main_workflow",
+          "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metagenomics-metatranscriptomics/versions/main_workflow",
           "license": "MIT",
           "creators": [
             {
@@ -4324,7 +4324,7 @@
           "test_results": null
         }
       ],
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
       "tools": [
         "Cut1",
         "Grep1",
@@ -4516,8 +4516,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/metatranscriptomics/tutorial.json"
       }
     },
     {
@@ -4549,8 +4549,8 @@
           "fediverse": "https://piaille.fr/@bebatut",
           "fediverse_flavor": "mastodon",
           "id": "bebatut",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
         },
         {
           "name": "Saskia Hiltemann",
@@ -4570,8 +4570,8 @@
             "lon": 4.462
           },
           "id": "shiltemann",
-          "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-          "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
         }
       ],
       "short_id": "S00078",
@@ -4619,7 +4619,7 @@
       },
       "hands_on": false,
       "slides": true,
-      "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/introduction/tutorial.json",
+      "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/introduction/tutorial.json",
       "tools": [
 
       ],
@@ -4668,8 +4668,8 @@
       },
       "type": "tutorial",
       "urls": {
-        "hands_on": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/introduction/slides.json",
-        "slides": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metagenomics/tutorials/introduction/slides.json"
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/introduction/slides.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/introduction/slides.json"
       }
     }
   ]

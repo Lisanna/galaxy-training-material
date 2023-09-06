@@ -29,16 +29,16 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
     },
     {
       "name": "Pavankumar Videm",
       "orcid": "0000-0002-5192-126X",
       "joined": "2017-09",
       "id": "pavanvidem",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pavanvidem.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pavanvidem/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pavanvidem.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pavanvidem/"
     },
     {
       "name": "Beatriz Serrano-Solano",
@@ -49,8 +49,8 @@
       "orcid": "0000-0002-5862-6132",
       "joined": "2020-07",
       "id": "beatrizserrano",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/beatrizserrano.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/beatrizserrano/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/beatrizserrano.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/beatrizserrano/"
     }
   ],
   "short_id": "T00292",
@@ -147,11 +147,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/transcriptomics/tutorials/mirna-target-finder/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/mirna-target-finder/workflows/main_workflow.ga",
       "path": "topics/transcriptomics/tutorials/mirna-target-finder/workflows/main_workflow.ga",
       "wfid": "transcriptomics-mirna-target-finder",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/transcriptomics-mirna-target-finder/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/transcriptomics-mirna-target-finder/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -159,7 +159,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/transcriptomics/tutorials/mirna-target-finder/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/mirna-target-finder/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

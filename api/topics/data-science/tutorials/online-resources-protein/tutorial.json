@@ -59,7 +59,7 @@
   },
   "hands_on": true,
   "slides": false,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/data-science/tutorials/online-resources-protein/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/data-science/tutorials/online-resources-protein/tutorial.json",
   "tools": [
 
   ],
@@ -117,8 +117,8 @@
       "email": "lisanna.paladin@gmail.com",
       "orcid": "0000-0003-0011-9397",
       "id": "lisanna",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lisanna.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lisanna/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lisanna.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lisanna/"
     },
     {
       "name": "Bérénice Batut",
@@ -138,21 +138,21 @@
       "fediverse": "https://piaille.fr/@bebatut",
       "fediverse_flavor": "mastodon",
       "id": "bebatut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bebatut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bebatut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bebatut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bebatut/"
     },
     {
       "name": "BioNT",
       "github": false,
       "joined": "2023-09",
       "avatar": "http://biont-training.eu/assets/img/BioNT_Logo_Layout_2106_blue_Version_2_cropped.png",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/biont.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/biont.json",
       "funder": true,
       "funding_id": "101100604",
       "funding_system": "cordis",
       "funding_statement": "Co-funded by the European Union",
       "id": "biont",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/biont/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/biont/"
     }
   ]
 }

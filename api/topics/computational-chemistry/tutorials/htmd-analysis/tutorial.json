@@ -25,22 +25,22 @@
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
     },
     {
       "name": "Tharindu Senapathi",
       "joined": "2019-05",
       "id": "tsenapathi",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/tsenapathi.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/tsenapathi/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/tsenapathi.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/tsenapathi/"
     },
     {
       "name": "Christopher Barnett",
       "joined": "2019-05",
       "id": "chrisbarnettster",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/chrisbarnettster.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/chrisbarnettster/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/chrisbarnettster.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/chrisbarnettster/"
     },
     {
       "name": "Björn Grüning",
@@ -54,8 +54,8 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     }
   ],
   "short_id": "T00050",
@@ -108,11 +108,11 @@
     {
       "workflow": "analysis_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/computational-chemistry/tutorials/htmd-analysis/workflows/analysis_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/htmd-analysis/workflows/analysis_workflow.ga",
       "path": "topics/computational-chemistry/tutorials/htmd-analysis/workflows/analysis_workflow.ga",
       "wfid": "computational-chemistry-htmd-analysis",
       "wfname": "analysis_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/computational-chemistry-htmd-analysis/versions/analysis_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/computational-chemistry-htmd-analysis/versions/analysis_workflow",
       "license": null,
       "creators": [
 
@@ -122,11 +122,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/computational-chemistry/tutorials/htmd-analysis/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/htmd-analysis/workflows/main_workflow.ga",
       "path": "topics/computational-chemistry/tutorials/htmd-analysis/workflows/main_workflow.ga",
       "wfid": "computational-chemistry-htmd-analysis",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/computational-chemistry-htmd-analysis/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/computational-chemistry-htmd-analysis/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -134,7 +134,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/computational-chemistry/tutorials/htmd-analysis/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/htmd-analysis/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/get_pdb/get_pdb/0.1.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/openbabel_compound_convert/openbabel_compound_convert/2.4.2.2.0",

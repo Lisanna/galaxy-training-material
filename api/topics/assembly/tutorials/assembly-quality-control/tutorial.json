@@ -36,8 +36,8 @@
       "fediverse": "https://genomic.social/@abretaud",
       "fediverse_flavor": "mastodon",
       "id": "abretaud",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/abretaud.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/abretaud/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/abretaud.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/abretaud/"
     },
     {
       "name": "Alexandre Cormier",
@@ -46,8 +46,8 @@
       "orcid": "0000-0002-7775-8413",
       "joined": "2021-11",
       "id": "alexcorm",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/alexcorm.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/alexcorm/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/alexcorm.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/alexcorm/"
     },
     {
       "name": "Erwan Corre",
@@ -56,8 +56,8 @@
       "orcid": "0000-0001-6354-2278",
       "joined": "2019-04",
       "id": "r1corre",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/r1corre.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/r1corre/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/r1corre.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/r1corre/"
     },
     {
       "name": "Laura Leroi",
@@ -65,8 +65,8 @@
       "orcid": "0000-0003-3748-4179",
       "joined": "2021-11",
       "id": "lleroi",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/lleroi.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/lleroi/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/lleroi.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/lleroi/"
     },
     {
       "name": "Stéphanie Robin",
@@ -75,8 +75,8 @@
       "orcid": "0000-0001-7379-9173",
       "joined": "2021-11",
       "id": "stephanierobin",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/stephanierobin.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/stephanierobin/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/stephanierobin.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/stephanierobin/"
     }
   ],
   "follow_up_training": [
@@ -107,11 +107,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
       "path": "topics/assembly/tutorials/assembly-quality-control/workflows/main_workflow.ga",
       "wfid": "assembly-assembly-quality-control",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-assembly-quality-control/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-assembly-quality-control/versions/main_workflow",
       "license": "GPL-3.0-or-later",
       "creators": [
         {
@@ -143,7 +143,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/iuc/busco/busco/5.3.2+galaxy0",
     "toolshed.g2.bx.psu.edu/repos/iuc/chromeister/chromeister/1.5.a+galaxy1",

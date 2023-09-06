@@ -38,8 +38,8 @@
       "email": "kxk302@gmail.com",
       "joined": "2021-02",
       "id": "kxk302",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/kxk302.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/kxk302/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/kxk302.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/kxk302/"
     }
   ],
   "short_id": "T00258",
@@ -96,11 +96,11 @@
     {
       "workflow": "Intro_To_FNN.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/statistics/tutorials/FNN/workflows/Intro_To_FNN.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/statistics/tutorials/FNN/workflows/Intro_To_FNN.ga",
       "path": "topics/statistics/tutorials/FNN/workflows/Intro_To_FNN.ga",
       "wfid": "statistics-FNN",
       "wfname": "intro_to_fnn",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/statistics-FNN/versions/intro_to_fnn",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/statistics-FNN/versions/intro_to_fnn",
       "license": null,
       "creators": [
 
@@ -108,7 +108,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/statistics/tutorials/FNN/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/FNN/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_builder/keras_model_builder/0.5.0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/keras_model_config/keras_model_config/0.5.0",

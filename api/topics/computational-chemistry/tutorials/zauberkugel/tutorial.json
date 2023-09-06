@@ -25,16 +25,16 @@
       "twitter": "FMoumbock",
       "joined": "2022-02",
       "id": "aurelienmoumbock",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/aurelienmoumbock.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/aurelienmoumbock/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/aurelienmoumbock.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/aurelienmoumbock/"
     },
     {
       "name": "Simon Bray",
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
     }
   ],
   "short_id": "T00054",
@@ -56,11 +56,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/computational-chemistry/tutorials/zauberkugel/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/zauberkugel/workflows/main_workflow.ga",
       "path": "topics/computational-chemistry/tutorials/zauberkugel/workflows/main_workflow.ga",
       "wfid": "computational-chemistry-zauberkugel",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/computational-chemistry-zauberkugel/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/computational-chemistry-zauberkugel/versions/main_workflow",
       "license": "MIT",
       "creators": [
         {
@@ -77,7 +77,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/computational-chemistry/tutorials/zauberkugel/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/zauberkugel/tutorial.json",
   "tools": [
     "sort1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/align_it/ctb_alignit/1.0.4+galaxy0",

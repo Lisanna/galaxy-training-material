@@ -20,8 +20,8 @@
       "name": "Fabian Recktenwald",
       "joined": "2023-03",
       "id": "GitFab93",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/GitFab93.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/GitFab93/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/GitFab93.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/GitFab93/"
     },
     {
       "name": "Cristóbal Gallardo",
@@ -29,8 +29,8 @@
       "elixir_node": "de",
       "orcid": "0000-0002-5752-2155",
       "id": "gallardoalba",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/gallardoalba.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/gallardoalba/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/gallardoalba.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/gallardoalba/"
     }
   ],
   "short_id": "T00355",
@@ -52,11 +52,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
       "path": "topics/assembly/tutorials/ERGA-post-assembly-QC/workflows/main_workflow.ga",
       "wfid": "assembly-ERGA-post-assembly-QC",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-ERGA-post-assembly-QC/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-ERGA-post-assembly-QC/versions/main_workflow",
       "license": "AGPL-3.0-or-later",
       "creators": [
         {
@@ -68,7 +68,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",
   "tools": [
     "CONVERTER_gz_to_uncompressed",
     "__EXTRACT_DATASET__",

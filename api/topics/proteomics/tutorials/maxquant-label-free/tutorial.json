@@ -26,8 +26,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
     },
     {
       "name": "Matthias Fahrner",
@@ -36,8 +36,8 @@
       "orcid": "0000-0001-7955-2518",
       "joined": "2019-03",
       "id": "matthias313",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/matthias313.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/matthias313/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/matthias313.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/matthias313/"
     }
   ],
   "subtopic": "id-quant",
@@ -64,11 +64,11 @@
     {
       "workflow": "maxquant_label_free.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/proteomics/tutorials/maxquant-label-free/workflows/maxquant_label_free.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/proteomics/tutorials/maxquant-label-free/workflows/maxquant_label_free.ga",
       "path": "topics/proteomics/tutorials/maxquant-label-free/workflows/maxquant_label_free.ga",
       "wfid": "proteomics-maxquant-label-free",
       "wfname": "maxquant_label_free",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/proteomics-maxquant-label-free/versions/maxquant_label_free",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/proteomics-maxquant-label-free/versions/maxquant_label_free",
       "license": null,
       "creators": [
 
@@ -76,7 +76,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/proteomics/tutorials/maxquant-label-free/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-label-free/tutorial.json",
   "tools": [
     "Cut1",
     "Filter1",

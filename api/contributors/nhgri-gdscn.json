@@ -3,9 +3,9 @@
   "github": false,
   "joined": "2023-06",
   "avatar": "https://www.genome.gov/themes/custom/nhgri/assets/global/NHGRI-logo.svg",
-  "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nhgri-gdscn.json",
+  "url": "https://training.galaxyproject.org/training-material/api/contributors/nhgri-gdscn.json",
   "funder": true,
   "funding_id": "75N92022P00232",
   "id": "nhgri-gdscn",
-  "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nhgri-gdscn/"
+  "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nhgri-gdscn/"
 }

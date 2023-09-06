@@ -78,11 +78,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/ecology/tutorials/biodiversity-data-exploration/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/ecology/tutorials/biodiversity-data-exploration/workflows/main_workflow.ga",
       "path": "topics/ecology/tutorials/biodiversity-data-exploration/workflows/main_workflow.ga",
       "wfid": "ecology-biodiversity-data-exploration",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/ecology-biodiversity-data-exploration/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/ecology-biodiversity-data-exploration/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -90,7 +90,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/ecology/tutorials/biodiversity-data-exploration/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/biodiversity-data-exploration/tutorial.json",
   "tools": [
     "Remove beginning1",
     "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cut_tool/1.1.0",
@@ -207,15 +207,15 @@
       "joined": "2022-02",
       "elixir_node": "fr",
       "id": "onorvez",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/onorvez.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/onorvez/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/onorvez.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/onorvez/"
     },
     {
       "name": "Marie Josse",
       "joined": "2022-03",
       "id": "Marie59",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/Marie59.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/Marie59/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/Marie59.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/Marie59/"
     },
     {
       "name": "Coline Royaux",
@@ -225,8 +225,8 @@
       "joined": "2020-11",
       "elixir_node": "fr",
       "id": "colineroyaux",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/colineroyaux.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/colineroyaux/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/colineroyaux.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/colineroyaux/"
     },
     {
       "name": "Yvan Le Bras",
@@ -237,8 +237,8 @@
       "joined": "2017-09",
       "elixir_node": "fr",
       "id": "yvanlebras",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/yvanlebras.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/yvanlebras/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/yvanlebras.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/yvanlebras/"
     },
     {
       "name": "Erasmus+ Programme",
@@ -246,12 +246,12 @@
       "avatar": "https://www.erasmusplus.nl/assets/images/logo.png",
       "github": false,
       "funder": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/erasmusplus.json",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/erasmusplus.json",
       "funding_id": "2020-1-NL01-KA203-064717",
       "funding_system": "erasmusplus",
       "funding_statement": "This project (<a href=\"https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-NL01-KA203-064717\"><code class=\"language-plaintext highlighter-rouge\">2020-1-NL01-KA203-064717</code></a>) is funded with the support of the Erasmus+ programme of the European Union. Their funding has supported a large number of tutorials within the GTN across a wide array of topics.\n<img src=\"https://gallantries.github.io/assets/images/logosbeneficaireserasmusright_en.jpg\" alt=\"eu flag with the text: with the support of the erasmus programme of the european union\" />",
       "id": "erasmusplus",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/erasmusplus/"
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erasmusplus/"
     }
   ]
 }

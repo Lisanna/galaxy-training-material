@@ -24,8 +24,8 @@
       "joined": "2019-05",
       "elixir_node": "de",
       "id": "simonbray",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/simonbray.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/simonbray/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/simonbray.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/simonbray/"
     }
   ],
   "short_id": "T00048",
@@ -47,11 +47,11 @@
     {
       "workflow": "main_workflow.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/computational-chemistry/tutorials/cheminformatics/workflows/main_workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/computational-chemistry/tutorials/cheminformatics/workflows/main_workflow.ga",
       "path": "topics/computational-chemistry/tutorials/cheminformatics/workflows/main_workflow.ga",
       "wfid": "computational-chemistry-cheminformatics",
       "wfname": "main_workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/computational-chemistry-cheminformatics/versions/main_workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/computational-chemistry-cheminformatics/versions/main_workflow",
       "license": null,
       "creators": [
 
@@ -59,7 +59,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/computational-chemistry/tutorials/cheminformatics/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/cheminformatics/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/autodock_vina/docking/1.1.2+galaxy0",
     "toolshed.g2.bx.psu.edu/repos/bgruening/autodock_vina_prepare_box/prepare_box/2021.03.4+galaxy0",

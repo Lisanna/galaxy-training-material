@@ -42,8 +42,8 @@
         "lon": 4.462
       },
       "id": "shiltemann",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/shiltemann.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/shiltemann/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/shiltemann.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/shiltemann/"
     },
     {
       "name": "Nicola Soranzo",
@@ -53,8 +53,8 @@
       "joined": "2017-09",
       "elixir_node": "uk",
       "id": "nsoranzo",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nsoranzo.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nsoranzo/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nsoranzo.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nsoranzo/"
     },
     {
       "name": "Clemens Blank",
@@ -63,16 +63,16 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "blankclemens",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/blankclemens.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/blankclemens/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/blankclemens.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/blankclemens/"
     },
     {
       "name": "Anton Nekrutenko",
       "email": "anton@nekrut.org",
       "joined": "2017-09",
       "id": "nekrut",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/nekrut.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/nekrut/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/nekrut.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/nekrut/"
     },
     {
       "name": "Björn Grüning",
@@ -86,15 +86,15 @@
       "joined": "2017-09",
       "elixir_node": "de",
       "id": "bgruening",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/bgruening.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/bgruening/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
     },
     {
       "name": "Anne Pajon",
       "joined": "2017-09",
       "id": "pajanne",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/pajanne.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/pajanne/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/pajanne.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/pajanne/"
     },
     {
       "name": "Helena Rasche",
@@ -113,8 +113,8 @@
         "lon": 4.46
       },
       "id": "hexylena",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/hexylena.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/hexylena/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/hexylena.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/hexylena/"
     }
   ],
   "short_id": "T00186",
@@ -169,11 +169,11 @@
     {
       "workflow": "galaxy-intro-101-workflow.ga",
       "tests": true,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/introduction/tutorials/galaxy-intro-101/workflows/galaxy-intro-101-workflow.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/workflows/galaxy-intro-101-workflow.ga",
       "path": "topics/introduction/tutorials/galaxy-intro-101/workflows/galaxy-intro-101-workflow.ga",
       "wfid": "introduction-galaxy-intro-101",
       "wfname": "galaxy-intro-101-workflow",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-101/versions/galaxy-intro-101-workflow",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/introduction-galaxy-intro-101/versions/galaxy-intro-101-workflow",
       "license": "CC-BY-4.0",
       "creators": [
         {
@@ -1239,7 +1239,7 @@
       }
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/introduction/tutorials/galaxy-intro-101/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-101/tutorial.json",
   "tools": [
     "comp1",
     "sort1",

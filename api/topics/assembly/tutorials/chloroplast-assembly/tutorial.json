@@ -28,8 +28,8 @@
       "joined": "2017-09",
       "orcid": "0000-0002-9906-0673",
       "id": "annasyme",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/annasyme.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/annasyme/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/annasyme.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/annasyme/"
     }
   ],
   "short_id": "T00030",
@@ -81,11 +81,11 @@
     {
       "workflow": "Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
       "path": "topics/assembly/tutorials/chloroplast-assembly/workflows/Galaxy-Workflow-Chloroplast-genome-assembly-and-annotation.ga",
       "wfid": "assembly-chloroplast-assembly",
       "wfname": "galaxy-workflow-chloroplast-genome-assembly-and-annotation",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/assembly-chloroplast-assembly/versions/galaxy-workflow-chloroplast-genome-assembly-and-annotation",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/assembly-chloroplast-assembly/versions/galaxy-workflow-chloroplast-genome-assembly-and-annotation",
       "license": null,
       "creators": [
 
@@ -93,7 +93,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6",
     "toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6+galaxy0",

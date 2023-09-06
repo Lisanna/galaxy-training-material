@@ -41,8 +41,8 @@
       "joined": "2018-10",
       "elixir_node": "de",
       "id": "foellmelanie",
-      "url": "https://training.galaxyproject.org/galaxy-training-material/api/contributors/foellmelanie.json",
-      "page": "https://training.galaxyproject.org/galaxy-training-material/hall-of-fame/foellmelanie/"
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/foellmelanie.json",
+      "page": "https://training.galaxyproject.org/training-material/hall-of-fame/foellmelanie/"
     }
   ],
   "short_id": "T00199",
@@ -64,11 +64,11 @@
     {
       "workflow": "msi-finding-diff-analytes.ga",
       "tests": false,
-      "url": "https://training.galaxyproject.org/galaxy-training-material/topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
+      "url": "https://training.galaxyproject.org/training-material/topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
       "path": "topics/metabolomics/tutorials/msi-finding-nglycans/workflows/msi-finding-diff-analytes.ga",
       "wfid": "metabolomics-msi-finding-nglycans",
       "wfname": "msi-finding-diff-analytes",
-      "trs_endpoint": "https://training.galaxyproject.org/galaxy-training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-finding-nglycans/versions/msi-finding-diff-analytes",
+      "trs_endpoint": "https://training.galaxyproject.org/training-material/api/ga4gh/trs/v2/tools/metabolomics-msi-finding-nglycans/versions/msi-finding-diff-analytes",
       "license": null,
       "creators": [
 
@@ -76,7 +76,7 @@
       "test_results": null
     }
   ],
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
   "tools": [
     "Filter1",
     "Grep1",

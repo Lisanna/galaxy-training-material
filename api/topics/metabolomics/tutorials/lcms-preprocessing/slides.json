@@ -37,7 +37,7 @@
   },
   "hands_on": true,
   "slides": true,
-  "api": "https://training.galaxyproject.org/galaxy-training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
+  "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms-preprocessing/tutorial.json",
   "tools": [
     "toolshed.g2.bx.psu.edu/repos/lecorguille/camera_annotate/abims_CAMERA_annotateDiffreport/2.2.6+camera1.48.0-galaxy0",
     "toolshed.g2.bx.psu.edu/repos/lecorguille/msnbase_readmsdata/msnbase_readmsdata/2.16.1+galaxy0",
