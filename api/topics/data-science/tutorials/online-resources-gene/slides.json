@@ -197,5 +197,5 @@
       "page": "https://training.galaxyproject.org/training-material/hall-of-fame/biont/"
     }
   ],
-  "logo": "shared/images/BioNT_Logo.png"
+  "logo": "/shared/images/BioNT_Logo.png"
 }
